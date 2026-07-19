@@ -1,0 +1,57 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Karyomegalic Nephropathy",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Karyomegalic Nephropathy/Karyomegalic Nephropathy/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Karyomegalic Nephropathy/Karyomegalic Nephropathy/Fig_1.txt",
+        "description": "Figure 1. Karyomegalic nephropathy is characterized by focal marked enlargement of tubular epithelial cells with prominent nuclei and nucleoli. There is associated chronic interstitial nephritis (hematoxylin and eosin stain). Reproduced with permission from AJKD 38(3):e9.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Karyomegalic Nephropathy",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Karyomegalic Nephropathy/Karyomegalic Nephropathy/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Karyomegalic Nephropathy/Karyomegalic Nephropathy/Fig_2.txt",
+        "description": "Figure 2. Karyomegalic nephropathy with markedly enlarged tubular epithelial cells with prominent nuclei and nucleoli (hematoxylin and eosin stain). Reproduced with permission from AJKD 38(3):e9.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

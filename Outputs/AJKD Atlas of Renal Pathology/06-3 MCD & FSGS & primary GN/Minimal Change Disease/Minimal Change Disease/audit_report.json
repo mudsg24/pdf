@@ -1,0 +1,161 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Minimal Change Disease",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease/Fig_1.txt",
+        "description": "Figure 1. Preserved cortex with normal-appearing glomerulus. In this case, the tubules are distended with loss of brush border (periodic acid–Schiff stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Minimal Change Disease",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease/Fig_2.txt",
+        "description": "Figure 2. The glomerulus shows no proliferation, sclerosis, inﬂammation, or necrosis, and Bowman space is unremarkable. The capillary walls are delicate and of normal thickness (Jones silver stain). There are no deposits by immunoﬂuorescence (not shown). Reproduced with permission from AJKD 33(3):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Minimal Change Disease",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease/Fig_3.txt",
+        "description": "Figure 3. Diffuse effacement of foot processes of podocytes, with no immune complexes, normal mesangial cellularity and matrix, and normal thickness of the glomerular basement membrane (electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Minimal Change Disease",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease/Fig_4.txt",
+        "description": "Figure 4. The injury to the podocytes is evident, with cytoplasmic vacuoles and microvillous transformation (electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Minimal Change Disease",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease/Fig_5.txt",
+        "description": "Figure 5. The surface of the injured podocytes becomes rufﬂed, and cytoplasmic extrusions are seen, so-called microvillous transformation, in addition to the effacement of foot process with loss of slit diaphragms (electron microscopy). Reproduced with permission from AJKD 33(3):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Minimal Change Disease",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease/Fig_6.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease/Fig_6.txt",
+        "description": "Figure 6. In some patients with minimal change disease, there may be accompanying tubular injury, as seen here (periodic acid–Schiff stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

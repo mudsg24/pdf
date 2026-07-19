@@ -1,0 +1,83 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Acute Interstitial Nephritis",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Acute Interstitial Nephritis/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Acute Interstitial Nephritis/Fig_1.txt",
+        "description": "Figure 1. Acute interstitial nephritis with an interstitial lymphoplasmacytic inﬁltrate with associated rare lymphocytic tubulitis and mild interstitial edema (Jones stain). Reproduced with permission from AJKD 34(4):e14.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Acute Interstitial Nephritis",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Acute Interstitial Nephritis/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Acute Interstitial Nephritis/Fig_2.txt",
+        "description": "Figure 2. Acute interstitial nephritis with an interstitial lymphoplasmacytic inﬁltrate with eosinophils and associated interstitial edema (hematoxylin and eosin stain). Reproduced with permission from AJKD 34(4):e14.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Acute Interstitial Nephritis",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Acute Interstitial Nephritis/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Acute Interstitial Nephritis/Fig_3.txt",
+        "description": "Figure 3. Acute interstitial nephritis with an interstitial lymphoplasmacytic inﬁltrate, edema, and prominent eosinophilic component (left), and preexisting mild tubulointerstitial ﬁbrosis (right; hematoxylin and eosin stain). Reproduced with permission from AJKD 34(4):e14.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

@@ -1,0 +1,83 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Acute Tubular Necrosis",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Tubular/Acute Tubular Necrosis/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Tubular/Acute Tubular Necrosis/Fig_1.txt",
+        "description": "Figure 1. Acute tubular necrosis may be manifest only by regenerating flattened tubular epithelium without frank necrosis of individual tubular cells, as shown in some tubules to the right of the glomerulus, by bleebbing and individual cell degenration (top left), or by frank necrosis ( middle). There is minimal accompanying interstitial infiltrate (periodic acid Schiff stain, 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Acute Tubular Necrosis",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Tubular/Acute Tubular Necrosis/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Tubular/Acute Tubular Necrosis/Fig_2.txt",
+        "description": "Figure 2. There may also be degeneration and frank necrosis of individual cells or tubular segments in acute tubular necrosis, or flattened, regenerating type epithelium with degenerated cells in the lumen (middle left) (hematoxylin and eosin, 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Acute Tubular Necrosis",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Tubular/Acute Tubular Necrosis/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Tubular/Acute Tubular Necrosis/Fig_3.txt",
+        "description": "Figure 3. Acute tubular necrosis is manifest by vacuolated cells and sloughed, necrotic cells in tubular lumina, with some tubules lined by flattened epithelium and some showing frank necrosis (periodic acid Schiff stain, 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

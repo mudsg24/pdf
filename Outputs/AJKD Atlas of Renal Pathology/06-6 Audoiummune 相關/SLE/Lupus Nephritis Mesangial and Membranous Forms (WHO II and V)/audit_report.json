@@ -1,0 +1,239 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_1.txt",
+        "description": "Figure 1. Mesangial lupus nephritis (WHO Class IIb) shows mild mesangial expansion by light microscopy, without evidence of endocapillary proliferation. If mesangial immune complexes are present but no mesangial increase is detected by ligh microscopy, WHO Class IIa is diagnosed (PAS stain; origina magnification 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_2.txt",
+        "description": "Figure 2. Immunofluorescence shows mesangial staining in WHO Class IIb lupus nephritis, without peripheral capillary loop deposits (immunofluorescence with anti-IgM; original magnifica tion 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_3.txt",
+        "description": "Figure 3. Electron-dense mesangial deposits are present in mesangial lupus nephritis WHO Class IIb. There is paramesangial extension of a deposit in the upper left, indicating incipient progression to a proliferative form of lupus nephritis. Reticular aggregates are also present in endothelial cell cytoplasm (transmission electron microscopy; original magnification 38,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_4.txt",
+        "description": "Figure 4. Membranous lupus nephritis, with diffuse holes and small spikes visualized on the silver stain, along with mild mesangial expansion with small areas of pink staining in mesangial areas, indicative of mesangial deposits. Very mild endocapillary increase of cells is also present, and occasiona subendothelial deposits were present by electron microscopy, indicating a combination of lupus WHO Class V and very early proliferative changes. This may be classified as lupus WHO Class Vc, or if light microscopic changes warrant, combined WHO Class IV and V (Jones silver stain; original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_5.txt",
+        "description": "Figure 5. Combined proliferative and membranous lupus nephritis (WHO Class IV 1 V), evidenced by basement membrane splitting, small spikes and holes in tangential sections, and a smal area of parietal epithelial cell proliferation and basement membrane disruption, indicative of an early crescent formation (Jones silver stain; original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_6.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_6.txt",
+        "description": "Figure 6. Immunofluorescence in membranous lupus nephritis, WHO Class Vb, with diffuse granular capillary wall and mesangial positivity (immunofluorescence with anti-IgG; original magnification 3400)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_7.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_7.txt",
+        "description": "Figure 7. Diffuse subepithelial dense deposits and lesser mesangial deposits in this field in membranous lupus nephritis. Reticular aggregates are also present in endothelial cell cytoplasm in most cases of lupus nephritis (see Fig 9)(transmission electron micrograph; original magnification 38000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_8.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_8.txt",
+        "description": "Figure 8. Combined proliferative and membranous form of lupus nephritis, WHO Class IV and V, with massive subepithelial and intramembranous deposits, frequent mesangial and occasiona subendothelial deposits and endocapillary proliferation, distorting capillary loops (transmission electron microscopy; origina magnification 33,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_9.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-6 Audoiummune 相關/SLE/Lupus Nephritis Mesangial and Membranous Forms (WHO II and V)/Fig_9.txt",
+        "description": "Figure 9. Close-up of subepithelial deposits in lupus membranous glomerulonephritis, with well developed spike formation and early basement membrane formation overlying some deposits. This case was classified as WHO Class Vb (mesangial deposits not shown in this micrograph). Two endothelial cells with wel developed reticular aggregates are shown in the middle of the field (transmission electron micrograph; original magnification 310,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

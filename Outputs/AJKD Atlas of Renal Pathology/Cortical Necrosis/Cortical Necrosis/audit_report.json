@@ -1,0 +1,109 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Cortical Necrosis",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Cortical Necrosis/Cortical Necrosis/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Cortical Necrosis/Cortical Necrosis/Fig_1.txt",
+        "description": "Figure 1. Cortical necrosis with coagulative necrosis of a glomerulus and tubules (periodic acid–Schiff stain). Reproduced with permission from AJKD 41(1):e27.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cortical Necrosis",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Cortical Necrosis/Cortical Necrosis/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Cortical Necrosis/Cortical Necrosis/Fig_2.txt",
+        "description": "Figure 2. Cortical necrosis with tubular and glomerular necrosis. The tubular and glomerular basement membranes are still visible without viable nuclei (Jones silver stain). Reproduced with permission from AJKD 41(1):e27.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cortical Necrosis",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Cortical Necrosis/Cortical Necrosis/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Cortical Necrosis/Cortical Necrosis/Fig_3.txt",
+        "description": "Figure 3. Cortical necrosis with frank tubular necrosis with ghost-like outlines of cells without discernible nuclei, characteristic of coagulative necrosis (periodic acid–Schiff stain). Reproduced with permission from AJKD 41(1):e27.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cortical Necrosis",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Cortical Necrosis/Cortical Necrosis/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Cortical Necrosis/Cortical Necrosis/Fig_4.txt",
+        "description": "Figure 4. Cortical necrosis with frank tubular necrosis with ghost-like outlines of cells without discernible nuclei as well as pyknotic nuclei and karyorrhexis, characteristic of coagulative necrosis (periodic acid–Schiff stain). Reproduced with permission from AJKD 41(1):e27.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

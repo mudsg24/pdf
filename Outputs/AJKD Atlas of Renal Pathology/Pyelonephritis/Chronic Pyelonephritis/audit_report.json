@@ -1,0 +1,135 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Chronic Pyelonephritis",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Chronic Pyelonephritis/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Chronic Pyelonephritis/Fig_1.txt",
+        "description": "Figure 1. Chronic pyelonephritis with scarring in a geographic pattern (Jones silver stain). Reproduced with permission from AJKD 35(3):e7-e8.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Chronic Pyelonephritis",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Chronic Pyelonephritis/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Chronic Pyelonephritis/Fig_2.txt",
+        "description": "Figure 2. Chronic pyelonephritis with focal and segmental glo merulosclerosis with periglomerular fibrosis (Jones silver stain). Reproduced with permission from AJKD 35(3):e7-e8.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Chronic Pyelonephritis",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Chronic Pyelonephritis/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Chronic Pyelonephritis/Fig_3.txt",
+        "description": "Figure 3. Chronic pyelonephritis with foci of intratubular neutrophils and degenerated cells with disproportionate interstitial inﬂammation suggesting a subacute component (hematoxylin and eosin stain). Reproduced with permission from AJKD 35(3):e7-e8.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Chronic Pyelonephritis",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Chronic Pyelonephritis/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Chronic Pyelonephritis/Fig_4.txt",
+        "description": "Figure 4. Chronic pyelonephritis with geographic scarring and thyroidization of tubules (low [A] and high [B] power magniﬁcation; periodic acid–Schiff stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Chronic Pyelonephritis",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Chronic Pyelonephritis/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Chronic Pyelonephritis/Fig_5.txt",
+        "description": "Figure 5. Chronic pyelonephritis with no immune complex deposits and limited foot process effacement, a feature distinguishing secondary segmental sclerosis from a primary focal segmental glomerulosclerosis (electron microscopy). Reproduced with permission from AJKD 35(3):e7-e8.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

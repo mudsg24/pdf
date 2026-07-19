@@ -1,0 +1,135 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Crystalglobulin-Induced Nephropathy",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Crystalglobulin-Induced Nephropathy/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Crystalglobulin-Induced Nephropathy/Fig_1.txt",
+        "description": "Figure 1. Large bright eosinophilic crystals within glomerular capillaries (arrow, Jones silver stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Crystalglobulin-Induced Nephropathy",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Crystalglobulin-Induced Nephropathy/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Crystalglobulin-Induced Nephropathy/Fig_3.txt",
+        "description": "Figure 3. Crystals within peritubular capillary lumen stain for (A) IgG and (B) kappa (immunoﬂuorescence microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Crystalglobulin-Induced Nephropathy",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Crystalglobulin-Induced Nephropathy/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Crystalglobulin-Induced Nephropathy/Fig_2.txt",
+        "description": "Figure 2. Large bright eosinophilic crystals within peritubular capillary lumen (arrow, Jones silver stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Crystalglobulin-Induced Nephropathy",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Crystalglobulin-Induced Nephropathy/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Crystalglobulin-Induced Nephropathy/Fig_4.txt",
+        "description": "Figure 4. Large rhomboidal and rectangular intraglomerular capillary electron-dense crystals with sharp edges (transmission electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Crystalglobulin-Induced Nephropathy",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Crystalglobulin-Induced Nephropathy/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Crystalglobulin-Induced Nephropathy/Fig_5.txt",
+        "description": "Figure 5. The sharp-edged crystals exhibit a substructure char acterized by parallel linear arrays (arrow, transmission electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

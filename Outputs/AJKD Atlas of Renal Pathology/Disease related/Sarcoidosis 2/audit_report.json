@@ -1,0 +1,57 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Sarcoidosis 2",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Sarcoidosis 2/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Sarcoidosis 2/Fig_1.txt",
+        "description": "Figure 1. Renal sarcoidosis is manifest by multiple sharply delineated non-necrotizing granulomas with frequent epithelioidtype multinucleated giant cells with accompanying interstitia fibrosis and lymphoplasmacytic interstitial infiltrate, as illustrated here. (Jones’ Silver Stain, original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Sarcoidosis 2",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Sarcoidosis 2/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Sarcoidosis 2/Fig_2.txt",
+        "description": "Fig 2. The well delineated non-necrotizing granulomas typical of sarcoidosis are illustrated here, with adjacent tubulointerstitial ﬁbrosis. Giant cells are evident. (Jones Silver Stain, original magniﬁcation 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

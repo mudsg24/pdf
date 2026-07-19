@@ -1,0 +1,109 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Fabry Nephropathy",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Fabry Nephropathy/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Fabry Nephropathy/Fig_1.txt",
+        "description": "Figure 1. Fabry nephropathy with prominent vacuolization of podocytes (hematoxylin and eosin stain). Reproduced with permission from AJKD 37(4):e25.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Fabry Nephropathy",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Fabry Nephropathy/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Fabry Nephropathy/Fig_2.txt",
+        "description": "Figure 2. Fabry nephropathy with darkly stained round inclusions in podocytes (red arrow), mesangial cells (yellow arrow), and endothelial cells (white arrow) in a glomerulus. There is an arteriole with Fabry inclusions in smooth muscle cells (asterisk; toluidine blue stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Fabry Nephropathy",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Fabry Nephropathy/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Fabry Nephropathy/Fig_4.txt",
+        "description": "Figure 4. Fabry nephropathy with typical Fabry glycosphingo lipid inclusions shaped as multilamellated myelin figures (red arrow) and zebra bodies (yellow arrows) in podocytes. There are also smaller inclusions in endothelial cells (black arrow) and mesangial cells (white arrow; electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Fabry Nephropathy",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Fabry Nephropathy/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Fabry Nephropathy/Fig_3.txt",
+        "description": "Figure 3. Fabry nephropathy with deposition of hyaline-like material in the media of an interlobular artery (arrows), consistent with Fabry arteriopathy (periodic acid–Schiff stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

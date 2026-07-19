@@ -1,0 +1,135 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Chronic Transplant Glomerulopathy",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Transplant Glomerulopathy/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Transplant Glomerulopathy/Fig_1.txt",
+        "description": "Figure 1. Chronic transplant glomerulopathy may manifest as focal and segmental glomerulosclerosis, as illustrated here. It frequently occurs on a background of chronic transplant nephropathy and findings of chronic rejection, evidenced by interstitial fibrosis and vascular intimal fibrosis. (Periodic Acid-Schiff, original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Chronic Transplant Glomerulopathy",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Transplant Glomerulopathy/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Transplant Glomerulopathy/Fig_2.txt",
+        "description": "Figure 2. Chronic transplant glomerulopathy is manifest by ligh microscopy by extensive glomerular basement membrane splitting. Typically, there is less endocapillary proliferation than in an immune complex mediated membranoproliferative glomerulonephritis, which can easily be excluded by lack of immune complexes by immunofluorescence and electron microscopy. (Jones’ Silver Stain, original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Chronic Transplant Glomerulopathy",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Transplant Glomerulopathy/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Transplant Glomerulopathy/Fig_3.txt",
+        "description": "Figure 3. In chronic transplant glomerulopathy, there may be segmental sclerosis and even hyalinosis in addition to glomerular basement membrane splitting. (Jones’ Silver Stain, origina magnification 31,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Chronic Transplant Glomerulopathy",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Transplant Glomerulopathy/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Transplant Glomerulopathy/Fig_4.txt",
+        "description": "Figure 4. Glomerular basement membrane splitting with so-called “mesangial” interposition is illustrated in this case of chronic transplant glomerulopathy. Some of the interposed cells are actually macrophages by immunophenotyping. (Jones’ Silver Stain, original magnification 31,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Chronic Transplant Glomerulopathy",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Transplant Glomerulopathy/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Transplant Glomerulopathy/Fig_5.txt",
+        "description": "Figure 5. Chronic transplant glomerulopathy is thought to be due to chronic endothelial injury with resulting increased lucency o the lamina rara interna and occasional interposition, withou any immune complexes, as shown in this electron micrograph. (Transmission electron microscopy, original magnification 33,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

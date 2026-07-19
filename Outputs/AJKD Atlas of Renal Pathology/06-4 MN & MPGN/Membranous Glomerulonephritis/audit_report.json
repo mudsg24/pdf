@@ -1,0 +1,343 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_1.txt",
+        "description": "Figure 1. Intact cortex with apparently normal glomeruli on low po wer in early membranous glomerulonephritis (Jones’ silver stain, original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_4A",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_4A.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_4A.txt",
+        "description": "Figure 4A. High-power oil-immersion view of the markedly thickened capillary wall in (A) stage II-III and (B) stage III membranous glomerulonephritis. Well-developed spikes of basemen membrane silver-staining material protrude from the basemen membrane. In tangential sections, holes are seen, indicating the presence of the silver-negative deposits. In stage III, some of the deposits are completely surrounded by basement membrane, and the basement membrane appears split in these areas (Jones’ silver stain, original magnification 31,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_4B",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_4B.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_4B.txt",
+        "description": "Figure 4B. High-power oil-immersion view of the markedly thickened capillary wall in (A) stage II-III and (B) stage III membranous glomerulonephritis. Well-developed spikes of basemen membrane silver-staining material protrude from the basemen membrane. In tangential sections, holes are seen, indicating the presence of the silver-negative deposits. In stage III, some of the deposits are completely surrounded by basement mem brane, and the basement membrane appears split in these areas (Jones’ silver stain, original magnification 31,000)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_6.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_6.txt",
+        "description": "Figure 6. Diffuse finely granular capillary wall IgG deposits in stage I membranous glomerulonephritis (immunofluorescenc with anti-IgG, original magnification 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_8.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_8.txt",
+        "description": "Figure 8. Capillary loops with diffuse, granular capillary wall IgG deposits in stage II-III membranous glomerulonephritis (immuno fluorescence with anti-IgG, original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_9.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_9.txt",
+        "description": "Figure 9. Small subepithelial dense deposits in early stage I membranous glomerulonephritis. There is no surrounding basemen membrane reaction. Foot processes are extensively effaced (transmission electron microscopy, original magnification 310,500).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_10",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_10.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_10.txt",
+        "description": "Figure 10. Medium-sized dense deposits on the epithelial side of the basement membrane (subepithelial) with occasiona early basement membrane reaction, late stage I membranous glomerulonephritis (transmission electron microscopy, origina magnification 310,200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 4
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_11",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_11.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_11.txt",
+        "description": "Figure 11. Stage II membranous glomerulonephritis with many subepithelial electron dense deposits along the capillary loops. Foot processes are effaced. There is basement membrane– like material around the sides of the deposits, which gives rise to the “spike” appearance on Jones’ silver stain (see Fig 4) (transmission electron microscopy, original magnification 31,650).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 4
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_12",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_12.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_12.txt",
+        "description": "Figure 12. Stage II-III membranous glomerulonephritis with thickened capillary wall resulting from numerous medium to large subepithelial dense deposits and basement membrane reaction. Basement membrane–like material surrounds some of the deposits, a feature of stage III membranous glomerulonephritis, whereas most of the deposits still only have basement membrane reaction around the side (stage II lesion)(transmission electron microscopy, original magnification 31,650).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 4
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_13",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_13.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_13.txt",
+        "description": "Figure 13. Stage II membranous glomerulonephritis with mediumsized subepithelial dense deposits and basement membrane reaction around the sides of the deposits, which gives rise to the “spike” appearance on Jones’ silver stain (see Fig 4). Epithelia cells show effaced foot processes. The endothelial cells show normal fenestrae (transmission electron microscopy, origina magnification 31,650).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 5
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_14",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_14.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_14.txt",
+        "description": "Figure 14. Stage III membranous glomerulonephritis with medium-sized subepithelial dense deposits and basement membrane reaction surrounding most of the deposits. In the center, a lucent area partially replaces a deposit that is being resorbed. Bowman’s capsule and the parietal epithelium is on the far right. (transmission electron microscopy, original magnification 311,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 5
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_15",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_15.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_15.txt",
+        "description": "Figure 15. Stage III-IV membranous glomerulonephritis with mostly rarefied deposits or lucent areas instead of dense deposits, with surrounding and overlying basement membrane reaction. A few small, dense deposits immediately under the epithelium overlying the lucent areas surrounded by basement membrane reaction are present, indicating ongoing, new deposi formation (transmission electron microscopy, original magnification 37,200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 5
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranous Glomerulonephritis",
+      "asset_id": "Fig_16",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_16.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranous Glomerulonephritis/Fig_16.txt",
+        "description": "Figure 16. Secondary membranous glomerulonephritis with numerous subepithelial deposits (stage II) and mesangial deposits. In this case, the likely underlying etiology was hepatitis B infection (see Fig 5 above) (transmission electron microscopy, original magnification 31,650).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 6
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

@@ -1,0 +1,135 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits/Fig_1.txt",
+        "description": "Figure 1. Proliferative glomerulonephritis with monoclonal immunoglobulin deposits with global endocapillary hypercellularity, and glomerular basement membrane contour duplication (periodic acid–Schiff stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits/Fig_2.txt",
+        "description": "Figure 2. Proliferative glomerulonephritis with monoclonal immunoglobulin deposits with granular to chunky mesangial and capillary loop staining for IgG (immunoﬂuorescence, IgG).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits/Fig_3.txt",
+        "description": "Figure 3. (A-D) Proliferative glomerulonephritis with monoclonal immunoglobulin deposits with mesangial and capillary loop staining for immunoglobulin G3 only (immunoﬂuorescence; same ﬁelds stained for immunoglobulin G subclasses).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits/Fig_4.txt",
+        "description": "Figure 4. (A-B) Proliferative glomerulonephritis with monoclonal immunoglobulin deposits with mesangial and capillary loop staining for k only (immunoﬂuorescence; same ﬁeld stained for k and l light chains).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits/Fig_5.txt",
+        "description": "Figure 5. Proliferative glomerulonephritis with monoclonal immunoglobulin deposits with mesangial and subendothelial deposits (electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

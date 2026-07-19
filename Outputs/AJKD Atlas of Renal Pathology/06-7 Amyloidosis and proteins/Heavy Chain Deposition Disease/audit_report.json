@@ -1,0 +1,109 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Heavy Chain Deposition Disease",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Heavy Chain Deposition Disease/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Heavy Chain Deposition Disease/Fig_1.txt",
+        "description": "Figure 1. Heavy chain deposition disease with nodular sclerosis and glomerular basement membrane double contours (Jones stain). Case shared by Dr Paisit Paueksakon, Vanderbilt University.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Heavy Chain Deposition Disease",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Heavy Chain Deposition Disease/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Heavy Chain Deposition Disease/Fig_2.txt",
+        "description": "Figure 2. Heavy chain deposition disease with immunoglobulin G3 pseudolinear staining along glomerular and tubular basement membranes (immunoﬂuorescence, IgG3). Case shared by Dr Paisit Paueksakon, Vanderbilt University.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Heavy Chain Deposition Disease",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Heavy Chain Deposition Disease/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Heavy Chain Deposition Disease/Fig_3.txt",
+        "description": "Figure 3. Heavy chain deposition disease with powdery to ground pepper–like deposits along glomerular basement membranes (electron microscopy). Case shared by Dr Paisit Paueksakon, Vanderbilt University.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Heavy Chain Deposition Disease",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Heavy Chain Deposition Disease/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Heavy Chain Deposition Disease/Fig_4.txt",
+        "description": "Figure 4. Heavy chain deposition disease with powdery to ground pepper–like deposits along tubular basement membranes (electron microscopy). Case shared by Dr Paisit Paueksakon, Vanderbilt University.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

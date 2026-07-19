@@ -1,0 +1,161 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Arterionephrosclerosis",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Arterionephrosclerosis/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Arterionephrosclerosis/Fig_1.txt",
+        "description": "Figure 1. Arterionephrosclerosis with medial thickening of medium-sized arteries with global glomerulosclerosis with solidiﬁed glomeruli. There is proportional tubulointerstitial ﬁbrosis (periodic acid–Schiff stain). Reproduced with permission from AJKD 33(6):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Arterionephrosclerosis",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Arterionephrosclerosis/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Arterionephrosclerosis/Fig_2.txt",
+        "description": "Figure 2. Arterionephrosclerosis with hyalinosis of arterioles and interlobular arteries along with medial thickening caused by both hypertrophy and hyperplasia of vascular smooth muscle cells (periodic acid–Schiff stain). Reproduced with permission from AJKD 33(6):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Arterionephrosclerosis",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Arterionephrosclerosis/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Arterionephrosclerosis/Fig_3.txt",
+        "description": "Figure 3. Arterionephrosclerosis with intimal ﬁbrosis along with medial thickening in this artery (periodic acid–Schiff stain). Reproduced with permission from AJKD 33(6):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Arterionephrosclerosis",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Arterionephrosclerosis/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Arterionephrosclerosis/Fig_4.txt",
+        "description": "Figure 4. Malignant hypertension with underlying changes seen in arterionephrosclerosis (medial thickening and intimal ﬁbrosis), with superimposed ﬁbrinoid necrosis of this interlobular artery vessel wall. The glomeruli show only ischemic changes (Jones silver stain). Reproduced with permission from AJKD 34(1):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Arterionephrosclerosis",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Arterionephrosclerosis/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Arterionephrosclerosis/Fig_5.txt",
+        "description": "Figure 5. Malignant hypertension with ﬁbrinoid necrosis of an interlobular artery vessel wall with activated endothelial cells and inﬂammatory cells. Also, there is medial thickening of the vessel wall indicative of underlying arterionephrosclerosis (Jones silver stain). Reproduced with permission from AJKD 34(1):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Arterionephrosclerosis",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Arterionephrosclerosis/Fig_6.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Arterionephrosclerosis/Fig_6.txt",
+        "description": "Figure 6. Malignant hypertension with extensive corrugation of the glomerular basement membrane and expanded lamina rara interna (electron microscopy). Reproduced with permission from AJKD 34(1):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

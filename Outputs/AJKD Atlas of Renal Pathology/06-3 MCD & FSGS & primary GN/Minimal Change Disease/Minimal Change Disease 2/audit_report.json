@@ -1,0 +1,57 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Minimal Change Disease 2",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease 2/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease 2/Fig_1.txt",
+        "description": "Fig 1. Glomeruli are normal by light microscopy in minimal change disease, as shown in this biopsy. The glomerular basement membrane is thin and delicate, and mesangial cellularity and matrix are within normal limits. There was no interstitial ﬁbrosis and no segmental sclerosis in any of the glomeruli sampled. However, the possibility of unsampled focal segmental glomerulosclerosis (FSGS) cannot be completely excluded when only a small number of glomeruli (less than 250) are examined. (Jones’ silver stain, 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Minimal Change Disease 2",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease 2/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/Minimal Change Disease/Minimal Change Disease 2/Fig_2.txt",
+        "description": "Figure 2. The glomerular basement membrane is of normal thick ness without deposits in this case of minimal change disease. The visceral epithelial cells show diffuse effacement of foot processes. An area of microvillous transformation is also present, representing the irregular epithelial-cell surface that occurs in proteinuric states. Foot-process effacement is generally quite extensive in minimal change disease, although the degree of foot-process effacement cannot be used to definitively distinguish minimal change disease from unsampled FSGS. (Transmission electron microscopy, 3800).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

@@ -1,0 +1,109 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Polyomavirus Nephropathy",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Polyomavirus/Polyomavirus Nephropathy/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Polyomavirus/Polyomavirus Nephropathy/Fig_1.txt",
+        "description": "Figure 1. Polyomavirus nephropathy with characteristic viral inclusions and viral pleomorphic interstitial inﬁltrate composed of lymphocytes, plasma cells, and occasional neutrophils (periodic acid–Schiff stain). Reproduced with permission from AJKD 37(1):e1-e2.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Polyomavirus Nephropathy",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Polyomavirus/Polyomavirus Nephropathy/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Polyomavirus/Polyomavirus Nephropathy/Fig_3.txt",
+        "description": "Figure 3. Polyomavirus nephropathy with cleared viral nuclear inclusions in tubular epithelial cells (Jones silver stain). Reproduced with permission from AJKD 37(1):e1-e2.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Polyomavirus Nephropathy",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Polyomavirus/Polyomavirus Nephropathy/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Polyomavirus/Polyomavirus Nephropathy/Fig_2.txt",
+        "description": "Figure 2. Polyomavirus nephropathy with characteristic viral cytopathic changes, with enlarged basophilic, smudgy viral nuclear inclusions in tubular epithelium (Jones silver stain). Reproduced with permission from AJKD 37(1):e1-e2.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Polyomavirus Nephropathy",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Polyomavirus/Polyomavirus Nephropathy/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Polyomavirus/Polyomavirus Nephropathy/Fig_4.txt",
+        "description": "Figure 4. Polyomavirus nephropathy with positive staining for enlarged nuclear inclusion (SV40 immunostain). Reproduced with permission from AJKD 37(1):e1-e2.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

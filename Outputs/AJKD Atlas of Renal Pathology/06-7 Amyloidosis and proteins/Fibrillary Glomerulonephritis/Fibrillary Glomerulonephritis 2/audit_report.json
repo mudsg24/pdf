@@ -1,0 +1,135 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Fibrillary Glomerulonephritis 2",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Fibrillary Glomerulonephritis/Fibrillary Glomerulonephritis 2/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Fibrillary Glomerulonephritis/Fibrillary Glomerulonephritis 2/Fig_1.txt",
+        "description": "Figure 1. Fibrillary glomerulonephritis has varying appearances by light microscopy, with mild to extensive mesangial proliferative and membranoproliferative appearance being the most common. In this case, there was a distinct membranoproliferative and even nodular appearance (Jones silver stain; original magnification 3100)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Fibrillary Glomerulonephritis 2",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Fibrillary Glomerulonephritis/Fibrillary Glomerulonephritis 2/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Fibrillary Glomerulonephritis/Fibrillary Glomerulonephritis 2/Fig_2.txt",
+        "description": "Figure 2. Fibrillary glomerulonephritis may have varying degrees of mesangial proliferation or membranoproliferative pattern by light microscopy. In this case, there was moderate mesangia proliferation and occasional basement membrane splitting. Additional studies confirmed the diagnosis of fibrillary glomerulonephritis with typical electron microscopy appearance, negative Congo red stain, and IgG staining by immunofluorescence (Jones silver stain; original magnification 3400). See other figures.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Fibrillary Glomerulonephritis 2",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Fibrillary Glomerulonephritis/Fibrillary Glomerulonephritis 2/Fig_6.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Fibrillary Glomerulonephritis/Fibrillary Glomerulonephritis 2/Fig_6.txt",
+        "description": "Fig 6. Higher power shows randomly oriented ﬁbrils in the mesangium and glomerular basement membrane in ﬁbrillary glomerulonephritis. These ﬁbrils tend to be slightly larger than those in amyloid, although there is some overlap so that ﬁbril size alone cannot be used to deﬁnitively distinguish this from amyloid. A negative Congo red stain should be done to rule out amyloid deposits (transmission electron microscopy; original magniﬁcation 351,250).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Fibrillary Glomerulonephritis 2",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Fibrillary Glomerulonephritis/Fibrillary Glomerulonephritis 2/Fig_7.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Fibrillary Glomerulonephritis/Fibrillary Glomerulonephritis 2/Fig_7.txt",
+        "description": "Figure 7. Distinct subepithelial localization of fibrillary deposits in a case of fibrillary glomerulonephritis. In this case, immunofluorescence and light microscopic studies gave the impression of a membranous glomerulonephritis, illustrating the utility and need for electron microscopy to definitively evaluate renal biopsies. The fibrils are randomly oriented and somewhat larger than in amyloid, 12 to 15 nm, although there is some overlap so that size alone cannot be used to definitively distinguish this from amyloid deposits (transmission electron microscopy; origina magnification 362,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Fibrillary Glomerulonephritis 2",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Fibrillary Glomerulonephritis/Fibrillary Glomerulonephritis 2/Fig_8.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Fibrillary Glomerulonephritis/Fibrillary Glomerulonephritis 2/Fig_8.txt",
+        "description": "Figure 8. High-power view of fibrils in fibrillary glomerulonephritis, illustrating slightly coarser diameter than in amyloid. The fibrils are randomly arranged in the loose background. A negative Congo red stain is necessary to definitively rule out amyloid deposits, although fibrillary glomerulonephritis can be suspected from the characteristic immunofluorescence microscopy and the slightly larger fibril size (transmission electron microscopy; orig inal magnification 398,000). See other figures.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

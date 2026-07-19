@@ -1,0 +1,161 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Focal Segmental Glomerulosclerosis",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Focal Segmental Glomerulosclerosis/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Focal Segmental Glomerulosclerosis/Fig_1.txt",
+        "description": "Figure 1. Two small peripheral foci of segmental sclerosis with intracapillary foam cells and prominence of overlying visceral epithelial cells (right glomerulus), with normal left glomerulus by light microscopy, representative of an early segmental sclerosing lesion in focal segmental glomerulosclerosis, not otherwise speciﬁed variant (Jones silver stain). Reproduced with permission from AJKD 33(4):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Focal Segmental Glomerulosclerosis",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Focal Segmental Glomerulosclerosis/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Focal Segmental Glomerulosclerosis/Fig_2.txt",
+        "description": "Figure 2. More advanced lesions of focal segmental glomerulosclerosis, not otherwise speciﬁed (NOS) variant. The central glomerulus shows global sclerosis; the right glomerulus shows peripheral segmental sclerosis, NOS; and the left glomerulus shows no lesion by light microscopy. There is moderate interstitial ﬁbrosis and tubular atrophy (Jones silver stain). Reproduced with permission from AJKD 33(4):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Focal Segmental Glomerulosclerosis",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Focal Segmental Glomerulosclerosis/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Focal Segmental Glomerulosclerosis/Fig_3.txt",
+        "description": "Figure 3. This segmental sclerotic lesion is composed of obliteration of capillary lumens by increased matrix with overlying activated hypertrophic, but not proliferating, visceral epithelial cells, diagnostic of focal segmental glomerulosclerosis, not otherwise speciﬁed variant. The remaining left portion of the glomerular tuft appears unremarkable (Jones silver stain). Reproduced with permission from AJKD 33(4):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Focal Segmental Glomerulosclerosis",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Focal Segmental Glomerulosclerosis/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Focal Segmental Glomerulosclerosis/Fig_5.txt",
+        "description": "Figure 5. Immunoglobulin M (IgM) or C3 staining in mesangial areas in focal segmental glomerulosclerosis, not otherwise speciﬁed variant. This may also occur in areas of hyalinosis. Although these may be associated with small areas of electron density by electron microscopy (not shown), immune complex densities are not typically found (immunoﬂuorescence microscopy, IgM). Reproduced with permission from AJKD 33(4):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Focal Segmental Glomerulosclerosis",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Focal Segmental Glomerulosclerosis/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Focal Segmental Glomerulosclerosis/Fig_4.txt",
+        "description": "Figure 4. Hyalinosis and segmental sclerosis in focal segmental glomerulosclerosis, not otherwise speciﬁed variant. Hyaline is deﬁned as smooth glassy-appearing material, resulting from insudation of plasma proteins (Jones silver stain). Reproduced with permission from AJKD 33(4):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Focal Segmental Glomerulosclerosis",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Focal Segmental Glomerulosclerosis/Fig_6.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Focal Segmental Glomerulosclerosis/Fig_6.txt",
+        "description": "Figure 6. The mesangial matrix is mildly increased, endothelial cells are unremarkable, and podocytes show extensive blunting and effacement of foot processes with early microvillous transformation. There are no immune complex deposits (electron microscopy). Reproduced with permission from AJKD 33(4):e1. -",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

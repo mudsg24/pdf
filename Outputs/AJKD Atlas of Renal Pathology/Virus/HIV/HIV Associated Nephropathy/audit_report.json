@@ -1,0 +1,83 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "HIV Associated Nephropathy",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/HIV/HIV Associated Nephropathy/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/HIV/HIV Associated Nephropathy/Fig_1.txt",
+        "description": "Figure 1. The most common lesion in patients with HIV infectionrelated renal disease is so-called HIV associated nephropathy (HIVAN). This manifests as glomerulosclerosis in a focal and segmental pattern with collapse of the glomerular tufts and disproportionate cystic changes of the tubules, as illustrated in this autopsy case. Tubules are filled with proteinaceous material, and Bowman’s capsule also appears enlarged in part due to the small retracted, collapsed glomeruli. (Jones’ silver stain, origina magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "HIV Associated Nephropathy",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/HIV/HIV Associated Nephropathy/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/HIV/HIV Associated Nephropathy/Fig_2.txt",
+        "description": "Figure 2. The collapsing glomerular appearance in HIVAN is due to retraction of each of the individual lobules of the glomerulus, with a corrugated wrinkled appearance of the glomerular basement membrane, frequently with overlying visceral epithelia cell hyperplasia. In this case, in addition to overlying increased visceral epithelial cells, there are also numerous protein droplets in Bowman’s space. (Jones’ silver stain, original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "HIV Associated Nephropathy",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/HIV/HIV Associated Nephropathy/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/HIV/HIV Associated Nephropathy/Fig_3.txt",
+        "description": "Figure 3. Both idiopathic collapsing glomerulopathy and HIVAN share similar light microscopic appearances. However, only in HIVAN is there a frequent increase in reticular aggregates in endothelial cell cytoplasm, as shown in this case. (Transmission electron microscopy, original magnification 320,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

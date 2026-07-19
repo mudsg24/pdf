@@ -1,0 +1,83 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Toxic Acute Tubular Injury",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Tubular/Toxic Acute Tubular Injury/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Tubular/Toxic Acute Tubular Injury/Fig_1.txt",
+        "description": "Figure 1. Toxic acute tubular injury with regenerating ﬂattened epithelial cells (right of the glomerulus), blebbing and degeneration of epithelial cells (top left), and frank necrosis of epithelial cells (middle; periodic acid–Schiff stain). Reproduced with permission from AJKD 41(1):e25.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Toxic Acute Tubular Injury",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Tubular/Toxic Acute Tubular Injury/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Tubular/Toxic Acute Tubular Injury/Fig_2.txt",
+        "description": "Figure 2. Toxic acute tubular injury with degeneration and frank necrosis of individual or segments of epithelial cells. There are tubules with ﬂattened, regenerating-type epithelial cells with degenerated epithelial cells in the tubular lumen (middle left; hematoxylin and eosin stain). Reproduced with permission from AJKD 41(1):e25.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Toxic Acute Tubular Injury",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Tubular/Toxic Acute Tubular Injury/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Tubular/Toxic Acute Tubular Injury/Fig_3.txt",
+        "description": "Figure 3. Toxic acute tubular injury with vacuolated intact epithelial cells and sloughed, necrotic epithelial cells in some tubular lumina. Other tubules have ﬂattened epithelial cells and some show frank necrosis (periodic acid–Schiff stain). Reproduced with permission from AJKD 41(1):e25.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

@@ -1,0 +1,57 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Indinavir Nephropathy",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Drug related/Indinavir Nephropathy/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Drug related/Indinavir Nephropathy/Fig_1.txt",
+        "description": "Figure 1. Indinavir may cause a tubulointerstitial nephritis. In this case, there is chronic tubulointerstitial nephritis with interstitia fibrosis and marked lymphoplasmacytic infiltrate. (Masson’s trichrome, original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Indinavir Nephropathy",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Drug related/Indinavir Nephropathy/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Drug related/Indinavir Nephropathy/Fig_2.txt",
+        "description": "Figure 2. Indinavir nephropathy is caused by intratubular precipitation of indinavir crystals with histiocytic reaction and sloughed degenerated tubular epithelial cells, as shown here. (Masson’s trichrome, original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

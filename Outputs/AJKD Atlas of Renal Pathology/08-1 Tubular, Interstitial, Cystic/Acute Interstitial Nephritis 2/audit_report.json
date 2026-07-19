@@ -1,0 +1,57 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Acute Interstitial Nephritis 2",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Acute Interstitial Nephritis 2/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Acute Interstitial Nephritis 2/Fig_1.txt",
+        "description": "Figure 1. In acute interstitial nephritis, there is edema associated with an interstitial lymphoplasmocytic infiltrate. There are numerous causes for acute interstitial nephritis, including toxins, infections (especially viral), and most commonly in renal biopsy practice, drug-induced hypersensitivity reactions. The glomerul are uninvolved, unless there is an associated minimal change disease-type injury, most often seen with drug-induced acute interstitial nephritis caused by nonsteroidal antiinflammatory drugs. (Jones’ silver stain, original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Acute Interstitial Nephritis 2",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Acute Interstitial Nephritis 2/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/08-1 Tubular, Interstitial, Cystic/Acute Interstitial Nephritis 2/Fig_2.txt",
+        "description": "Figure 2. Eosinophils are frequently prominent in cases of acute interstitial nephritis because of drug-induced hypersensitivity reactions. Eosinophils are recognizable by the brightly eosinophilic granular cytoplasm on hematoxylin and eosin stains, and their bilobed nuclei. There is also associated interstitial edema. (Hematoxylin and eosin, original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

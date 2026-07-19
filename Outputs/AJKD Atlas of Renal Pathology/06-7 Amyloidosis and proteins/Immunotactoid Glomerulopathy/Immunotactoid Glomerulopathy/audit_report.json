@@ -1,0 +1,109 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Immunotactoid Glomerulopathy",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Immunotactoid Glomerulopathy/Immunotactoid Glomerulopathy/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Immunotactoid Glomerulopathy/Immunotactoid Glomerulopathy/Fig_1.txt",
+        "description": "Figure 1. Immunotactoid glomerulopathy showing membranoproliferative pattern with widespread glomerular basement membrane splitting and mesangial matrix expansion, and an adhesion to Bowman capsule (Jones silver stain). Reproduced with permission from AJKD 41(1):e23.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Immunotactoid Glomerulopathy",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Immunotactoid Glomerulopathy/Immunotactoid Glomerulopathy/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Immunotactoid Glomerulopathy/Immunotactoid Glomerulopathy/Fig_2.txt",
+        "description": "Figure 2. Immunotactoid glomerulopathy showing segmental mesangial and capillary loop positivity, mirroring the distribution of deposits by light microscopy (immunoﬂuorescence microscopy, IgG). Reproduced with permission from AJKD 41(1):e23.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Immunotactoid Glomerulopathy",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Immunotactoid Glomerulopathy/Immunotactoid Glomerulopathy/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Immunotactoid Glomerulopathy/Immunotactoid Glomerulopathy/Fig_3.txt",
+        "description": "Figure 3. Immunotactoid glomerulopathy with organized deposits in parallel arrays and with microtubular substructure seen in cross-section, approximately 35 nm in diameter (electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Immunotactoid Glomerulopathy",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Immunotactoid Glomerulopathy/Immunotactoid Glomerulopathy/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Immunotactoid Glomerulopathy/Immunotactoid Glomerulopathy/Fig_4.txt",
+        "description": "Figure 4. Immunotactoid glomerulopathy again with organized deposits showing stacking in parallel arrays and with microtubular substructure seen in cross-section cut (electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

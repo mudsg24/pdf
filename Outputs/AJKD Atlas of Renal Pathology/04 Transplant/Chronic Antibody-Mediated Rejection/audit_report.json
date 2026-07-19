@@ -1,0 +1,109 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Chronic Antibody-Mediated Rejection",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Antibody-Mediated Rejection/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Antibody-Mediated Rejection/Fig_1.txt",
+        "description": "Figure 1. Transplant glomerulopathy with prominent global glomerular basement membrane duplication. A few capillary loops show glomerulitis with increased intracapillary leukocytes (Jones silver stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Chronic Antibody-Mediated Rejection",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Antibody-Mediated Rejection/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Antibody-Mediated Rejection/Fig_3.txt",
+        "description": "Figure 3. Chronic antibody-mediated rejection with severe peritubular capillary multilayering (.7 layers of basement mem brane), representing response to repetitive and chronic endothelial injury. Note that the endothelial cell is swollen and has lost its normal fenestrations (electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Chronic Antibody-Mediated Rejection",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Antibody-Mediated Rejection/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Antibody-Mediated Rejection/Fig_2.txt",
+        "description": "Figure 2. Transplant glomerulopathy with prominent glomerular basement membrane duplication and cellular interposition in a capillary loop. Podocytes show signiﬁcant foot process effacement (electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Chronic Antibody-Mediated Rejection",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Antibody-Mediated Rejection/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Chronic Antibody-Mediated Rejection/Fig_4.txt",
+        "description": "Figure 4. Chronic antibody-mediated rejection with diffuse linear C4d staining in peritubular capillaries (immunofluores cence microscopy, C4d).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

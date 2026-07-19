@@ -1,0 +1,317 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Cryoglobulin-Related Glomerulonephritis",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_1.txt",
+        "description": "Figure 1. Membranoproliferative-like appearance of disease in a patient with hepatitis C and cryoglobulinemia. The glomerulus shows a lobular appearance with double contours of the glomerular basement membrane due to subendothelial deposits, seen as eosinophilic material on this Jones silver stain (Jones silver stain; original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cryoglobulin-Related Glomerulonephritis",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_2.txt",
+        "description": "Figure 2. Cryoglobulinemic glomerulonephritis with membranoproliferative and mesangial proliferative features. In this biopsy, strongly PAS-positive small cryoglobulin plugs are present within capillary loops. In the setting of subacute cryoglobulinemic glomerulonephritis, inflammatory cells can be present within the glomerulus, as in this case (periodic acid-Schiff stain; origina magnification 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cryoglobulin-Related Glomerulonephritis",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_3.txt",
+        "description": "Figure 3. Strongly PAS-positive cryoglobulin plugs in a case o acute cryoglobulin-related glomerulonephritis. In this patient, the underlying etiology was essential mixed cryoglobulinemia. There is also a slight proliferative appearance with mesangia proliferation and inflammatory cells (periodic acid-Schiff stain; original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cryoglobulin-Related Glomerulonephritis",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_4.txt",
+        "description": "Figure 4. Medium-power of acute cryoglobulinemic glomerulonephritis, with mononuclear cells and occasional PMNs with mesangial proliferation and PAS-positive plugs of cryoglobulin within capillary loops (periodic acid-Schiff stain; original magnifi cation 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cryoglobulin-Related Glomerulonephritis",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_5.txt",
+        "description": "Figure 5. High-power view of acute cryoglobulinemic glomerulonephritis with mesangial proliferation, occasional interposition, inflammatory cells, and strongly PAS-positive glomerular mate rial, characteristic of cryoglobulinemic deposits within capillary lumens (periodic acid-Schiff stain; original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cryoglobulin-Related Glomerulonephritis",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_6.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_6.txt",
+        "description": "Figure 6. Immunofluorescence staining in cryoglobulin-related glomerulonephritis shows segmental, irregular, mesangial and capillary loop staining, frequently with IgM more prominent than other immunoglobulins. The subendothelial location of deposits is suggested by the smooth outer contour of the sausage-like positivity along the capillary loop. In this patient, cryoglobulinemia was related to hepatitis C (anti-IgG immunofluorescence; original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cryoglobulin-Related Glomerulonephritis",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_7.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_7.txt",
+        "description": "Figure 7. Membranoproliferative-like glomerulonephritis due to cryoglobulin with segmental, peripheral, capillary loop elongated segments of deposits with smooth outer border, strongly suggestive of subendothelial location of the deposits in addition to mesangial staining. The membranoproliferative-type pattern is evident even on the frozen section (anti-IgM immunofluorescence; original magnification 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cryoglobulin-Related Glomerulonephritis",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_8.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_8.txt",
+        "description": "Figure 8. The very segmental nature of deposits in cryoglobulin related glomerulonephritis is evident in this case with strong, discontinuous, segmental deposits, corresponding to large deposits seen by light microscopy (see slides above). Complement typically co-localizes with immunoglobulins in cryoglo bulinemic glomerulonephritis, as in this case (anti-C3 immunofluorescence; original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cryoglobulin-Related Glomerulonephritis",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_9.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_9.txt",
+        "description": "Figure 9. PMNs in mononuclear cells are seen within the lumen, in addition to endocapillary proliferation, with small grayish plugs o cryoglobulin material and fragments of red blood cells on the right (transmission electron microscopy; original magnification 317,125).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cryoglobulin-Related Glomerulonephritis",
+      "asset_id": "Fig_10",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_10.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_10.txt",
+        "description": "Figure 10. Subendothelial deposits with wormy, short fibrillar substructure, with slightly curvilinear fibrils often organized in pairs, are illustrated. This type of substructure is suggestive o a cryoglobulin causing the immune deposits, as was proven to be the case in this patient (transmission electron microscopy; original magnification 351,250).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cryoglobulin-Related Glomerulonephritis",
+      "asset_id": "Fig_11",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_11.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_11.txt",
+        "description": "Figure 11. The capillary lumen is filled with a cryoglobulin plug, showing wormy substructure with short, curvilinear fibrils often arranged in pairs, typical morphology of cryoglobulin deposits (transmission electron microscopy; original magnification 317,125).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 4
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cryoglobulin-Related Glomerulonephritis",
+      "asset_id": "Fig_12",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_12.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Crystalglobulin/Cryoglobulin-Related Glomerulonephritis/Fig_12.txt",
+        "description": "Figure 12. In some cases of cryoglobulin-related glomerulonephritis, the deposits show highly organized microtubular substructure. (This morphologic appearance is typical of what we define as “immunotactoid glomerulopathy,” which may be related to cryoglobulin or other abnormal hematopoietic process.) In this case, the underlying etiology was a monoclonal cryoglobulin (transmission electron microscopy; original magnification 360,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 4
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

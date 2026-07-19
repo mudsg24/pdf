@@ -1,0 +1,109 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Acute Antibody-Mediated Rejection",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Antibody-Mediated Rejection/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Antibody-Mediated Rejection/Fig_1.txt",
+        "description": "Figure 1. Antibody-mediated acute rejection with glomerulitis: increased intracapillary leukocytes (arrows) in glomerular tuft (Jones silver stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Acute Antibody-Mediated Rejection",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Antibody-Mediated Rejection/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Antibody-Mediated Rejection/Fig_2.txt",
+        "description": "Figure 2. Antibody-mediated acute rejection with peritubular capillaritis: increased intracapillary leukocytes (arrows) in peritubular capillaries (Jones silver stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Acute Antibody-Mediated Rejection",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Antibody-Mediated Rejection/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Antibody-Mediated Rejection/Fig_3.txt",
+        "description": "Figure 3. Antibody-mediated acute rejection with diffuse linear C4d staining in peritubular capillaries by indirect immunoﬂuorescence (immunoﬂuorescence, C4d).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Acute Antibody-Mediated Rejection",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Antibody-Mediated Rejection/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Antibody-Mediated Rejection/Fig_4.txt",
+        "description": "Figure 4. Antibody-mediated acute rejection with diffuse linear C4d staining in peritubular capillaries by immunoperoxidase. Of note, this technique is less sensitive than immunoﬂuorescence, so the threshold for a positive test is higher (immunohistochemistry, C4d).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

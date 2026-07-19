@@ -1,0 +1,57 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Oxalosis 2",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Oxalosis 2/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Oxalosis 2/Fig_1.txt",
+        "description": "Figure 1. Oxalate crystals may be seen in relatively smal amounts and in chronic renal disease. However, numerous oxalate crystals are characteristic of other conditions, such as primary oxalosis, jejunoileal bypass surgery, or ethylene glycol ingestion. By routine light microscopy, widespread tubular destruction is seen in this case of ethylene glycol ingestion. On closer examination, refractile crystals may be seen in some of the tubules. (Hematoxylin and eosin, original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Oxalosis 2",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Oxalosis 2/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Oxalosis 2/Fig_2.txt",
+        "description": "Figure 2. Crystals such as calcium oxalate are readily observed under polarized light microscopy. Here a polarized view is shown of the same case illustrated in the previous figure, with numerous calcium oxalate crystals characterized by birefringence and organizing in fan or sheave-shaped arrays. There is associated tubular degeneration. (Polarized hematoxylin and eosin, original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

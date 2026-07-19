@@ -1,0 +1,83 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Gouty Nephropathy",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Gouty Nephropathy/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Gouty Nephropathy/Fig_1.txt",
+        "description": "Figure 1. Gouty nephropathy with associated nonspeciﬁc vascular sclerosis, interstitial ﬁbrosis, and tubular atrophy in a patient with gout (hematoxylin and eosin stain). Reproduced with permission from AJKD 36(6):e30.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Gouty Nephropathy",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Gouty Nephropathy/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Gouty Nephropathy/Fig_2.txt",
+        "description": "Figure 2. Gouty nephropathy with tophus composed of precipitated uric acid appearing as feathery, needle-shaped crystals within a tubule with associated surrounding inﬂammatory and giant cell reaction (hematoxylin and eosin stain). Reproduced with permission from AJKD 36(6):e30.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Gouty Nephropathy",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Gouty Nephropathy/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Gouty Nephropathy/Fig_3.txt",
+        "description": "Figure 3. Gouty nephropathy with tophus composed of precipitated uric acid appearing as feathery, needle-shaped crystals within a tubule with associated surrounding inﬂammatory and giant cell reaction and chronic inﬂammation and interstitial ﬁbrosis (Jones silver stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

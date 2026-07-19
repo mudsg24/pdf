@@ -1,0 +1,109 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "C1q Nephropathy",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-10 Complements/C1q Nephropathy/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-10 Complements/C1q Nephropathy/Fig_1.txt",
+        "description": "Figure 1. C1q nephropathy with mild mesangial hypercellular ity with minimal increase in mesangial matrix (Jones silver stain). Reproduced with permission from AJKD 33(5):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "C1q Nephropathy",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-10 Complements/C1q Nephropathy/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-10 Complements/C1q Nephropathy/Fig_2.txt",
+        "description": "Figure 2. C1q nephropathy with segmental sclerosis with increased mesangial matrix and obliteration of capillary lumens and an adhesion to Bowman capsule (right half of tuft). The open left portion of the glomerulus shows mild to moderate increase in mesangial cellularity (periodic acid–Schiff stain). Reproduced with permission from AJKD 33(5):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "C1q Nephropathy",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-10 Complements/C1q Nephropathy/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-10 Complements/C1q Nephropathy/Fig_4.txt",
+        "description": "Figure 4. C1q nephropathy with mesangial deposits underlying the basement membrane as it traverses over the mesangial area, with subtotal overlying foot process effacement (electron microscopy). Reproduced with permission from AJKD 33(5):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "C1q Nephropathy",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-10 Complements/C1q Nephropathy/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-10 Complements/C1q Nephropathy/Fig_3.txt",
+        "description": "Figure 3. C1q nephropathy with mesangial staining for C1q, with segmental capillary wall extension. In C1q nephropathy there is lesser intensity staining for immunoglobulin and C3 than for C1q (immunoﬂuorescence microscopy, C1q). Reproduced with permission from AJKD 33(5):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

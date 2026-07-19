@@ -1,0 +1,23 @@
+# AA Amyloidosis and IgG4-Related Disease - Figures and Tables Index
+
+This document lists all figures and tables extracted from `AA Amyloidosis and IgG4-Related Disease.pdf`.
+
+## Table of Contents
+- [Figures](#figures)
+- [Tables](#tables)
+
+---
+
+## Figures
+
+### Fig_1
+
+![Fig_1](Fig_1.png)
+
+Figure 1. Mesenteric- and Renal-Biopsy Samples from the Patient. Shown are biopsy samples obtained from a 53‑year‑old man with renal AA amyloidosis that was apparently associated with IgG4‑related disease. A sample that was obtained from a mesenteric mass underwent immunohistochemical staining for IgG (Panel A) and IgG4 (Panel B), with the latter showing diffuse, scattered IgG4‑positive plasma cells. The average number of plasma cells that were positive for IgG4 (a mean of 421 cells per high‑power field out of three analyses, with a ratio of IgG4‑positive plasma cells to IgG‑positive plasma cells of 0.53) fit the diagnosis of IgG4‑related disease. The renal cortex shows expanded mesangial areas with a loss of argyrophilia and thickened capillary walls (Panel C, silver staining), and apple‑green birefringence is visible in the mesangium and along capil laries under polarized light (Panel D, Congo red staining).
+
+---
+
+## Tables
+
+*No tables resolved for this chapter.*

@@ -1,0 +1,291 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Membranoproliferative Glomerulonephritis 2",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_1.txt",
+        "description": "Figure 1. Diffuse lobular simplification of glomeruli in membranoproliferative glomerulonephritis type 1, caused by extensive endocapillary proliferation (Jones’ silver stain; original magnifica tion, 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranoproliferative Glomerulonephritis 2",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_2.txt",
+        "description": "Figure 2. Extensive double contours of the glomerular basemen membranes, stained by silver, in membranoproliferative glomerulonephritis type 1, caused by mesangial interposition and new basement membrane formation in response to subendothelia immune complex deposits. The deposits are PAS positive and globular-to-sausage shaped (Jones’ silver stain; original magni fication, 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranoproliferative Glomerulonephritis 2",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_3.txt",
+        "description": "Figure 3. Segmental, coarsely granular-to-globular or elongated capillary wall IgG deposits in membranoproliferative glomerulonephritis type 1 (immunofluorescence with anti-IgG; origina magnification, 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranoproliferative Glomerulonephritis 2",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_5.txt",
+        "description": "Figure 5. The subendothelial location of these segmental, irregular IgG capillary wall deposits can be deduced by their smooth outer contour, caused by molding against the glomerular basement membrane. These deposits are typical of membranoproliferative glomerulonephritis type 1 (immunofluorescence with anti-IgG; original magnification, 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranoproliferative Glomerulonephritis 2",
+      "asset_id": "Fig_6B",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_6B.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_6B.txt",
+        "description": "Figure 6B. In secondary forms of immune complex-mediated membranoproliferative glomerulonephritis (such as those caused by chronic infections), the deposits and proliferation are commonly more focal and segmental than in idiopathic mem branoproliferative glomerulonephritis type 1 (see Figs 1 and 3). In Fig 6B, large subendothelial deposits molding under the glomerular basement membrane and occasional mesangial deposits are present (immunofluorescence with anti-C3; origina magnification, 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranoproliferative Glomerulonephritis 2",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_7.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_7.txt",
+        "description": "Figure 7. Membranoproliferative glomerulonephritis type 1. The marked endocapillary proliferation (proliferating endothelial and mesangial cells) appears to occlude the capillary lumen. Numerous large subendothelial and occasional mesangialdense immune complex-type deposits (bottom middle) are present (transmission electron microscopy; original magnification, 34,700).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranoproliferative Glomerulonephritis 2",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_8.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_8.txt",
+        "description": "Figure 8. Membranoproliferative glomerulonephritis type 1 with multiple, large subendothelial deposits (transmission electron microscopy; original magnification, 310,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranoproliferative Glomerulonephritis 2",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_9.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_9.txt",
+        "description": "Figure 9. Membranoproliferative glomerulonephritis type 1 with multiple, small-to-medium subendothelial deposits (transmission electron microscopy; original magnification, 314,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranoproliferative Glomerulonephritis 2",
+      "asset_id": "Fig_10A",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_10A.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_10A.txt",
+        "description": "Figure 10A. Membranoproliferative glomerulonephritis type 1. In Fig 10A, a small subendothelial deposit lies between the glomerular basement membrane and an interposed mesangial cell, extending from the mesangial area seen on the right. Between the interposed mesangial cell, and the endothelium, new basement membrane material is present (transmission electron microscopy; original magnification, 36,300).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 4
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranoproliferative Glomerulonephritis 2",
+      "asset_id": "Fig_10B",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_10B.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_10B.txt",
+        "description": "Figure 10B. Membranoproliferative glomerulonephritis type 1. In Fig 10B, mesangial interposition is illustrated at higher magnification, without evident deposits. These changes result in a “tram-track,” double contour of the basement membrane by ligh microscopy (see Fig 2) (transmission electron microscopy; original magnification, 354,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 4
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Membranoproliferative Glomerulonephritis 2",
+      "asset_id": "Fig_11",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_11.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-4 MN & MPGN/Membranoproliferative Glomerulonephritis 2/Fig_11.txt",
+        "description": "Figure 11. Although subepithelial hump-shaped deposits are characteristic of acute postinfectious glomerulonephritis, occasionally such deposits may be present in membranoproliferative glomerulonephritis type 1, as shown in this case, in addition to the typical subendothelial deposits (original magnification, 316,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 4
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

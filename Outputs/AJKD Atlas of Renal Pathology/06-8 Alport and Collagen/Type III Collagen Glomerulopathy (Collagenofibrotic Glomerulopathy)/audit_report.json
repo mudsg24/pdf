@@ -1,0 +1,109 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Type III Collagen Glomerulopathy (Collagenofibrotic Glomerulopathy)",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-8 Alport and Collagen/Type III Collagen Glomerulopathy (Collagenofibrotic Glomerulopathy)/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-8 Alport and Collagen/Type III Collagen Glomerulopathy (Collagenofibrotic Glomerulopathy)/Fig_1.txt",
+        "description": "Figure 1. Collagenofibrotic glomerulopathy, also known as type III collagen glomerulopathy, is an apparent autosomal recessive inherited condition with abnormal accumulation of type III collagen in glomeruli, often associated with hemolytic uremic syndrome. In rare cases, systemic type III collagen deposits have been noted. The glomeruli appear enlarged with a lobular or nodular configuration by light microscopy with pale amorphous expansion of the mesangial matrix. (Hematoxylin & eosin, 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Type III Collagen Glomerulopathy (Collagenofibrotic Glomerulopathy)",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-8 Alport and Collagen/Type III Collagen Glomerulopathy (Collagenofibrotic Glomerulopathy)/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-8 Alport and Collagen/Type III Collagen Glomerulopathy (Collagenofibrotic Glomerulopathy)/Fig_2.txt",
+        "description": "Figure 2. This slide shows collagenofibrotic glomerulopathy (also known as type III collagen glomerulopathy) on higher power, illustrating the lobular to nodular appearance, with amorphous pale slightly eosinophilic material expanding mesangial areas and filling capillary loops. There is also moderate mesangia hypercellularity. (Hematoxylin & eosin, 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Type III Collagen Glomerulopathy (Collagenofibrotic Glomerulopathy)",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-8 Alport and Collagen/Type III Collagen Glomerulopathy (Collagenofibrotic Glomerulopathy)/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-8 Alport and Collagen/Type III Collagen Glomerulopathy (Collagenofibrotic Glomerulopathy)/Fig_3.txt",
+        "description": "Figure 3. The lobular to nodular appearance of collagenofibrotic glomerulopathy (also known as type III collagen glomerulopathy) is shown here, with a membranoproliferative pattern suggested by the splitting of the glomerular basement membrane. However, standard immunofluorescent studies reveal the absence of im mune complexes (not shown). Research studies for type III collagen have demonstrated the nature of the deposits, which may also be seen by electron microscopy (see Figure 9). (Jones silver stain, 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Type III Collagen Glomerulopathy (Collagenofibrotic Glomerulopathy)",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-8 Alport and Collagen/Type III Collagen Glomerulopathy (Collagenofibrotic Glomerulopathy)/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-8 Alport and Collagen/Type III Collagen Glomerulopathy (Collagenofibrotic Glomerulopathy)/Fig_4.txt",
+        "description": "Figure 4. The classic deposits of collagenofibrotic glomerulopath (also known as type III collagen glomerulopathy) are shown here. The deposits have a whorling appearance on low power and are abundant with cross-striated appearance on high power, typical of the fibrillary type III collagen. The rare fibrillary collagen that may be part of sclerosing processes in a variety of diseases should not be mistaken for collagenofibrotic glomerulopathy, where there is a large abundance of this type of collagen fibrils in the mesangium and also in the subendothelium. (Transmission electron microscopy, 310000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

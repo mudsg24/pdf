@@ -1,0 +1,57 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Nephrocalcinosis and Acute Phosphate Nephropathy",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Nephrocalcinosis and Acute Phosphate Nephropathy/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Nephrocalcinosis and Acute Phosphate Nephropathy/Fig_1.txt",
+        "description": "Figure 1. Nephrocalcinosis and acute phosphate nephropathy with intratubular calcium phosphate crystals and acute tubular injury (hematoxylin and eosin stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Nephrocalcinosis and Acute Phosphate Nephropathy",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Nephrocalcinosis and Acute Phosphate Nephropathy/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Nephrocalcinosis and Acute Phosphate Nephropathy/Fig_2.txt",
+        "description": "Figure 2. Nephrocalcinosis and acute phosphate nephropathy with intratubular calcium phosphate crystals, tubular atrophy and interstitial ﬁbrosis (hematoxylin and eosin stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

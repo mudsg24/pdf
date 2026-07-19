@@ -1,0 +1,109 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency/Fig_1.txt",
+        "description": "Figure 1. LCAT deficiency results in abnormal deposition of lipid related materials, manifested by light microscopy with variable foam cell infiltrate of macrophages containing lipid material in capillaries and mesangial areas. The basement membranes have irregular bubble appearance. In advanced cases, segmental sclerosis may be present, as in this case. (Periodic acid-Schiff, original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency/Fig_2.txt",
+        "description": "Figure 2. The markedly expanded capillary loops filled with foam cells are evident in this case of LCAT deficiency. Other inherited defects in lipid metabolism may give rise to similar accumulation of lipid-related material. (Jones’s silver stain, original magnification 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency/Fig_3.txt",
+        "description": "Figure 3. Figure 3. Large foam cells filling up capillary lumens are evident in this case of LCAT deficiency. There are also expansion of the mesangial matrix and an irregular contour of the capil lary wall with segmental areas of a bubbly appearance (upper left). (Periodic acid-Schiff, original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency/Fig_4.txt",
+        "description": "Figure 4. By electron microscopy, there are lacunae in basement membranes, and there may be lipid inclusions and occasiona dense structures that appear solid or lamellar in the mesangium. In this electron microscope image, numerous lipid inclusions are seen in the cytoplasm of the visceral epithelial cell. (Transmission electron microscopy, original magnification 315,000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

@@ -1,0 +1,83 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Collapsing Glomerulopathy 2",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Collapsing Glomerulopathy 2/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Collapsing Glomerulopathy 2/Fig_1.txt",
+        "description": "Figure 1. Collapsing glomerulopathy is characterized by collapse of the glomerular tuft with marked proliferation of overlying glomerular visceral epithelial cells, often with prominent protein droplets, as shown here. There is typically accompanying disproportionate tubular injury in more advanced cases, frequently with microcystic change. (Jones’ silver stain, 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Collapsing Glomerulopathy 2",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Collapsing Glomerulopathy 2/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Collapsing Glomerulopathy 2/Fig_2.txt",
+        "description": "Figure 2. The collapsing pattern in collapsing glomerulopathy is evident here, with an accentuation of each lobule due to the collapse of the tufts. There is also overlying glomerular viscera epithelial cells. Occasional intercapillary foam cells are also evident. The light microscopic appearance is similar in HIVassociated nephropathy. Microcystic tubular injury is shown on the edge of this slide. (Jones’ silver stain, 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Collapsing Glomerulopathy 2",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Collapsing Glomerulopathy 2/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-3 MCD & FSGS & primary GN/FSGS/Collapsing Glomerulopathy 2/Fig_3.txt",
+        "description": "Figure 3. In idiopathic collapsing glomerulopathy, the collapse of the tufts is evident by electron microscopy, and there is foot process effacement with extensive microvillus change. This is associated with loss of differentiation markers of the glomerular visceral epithelial cells. In idiopathic collapsing glomerulopathy there are no reticular aggregates, in contrast to their frequen presence in cases of HIV nephropathy. (Transmission electron microscopy, 36000).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

@@ -1,0 +1,135 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Light and Heavy Chain Deposition Disease",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Light and Heavy Chain Deposition Disease/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Light and Heavy Chain Deposition Disease/Fig_1.txt",
+        "description": "Figure 1. Light and heavy chain deposition disease with mild mesangial expansion that in some cases can become nodular, similar to the nodular sclerosis of diabetic nephropathy. Note the lack of silver staining within the mesangium (Jones silver stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Light and Heavy Chain Deposition Disease",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Light and Heavy Chain Deposition Disease/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Light and Heavy Chain Deposition Disease/Fig_2.txt",
+        "description": "Figure 2. Light and heavy chain deposition disease with monoclonal glomerular basement membrane and tubular basement membrane staining for k, with equal nonspeciﬁc cast staining for (A) k and (B) l light chains (immunoﬂuorescence microscopy; same ﬁelds stained for k and l light chains).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Light and Heavy Chain Deposition Disease",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Light and Heavy Chain Deposition Disease/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Light and Heavy Chain Deposition Disease/Fig_3.txt",
+        "description": "Figure 3. (A-D) Light and heavy chain deposition disease with monoclonal glomerular basement membrane and tubular basement membrane immunoﬂuorescence staining for immunoglobulin G1 only (immunoﬂuorescence; same ﬁelds stained for immunoglobulin G subclasses).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Light and Heavy Chain Deposition Disease",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Light and Heavy Chain Deposition Disease/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Light and Heavy Chain Deposition Disease/Fig_4.txt",
+        "description": "Figure 4. Light and heavy chain deposition disease with vague, amorphous, powdery deposits along the inner aspect of the glomerular basement membrane (arrow) and large mesangial areas with vague, coarse, short ﬁbrils (asterisk; electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Light and Heavy Chain Deposition Disease",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Light and Heavy Chain Deposition Disease/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/06-7 Amyloidosis and proteins/Light and Heavy Chain Deposition Disease/Fig_5.txt",
+        "description": "Figure 5. Light and heavy chain deposition disease with amorphous powdery deposits along the outer aspect of the tubular basement membrane (electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

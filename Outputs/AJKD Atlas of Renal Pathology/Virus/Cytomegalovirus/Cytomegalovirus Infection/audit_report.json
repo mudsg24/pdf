@@ -1,0 +1,109 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Cytomegalovirus Infection",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Cytomegalovirus/Cytomegalovirus Infection/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Cytomegalovirus/Cytomegalovirus Infection/Fig_1.txt",
+        "description": "Figure 1. Cytomegalovirus nephritis with large cells with basophilic enlarged nuclei and cytoplasmic inclusions within tubular epithelial cells (hematoxylin and eosin stain). Reproduced with permission from AJKD 36(2):e7-e8.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cytomegalovirus Infection",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Cytomegalovirus/Cytomegalovirus Infection/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Cytomegalovirus/Cytomegalovirus Infection/Fig_2.txt",
+        "description": "Figure 2. Cytomegalovirus nephritis with enlarged tubular epithelial cells with enlarged nuclei and degeneration (hematoxylin and eosin stain). Reproduced with permission from AJKD 36(2):e7-e8.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cytomegalovirus Infection",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Cytomegalovirus/Cytomegalovirus Infection/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Cytomegalovirus/Cytomegalovirus Infection/Fig_4.txt",
+        "description": "Figure 4. Cytomegalovirus nephritis with typical bull’s eye appearance of virus in the cytoplasm (electron microscopy). Reproduced with permission from AJKD 36(2):e7-e8.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Cytomegalovirus Infection",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Cytomegalovirus/Cytomegalovirus Infection/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Virus/Cytomegalovirus/Cytomegalovirus Infection/Fig_3.txt",
+        "description": "Figure 3. Cytomegalovirus nephritis involving a glomerulus with enlarged visceral epithelial cells, enlarged nuclei, and owl’s eye–type nuclear inclusions (hematoxylin and eosin stain). Reproduced with permission from AJKD 36(2):e7-e8.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}
