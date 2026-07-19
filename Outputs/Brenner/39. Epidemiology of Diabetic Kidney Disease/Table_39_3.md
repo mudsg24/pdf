@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 39.3 Description of Morphometric Abbreviations Used in This Chapter Morphometric Abbreviation  Description    Vv(Mes/glom)  Fraction of the volume of the glomerulus occupied by the mesangium    Sv(PGBM/glom)  Peripheral glomerular basement membrane filtration surface density per glomerular volume    Vv(Int/cortex)  Fraction of the volume of the renal cortex occupied by interstitium    Vv(MM/glom)  Fraction of the volume of the glomerulus occupied by mesangial matrix    Nv(Podo/glom)  Podocyte number density per glomerular volume    N(Podo/glom)  Number of podocytes per glomerulus |

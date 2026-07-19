@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 49.21 Pharmacokinetic Properties of Central Adrenergic Agonists Drug  Bioavailability (%)  Affected by Food  Peak Blood Level (h)  Elimination Half-Life (h)  Metabolism  Excretion  Active Metabolites    Clonidine (Catapres)  50  —  —  6–23  L  F (30%–50%)U (24%)  Methyldopa-o-sulfite    α-Methyldopa (ALDOMET)  65–96  —  1.5–5  6–23  L  F (22%)U (65%)  —    Guanabenz (Wytensin)  75  —  2–5  7–10  L  F (16%)  —    Guanfacine (Tonex)  80  —  1–4  17  L  U (40%–75%)  —    Rilmenidine (Hyperium)  80–90  No  2  2–3  L  U (90%)  —    Moxonidine (Physiotens)  100  No  0.5–3  2  L  U (90%)  — F, Feces; L, liver; U, urine. |

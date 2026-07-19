@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 49.24 Pharmacodynamic Properties of Direct-Acting Vasodilators Drug  Initial Dose (mg)  Usual Dose (mg)  Maximum Dose (mg)  Interval  Peak Response (h)  Duration of Response (h)    Hydralazine  10  200–400  400  bid, qid  1  3–8    Minoxidil  2.5  10–20  40  qd, qid  4–8  10–12 bid, Two times a day; qd, once a day; qid, four times a day. |

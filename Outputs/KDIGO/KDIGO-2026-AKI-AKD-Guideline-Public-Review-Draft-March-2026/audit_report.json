@@ -1,0 +1,2625 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_1.txt",
+        "description": "Table 1 Criteria for acute kidney injury for children and adults 35",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_1.md",
+        "page": 15
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_2.txt",
+        "description": "Table 2 Limitations of serum creatinine and urine output for the diagnosis of AKI 36",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_2.md",
+        "page": 50
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_3.txt",
+        "description": "Table 3 Select kidney biomarkers and reported clinical applications 38",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_3.md",
+        "page": 52
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_4_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_4_part2.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_4_part3.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_4_part4.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_4_part5.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_4_part6.png"
+        ],
+        "text": null,
+        "description": "Table 4 Description and characteristics of select AKI biomarkers as of November 2025 39",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_4.md",
+        "page": 53,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 53
+          },
+          {
+            "part_no": 2,
+            "page": 54
+          },
+          {
+            "part_no": 3,
+            "page": 55
+          },
+          {
+            "part_no": 4,
+            "page": 56
+          },
+          {
+            "part_no": 5,
+            "page": 57
+          },
+          {
+            "part_no": 6,
+            "page": 58
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_5.txt",
+        "description": "Table 5 Specific situations where serum cystatin C measurement may be preferable to SCr to detect reduced \nGFR 47",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_5.md",
+        "page": 61
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_6.txt",
+        "description": "Table 6 Severity staging system for AK 50",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_6.md",
+        "page": 17
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_7",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_7.txt",
+        "description": "Table 7 Definitions of transient and persistent AKI 52",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_7.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_7.md",
+        "page": 17
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_8",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_8.txt",
+        "description": "Table 8 Causes of AKI requiring specific treatments to protect the kidney 54",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_8.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_8.md",
+        "page": 68
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_9",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_9.txt",
+        "description": "Table 9 Criteria for AKD 55",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_9.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_9.md",
+        "page": 18
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_10",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_10.txt",
+        "description": "Table 10 Criteria for resolution of AKI and AKD 57",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_10.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_10.md",
+        "page": 18
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_11",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_11.txt",
+        "description": "Table 11 Baseline creatinine estimation methods in children 61",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_11.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_11.md",
+        "page": 75
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_12",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_12.txt",
+        "description": "Table 12 Criteria for AKI in neonates 62",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_12.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_12.md",
+        "page": 19
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_13",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_13.txt",
+        "description": "Table 13 AKI staging criteria in neonates 64",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_13.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_13.md",
+        "page": 20
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_14",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_14.txt",
+        "description": "Table 14 Common exposures and susceptibilities for community- and hospital-acquired AKI 67",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_14.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_14.md",
+        "page": 81
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_15",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_15.txt",
+        "description": "Table 15 International Society of Nephrology 0by25 study–Clinical risk score for community-acquired acute \nkidney injury 75",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_15.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_15.md",
+        "page": 89
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_16",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_16.txt",
+        "description": "Table 16 Select clinical methods to measure kidney functional reserve 83",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_16.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_16.md",
+        "page": 97
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_17",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_17.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_17.txt",
+        "description": "Table 17 Select studies identifying albuminuria as a risk factor for AKI 93",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_17.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_17.md",
+        "page": 107
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_18",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_18.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_18.txt",
+        "description": "Table 18 Urine sediment and associated kidney injury syndromes 105",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_18.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_18.md",
+        "page": 119
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_19",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_19.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_19.txt",
+        "description": "Table 19 Components of kidney health assessment for risk stratification in high-risk children during acute \nillness 114",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_19.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_19.md",
+        "page": 128
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_20",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_20.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_20.txt",
+        "description": "Table 20 Renal angina index scoring 115",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_20.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_20.md",
+        "page": 129
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_21",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_21.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_21.txt",
+        "description": "Table 21 Vasopressors for management of adults with or at risk of AKI 138",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_21.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_21.md",
+        "page": 152
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_22",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_22.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_22.txt",
+        "description": "Table 22 Escalation pathway for diuretic therapy in AKI-related volume overload in adults 152",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_22.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_22.md",
+        "page": 166
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_23",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_23.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_23.txt",
+        "description": "Table 23 Standardized vasoactive therapy in hepatorenal syndrome-associated AKI 165",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_23.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_23.md",
+        "page": 179
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_24",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_24.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_24.txt",
+        "description": "Table 24 Tropical infections causing AKI 180",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_24.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_24.md",
+        "page": 194
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_25",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_25.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_25.txt",
+        "description": "Table 25 Common plant and chemical toxins causing AKI 183",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_25.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_25.md",
+        "page": 197
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_26",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_26_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_26_part2.png"
+        ],
+        "text": null,
+        "description": "Table 26 List of drug/drug classes associated with pseudo-AKI and their possible mechanisms 196",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_26.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_26.md",
+        "page": 210,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 210
+          },
+          {
+            "part_no": 2,
+            "page": 211
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_27",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_27.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_27.txt",
+        "description": "Table 27 Examples of mechanisms and nephrotoxins that cause damage without dysfunction 197",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_27.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_27.md",
+        "page": 211
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_28",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_28.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_28.txt",
+        "description": "Table 28 Multimodal approach to drug and nephrotoxin stewardship 201",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_28.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_28.md",
+        "page": 215
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_29",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_29.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_29.txt",
+        "description": "Table 29 Therapeutic drug monitoring for drugs that are potentially nephrotoxic or excreted by the kidney 203",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_29.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_29.md",
+        "page": 217
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_30",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_30_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_30_part2.png"
+        ],
+        "text": null,
+        "description": "Table 30 Examples of pharmacokinetic and pharmacodynamic drug-drug interactions associated with risk of \nkidney damage or dysfunction 204",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_30.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_30.md",
+        "page": 218,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 218
+          },
+          {
+            "part_no": 2,
+            "page": 219
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_31",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_31_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_31_part2.png"
+        ],
+        "text": null,
+        "description": "Table 31 Drug-induced crystalline nephropathies 206",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_31.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_31.md",
+        "page": 220,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 220
+          },
+          {
+            "part_no": 2,
+            "page": 221
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_32",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_32_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_32_part2.png"
+        ],
+        "text": null,
+        "description": "Table 32 Description of pharmacist interventions and related outcomes for people with or at risk for AKI in \nvarious practice settings across the world 209",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_32.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_32.md",
+        "page": 223,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 223
+          },
+          {
+            "part_no": 2,
+            "page": 224
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=0.991",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=0.977"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_33",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_33.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_33.txt",
+        "description": "Table 33 Potential use of biomarkers to distinguish etiology of drug-related acute kidney diseases 212",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_33.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_33.md",
+        "page": 226
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_34",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_34_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_34_part2.png"
+        ],
+        "text": null,
+        "description": "Table 34 Drug-, patient-, and RRT-related factors to consider when determining drug doses for people \nreceiving CRRT 214",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_34.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_34.md",
+        "page": 32,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 32
+          },
+          {
+            "part_no": 2,
+            "page": 33
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=0.958"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_35",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_35_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_35_part2.png"
+        ],
+        "text": null,
+        "description": "Table 35 Examples of nephrotoxicity associated with natural products 216",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_35.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_35.md",
+        "page": 230,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 230
+          },
+          {
+            "part_no": 2,
+            "page": 231
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=0.987"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_36",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_36_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_36_part2.png"
+        ],
+        "text": null,
+        "description": "Table 36 Predictive variables in included prediction models 219",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_36.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_36.md",
+        "page": 233,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 233
+          },
+          {
+            "part_no": 2,
+            "page": 234
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_37",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_37.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_37.txt",
+        "description": "Table 37 Risk factors for CA-AKI in adults 222",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_37.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_37.md",
+        "page": 236
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_38",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_38.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_38.txt",
+        "description": "Table 38 Examples of strategies to estimate contrast volume doses with lower risk of CA-AKI 225",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_38.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_38.md",
+        "page": 239
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_39",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_39.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_39.txt",
+        "description": "Table 39 Hydration strategies to prevent CA-AKI 227",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_39.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_39.md",
+        "page": 241
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_40",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_40.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_40.txt",
+        "description": "Table 40 Sick day medication guidance for adults 243",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_40.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_40.md",
+        "page": 257
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_41",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_41.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_41.txt",
+        "description": "Table 41 Summary of indications for starting RRT in adults with AKI when implementing a deferred RRT \ninitiation strategy 249",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_41.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_41.md",
+        "page": 263
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_42",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_42_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_42_part2.png"
+        ],
+        "text": null,
+        "description": "Table 42 Summary of each RRT modality along with their commonly applied settings, advantages, and \ndisadvantages 254",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_42.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_42.md",
+        "page": 268,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 268
+          },
+          {
+            "part_no": 2,
+            "page": 269
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_43",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_43.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_43.txt",
+        "description": "Table 43 Summary of parameters for RRT modalities in adults 258",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_43.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_43.md",
+        "page": 272
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_44",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_44.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_44.txt",
+        "description": "Table 44 Summary of strategies and interventions to mitigate intradialytic hypotension among adults starting \nor transitioning to IRRT 262",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_44.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_44.md",
+        "page": 276
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_45",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_45.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_45.txt",
+        "description": "Table 45 Summary of varying CRRT dose-intensity stratified by BMI and body weight calculation 264",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_45.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_45.md",
+        "page": 280
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_46",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_46.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_46.txt",
+        "description": "Table 46 Summary of calculation of CRRT dose-intensity across CRRT modes 268",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_46.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_46.md",
+        "page": 283
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_47",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_47.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_47.txt",
+        "description": "Table 47 Peres’ formulas for determining catheter length in adults 274",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_47.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_47.md",
+        "page": 288
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_48",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_48.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_48.txt",
+        "description": "Table 48 Common pediatric dialysis catheter sizes based on child weight 274",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_48.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_48.md",
+        "page": 288
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_49",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_49.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_49.txt",
+        "description": "Table 49 Summary of the elements in the standard care bundle for non-cuffed dialysis catheters 275",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_49.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_49.md",
+        "page": 289
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_50",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_50.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_50.txt",
+        "description": "Table 50 Summary of the pharmacokinetics profiles of anticoagulants used to maintain circuit patency in \nCRRT 284",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_50.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_50.md",
+        "page": 298
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_51",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_51.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_51.txt",
+        "description": "Table 51 Summary of hemofilter membrane materials 290",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_51.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_51.md",
+        "page": 304
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_52",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_52.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_52.txt",
+        "description": "Table 52 Nonpharmacological interventions investigated in RCTs to prevent clotting during CRRT 292",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_52.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_52.md",
+        "page": 306
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=0.926"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_53",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_53.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_53.txt",
+        "description": "Table 53 Summary of a representative sample of current commercially available dialysate and replacement \nCRRT solutions 298",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_53.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_53.md",
+        "page": 312
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=0.963"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_54",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_54.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_54.txt",
+        "description": "Table 54 Strategies to mitigate adverse events associated with ultrafiltration 300",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_54.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_54.md",
+        "page": 314
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_55",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_55.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_55.txt",
+        "description": "Table 55 Key quality/performance measures of CRRT 306",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_55.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_55.md",
+        "page": 320
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_56",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_56.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_56.txt",
+        "description": "Table 56 Summary of parameters for RRT modalities in critically ill children 313",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_56.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_56.md",
+        "page": 327
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_57",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_57.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_57.txt",
+        "description": "Table 57 Monitoring for adverse outcomes after AKI and/or AKD requiring follow-up care 321",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_57.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_57.md",
+        "page": 335
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_58",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_58.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_58.txt",
+        "description": "Table 58 Post AKI/AKD kidney health care framework 329",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_58.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_58.md",
+        "page": 343
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_59",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_59.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_59.txt",
+        "description": "Table 59 AKI receiving RRT follow-up multidisciplinary monitoring tasks 341",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_59.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_59.md",
+        "page": 355
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_60",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_60.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_60.txt",
+        "description": "Table 60 Post-discharge care guide for AKI-RRT patients incorporating WATCH-ME framework 343",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_60.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_60.md",
+        "page": 358
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_61",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_61.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_61.txt",
+        "description": "Table 61 Pediatric AKI/AKD follow-up elements stratified by age group and risk category, modified from the \nNICU Survivor Delphi process 348",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_61.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_61.md",
+        "page": 362
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_62",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_62.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_62.txt",
+        "description": "Table 62 Sample risk assessment approach for pediatric AKI/AKD survivors, modified from the NICU \nSurvivor Delphi process 351",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_62.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_62.md",
+        "page": 365
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_63",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_63.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_63.txt",
+        "description": "Table 63 Clinical questions and systematic review topics in PICOS format 356",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_63.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_63.md",
+        "page": 370
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_64",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_64.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_64.txt",
+        "description": "Table 64 GRADE system for grading the certainty of evidence 373",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_64.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_64.md",
+        "page": 387
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_65",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_65.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_65.txt",
+        "description": "Table 65 Classification for certainty of evidence 373",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_65.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_65.md",
+        "page": 387
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_66",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_66.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_66.txt",
+        "description": "Table 66 KDIGO nomenclature and description for grading recommendations 374",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_66.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_66.md",
+        "page": 388
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Table_67",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_67.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_67.txt",
+        "description": "Table 67 Determinants of the strength of recommendation 375",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_67.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Table_67.md",
+        "page": 389
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_1.txt",
+        "description": "Figure 1 Hierarchical approach to the selection of the baseline SCr value used to characterize an AKI event in \nadults 49",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 62
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_2.txt",
+        "description": "Figure 2 AKD, AKI, and kidney disease outcomes 55",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 69
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_3.txt",
+        "description": "Figure 3 Hierarchical approach to the selection of the baseline SCr value used to characterize an AKI event in \nchildren 60",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 19
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_4.txt",
+        "description": "Figure 4 AKI exposures and susceptibilities 66",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 80
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_5.txt",
+        "description": "Figure 5 Conceptual framework for AKI risk stratification 68",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 82
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_6.txt",
+        "description": "Figure 6 Pre- and post-implementation pathways for the development, validation, implementation, 78 \nmaintenance, and on-going evaluation of a clinical risk model",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 92
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_7.txt",
+        "description": "Figure 7 Application of the furosemide stress test in the setting of early mild-to-moderate AKI in adults 87",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 101
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU content_list_v2 caption block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_8.txt",
+        "description": "Figure 8 Associations of CKD staging by eGFRcr and UACR categories and risks for AKI in multivariable \nadjusted analyses 92",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 106
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_9.txt",
+        "description": "Figure 9 Multicomponent kidney protection strategy for prevention and management of AKI 145",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 159
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_10",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_10.txt",
+        "description": "Figure 10 Principles of remote ischemic preconditioning 160",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 174
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_11",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_11.txt",
+        "description": "Figure 11 Classifying drugs that potentially cause AKI 195",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 209
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_12",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_12.txt",
+        "description": "Figure 12 Approach to risk assessment for CA-AKI with diagnostic or interventional contrast imaging \nprocedures 223",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 35
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_13",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_13.txt",
+        "description": "Figure 13 Prediction of risks of AKI as a function of contrast volume and preprocedural AKI risk in \npercutaneous coronary intervention 224",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 238,
+        "parts": []
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_14",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_14.txt",
+        "description": "Figure 14 Schematic diagram of RRT continuum 246",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 260
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_15",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_15.txt",
+        "description": "Figure 15 Proposed algorithm for initiation RRT in critically ill patients with AKI. 253",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 267
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_16",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_16.txt",
+        "description": "Figure 16 Suggested algorithm for use of acute PD among adult patients with AKI 272",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 286
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_17",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_17.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_17.txt",
+        "description": "Figure 17 Anticoagulation strategy in a patient with AKI requiring RRT (CRRT/SLED/IHD) 282",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 296
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_18",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_18.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_18.txt",
+        "description": "Figure 18 Configuration of in-line hemofilter integration into ECLS circuit 308",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 322
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_19",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_19.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_19.txt",
+        "description": "Figure 19 Options of combining ECMO and CRRT circuits 309",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 323
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_20",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_20.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_20.txt",
+        "description": "Figure 20 Strategies to deliver holistic follow-up care with children and adults after AKI/AKD 326",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 340
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_21",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_21.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_21.txt",
+        "description": "Figure 21 6-variable risk score to predict transition to severe CKD (G4 or G5) for adults after hospitalization \nwith AKI 333",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 347
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_22",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_22.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_22.txt",
+        "description": "Figure 22 Proposed conceptual model for the continuum of AKD, CKD, and AKI 338",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 352
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026",
+      "asset_id": "Fig_23",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_23.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026/Fig_23.txt",
+        "description": "Figure 23 Search yield and study flow diagram 369",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 383
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    }
+  ],
+  "hard_failures": []
+}

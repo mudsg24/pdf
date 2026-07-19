@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 60.3 Dietary Approaches to Reduce the Risk for Initiation of CKD in Susceptible Individuals Strategy  Tactic    Emphasize an overall diet that minimizes net endogenous acid productionEmphasize an overall diet with a high ratio of fiber to animal-based proteinEmphasize fats that enhance kidney health  Promote base-producing fruits and vegetablesMinimize animal-based foodsMinimize NaCl (“salt”)Promote plant-based foodsMinimize animal-based foods, particularly red meatPromote polyunsaturated fats, including omega 3’s |

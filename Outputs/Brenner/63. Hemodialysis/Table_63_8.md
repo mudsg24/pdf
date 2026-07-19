@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 63.8 Guidelines for Anticoagulation in Hemodialysis Patients at High Risk for Serious Bleeding Anticoagulation for Hemodialysis  Clinical Condition    No anticoagulation or regional anticoagulation  Actively bleedingSignificant risk for bleedingMajor thrombostatic defectMajor surgery within 7 daysIntracranial surgery within 14 daysBiopsy of visceral organ within 72 hoursPericarditis    Low-dose heparin  Major surgery beyond 7 daysBiopsy of visceral organ beyond 72 hoursMinor surgery 8 hours priorMinor surgery within 72 hours    Low-dose heparin or no anticoagulation  Major surgery 8 hours prior |

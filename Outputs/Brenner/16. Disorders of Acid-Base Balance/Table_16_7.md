@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 16.7 Proximal Renal Tubular Acidosis Isolated Pure Bicarbonate Wasting (Unassociated With Fanconi’s Syndrome) |

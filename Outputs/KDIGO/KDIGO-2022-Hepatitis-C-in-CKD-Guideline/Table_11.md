@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 11 \| Work products for the 2022 guideline Topics  Summary table  Included studies, n  Evidence profile    Chapter 2: HCV treatment          2.1. DAA, CKD G4-G5ND  十  23  十    2.1. DAA, CKD G5D  十  68  十    2.1. DAA, KTR  十  29  十    Chapter 4: Kidney transplantation          4.2. DAA treatment in D+/R- KTRs  十  18  十    Chapter 5: HCV-associated glomerulonephritis          5.2. HCV-associated glomerulonephritis management  十  7  十 CKD, chronic kidney disease; D, dialysis; D , donor HCV positive; DAA, direct-acting antiviral; HCV, hepatitis C virus; KTR, kidney transplantation recipient; ND, non-dialysis; R–, recipient HCV negative. |

@@ -1,0 +1,537 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_1.txt",
+        "description": "Table 1 Hierarchy of outcomes",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_1.md",
+        "page": 53
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_2.txt",
+        "description": "Table 2 Clinical questions and systematic review topics in PICOD format",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_2.md",
+        "page": 54
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_3.txt",
+        "description": "Table 3 Grading the certainty of the evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_3.md",
+        "page": 56
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_4.txt",
+        "description": "Table 4 GRADE system for grading certainty of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_4.md",
+        "page": 56
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_5.txt",
+        "description": "Table 5 KDIGO nomenclature and description for grading recommendations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_5.md",
+        "page": 57
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_6.txt",
+        "description": "Table 6 Determinants of the strength of recommendation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Table_6.md",
+        "page": 57
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_1.txt",
+        "description": "Figure 1 Diagnosis of kidney involvement in systemic lupus erythematosus",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 16
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_2.txt",
+        "description": "Figure 2 Activity and chronicity items included in lupus nephritis kidney biopsy report",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 25
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_3.txt",
+        "description": "Figure 3 Measures to minimize the risk of complications related to lupus nephritis or its treatment",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 17
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_4.txt",
+        "description": "Figure 4 Immunosuppressive treatment for patients with Class I or Class II lupus nephritis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 18
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_5.txt",
+        "description": "Figure 5 Recommended approach for initial therapy of active Class III/IV lupus nephritis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 31
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU content_list_v2 caption block"
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_6.txt",
+        "description": "Figure 6 Cyclophosphamide dosing regimens, combined with glucocorticoids, in initial treatment for active Class III/IV lupus nephritis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 32
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_7.txt",
+        "description": "Figure 7 Examples of glucocorticoid regimens for lupus nephritis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 19
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_8.txt",
+        "description": "Figure 8 Recommended options of maintenance therapy for Class III and Class IV lupus nephritis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 40
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_9.txt",
+        "description": "Figure 9 Maintenance immunosuppressive regimens in patients with lupus nephritis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 41
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_10",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_10.txt",
+        "description": "Figure 10 Management of patients with pure Class V lupus nephritis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 20
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_11",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_11.txt",
+        "description": "Figure 11 Definitions of response commonly used in clinical trials of lupus nephritis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 21
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_12",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_12.txt",
+        "description": "Figure 12 Management of patients who show unsatisfactory response to initial therapy for active lupus nephritis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 21
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_13",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_13.txt",
+        "description": "Figure 13 Management of patients with lupus nephritis and thrombotic microangiopathy (TMA)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 22
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2024_Lupus_Nephritis_Guideline",
+      "asset_id": "Fig_14",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024_Lupus_Nephritis_Guideline/Fig_14.txt",
+        "description": "Figure 14 Search yield and study flow diagram",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 55
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    }
+  ],
+  "hard_failures": []
+}

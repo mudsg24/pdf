@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 1 \| Criteria for chronic kidney disease (either of the following present for a minimum of 3 months) Markers of kidney damage (1 or more)  Albuminuria (ACR ≥30 mg/g [≥3 mg/mmol]) Urine sediment abnormalities Persistent hematuria Electrolyte and other abnormalities due to tubular disorders Abnormalities detected by histology Structural abnormalities detected by imaging      History of kidney transplantation    Decreased GFR  GFR <60 ml/min per 1.73 m² (GFR categories G3a-G5) ACR, albumin-to-creatinine ratio; GFR, glomerular <sup>fi</sup>ltration rate. |

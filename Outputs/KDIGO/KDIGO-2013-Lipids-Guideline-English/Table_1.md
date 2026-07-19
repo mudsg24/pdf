@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 1 \| Secondary causes of dyslipidemias Medical Conditions      Nephrotic syndrome  Excessive alcohol consumption    Hypothyroidism  Liver disease    Diabetes            Medications 13-cis-retinoic acid  Androgens    Anticonvulsants  Oral contraceptives    Highly active anti-retroviral therapy  Corticosteroids      Cyclosporine    Diuretics      Beta-blockers  Sirolimus Reproduced from National Kidney Foundation. K/DOQI Clinical Practice Guidelines for Managing Dyslipidemias in Chronic Kidney Disease. Am J Kidney Dis 41(Suppl 3): S38, 2003 with permission from the National Kidney Foundation;<sup>1</sup> accessed http:// www.kidney.org/professionals/kdoqi/guidelines_dyslipidemia/pdf/ajkd_dyslipidemia_ gls.pdf |

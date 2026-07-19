@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 77.4 Etiology of End-Stage Renal Disease (% of Total) Reported in Registry Data From African Countries Study  Country  Last Data  Cause Unknown  Hypertension  Diabetes  GN  Cystic Disease    Afifi, 200883  Egypt  2008  15.2  36.6  13.5  8.7  3.2    Alashek, 201284  Libya  2010  7.3  14.6  26.5  21.2  6.3    Albitar, 199885  Reunion Island  1996    27.5  33.6  13.1  5.8    Davids, 201779  South Africa  2015  34.1  33.7  14.4  9.5  2.9    Elamin, 201080  Sudan  2009  42.6  26.1  10.4  5.5  2.6    Tunisian Ministry of Health, 201181  Tunisia  2010  29.2  13.6  21.0   13.0^{86}   3.4    Moroccan Society of Nephrology and Ministry of Health, 201382  Morocco  2007  37.9  10.1  17.8  8.5  3.4 GN, Glomerulonephritis. |

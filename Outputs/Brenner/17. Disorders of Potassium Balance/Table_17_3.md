@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 17.3 Approximate Relationship Between Hyperkalemic Electrocardiographic Changes and Serum Potassium Concentration |

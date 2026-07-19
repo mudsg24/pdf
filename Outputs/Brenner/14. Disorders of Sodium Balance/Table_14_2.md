@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 14.2 Major Renal Effector Mechanisms for Regulating Effective Arterial Blood Volume Glomerular Filtration Rate and Tubular Reabsorption |

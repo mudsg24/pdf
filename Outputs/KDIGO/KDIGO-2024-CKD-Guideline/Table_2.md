@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 2 \| GFR categories in CKD GFR category  GFR (ml/min per 1.73 m²)  Terms    G1  ≥90  Normal or high    G2  60-89  Mildly decreasedª    G3a  45-59  Mildly to moderately decreased    G3b  30-44  Moderately to severely decreased    G4  15-29  Severely decreased    G5  <15  Kidney failure CKD, chronic kidney disease; GFR, glomerular <sup>fi</sup>ltration rate. <sup>a</sup>Relative to the young adult level. In the absence of evidence of kidney damage, neither G1 nor G2 ful<sup>fi</sup>lls the criteria for CKD. |

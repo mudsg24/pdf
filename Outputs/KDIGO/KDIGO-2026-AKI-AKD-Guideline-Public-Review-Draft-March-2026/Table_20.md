@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 20 \| Renal angina index scoring<sup>289</sup> ICU admission alone  1 point    Solid organ or stem cell transplant  3 points    Ventilation or Inotropy  5 points    Kidney Injury or Volume overloadNo decrease in eCrCl or < 5% FOeCrCl decrease 0-25% or ≥5% FOeCrCl decrease 25-50% or ≥10% FOeCrCl decrease ≥50% or ≥15% FO  1 point2 points4 points8 points eCrCl, estimated creatinine clearance; FO, fluid overload. Reproduced from Basu et al. 2014<sup>289</sup> |

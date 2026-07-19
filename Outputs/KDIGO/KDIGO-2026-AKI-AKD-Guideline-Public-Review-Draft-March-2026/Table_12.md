@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 12 \| Criteria for AKI in neonates (any one or more of the following within the corresponding time period) Neonatal AKI criteria    No decline in SCr from birth to 7 days of life    Increase in SCr by ≥0.3 mg/dl (≥26.5 μmol/1) within 48 hours    Increase in SCr by ≥1.5 times baseline that is known or presumed to have    occurred within the prior 7 days    Increase in serum cystatin C by 1.25 times baseline that is known or    presumed to have occurred within the prior 7 days    Serum cystatin C >2.2 mg/dl AKI, acute kidney injury; SCr, serum creatinine |

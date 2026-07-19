@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 73.14 Treatment Options for Symptomatic Hypercalcemia Therapy  Dosage  Administration    Saline infusion  3000 mL/m2/day IV  This is twice the daily maintenance; reduce to maintenance dose as soon as serum calcium level is <12 mg/dL.    Furosemide  1 mg/kg IV  q12–24 hr    Severe hypercalcemia (>14 mg/dL or 3.5 mmol/L)    Bisphosphonate (e.g., pamidronate)  1–2 mg/kg IV over 4 hr  Once    Calcitonin  4–8 IU/kg SC  q12–24 hr    Dialysis IV, Intravenously; q, every; SC, subcutaneously. |

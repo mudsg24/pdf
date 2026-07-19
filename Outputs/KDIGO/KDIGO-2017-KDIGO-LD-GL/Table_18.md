@@ -1,0 +1,5 @@
+| Table Text (OCR) |
+| :--- |
+| Table 18 Social and clinical factors associated with increased likelihood of |
+| geographically endemic infections and infections related to |
+| specific exposures |

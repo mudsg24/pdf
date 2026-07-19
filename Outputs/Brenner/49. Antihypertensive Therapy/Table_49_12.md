@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 49.12 Pharmacokinetic Properties of β-Adrenergic Antagonists Drug  Bioavailability (%)  Affected by Food  Peak Blood Level (h)  Elimination Half-Life (h)  Metabolism  Excretion  Active Metabolites    Nadolol  20-40  No  2-4  20-24  —  U, F  —    Propranolol  16-60  Yes  —  3-4  L  —  —    Timolol  50-90  —  —  2-4  L  U (20%)  —    Penbutolol  100  No  —  17-24  L  U  —    Pindolol  95  No  2  3-11  L  U (40%)  —    Atenolol  40-60  Yes  —  14-16  —  U, F  —    Metoprolol  50  —  1.5-2  3-7  L  U  —    Betaxolol  78-90  No  2-6  12-22  L  U  —    Bisoprolol  90  —  2.3  9.6  L  U  —    Acebutolol  90  No  2-3  3-8  L  U  — F, Feces; L, liver; U, urine. |

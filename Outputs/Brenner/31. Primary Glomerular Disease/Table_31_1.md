@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 31.1 Manifestations of Nephrotic and Nephritic Features by Glomerular Diseases Disease  Nephrotic Features  Nephritic Features    Minimal change disease  ++++  -    Membranous nephropathy  ++++  +    Focal segmental glomerulosclerosis  +++  ++    Fibrillary glomerulonephritis  +++  ++    Mesangioproliferative glomerulopathya  ++  ++    Membranoproliferative glomerulonephritisb  ++  +++    Proliferative glomerulonephritisa  ++  +++    Acute diffuse proliferative glomerulonephritisc  +  ++++    Crescentic glomerulonephritisd  +  ++++ |

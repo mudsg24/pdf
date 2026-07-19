@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 68.4 Positive Predictive Value of Monitoring Methods for Graft Stenosis Surveillance Method  N of Measurements  Positive Predictive Value    Clinical Monitoring    Cayco, 199887  68  93%    Robbin, 199888  38  89%    Safa, 199686  106  92%    Maya, 200482  358  69%    Robbin, 200689  151  70%    Static Venous Pressure    Besarab, 199590  87  92%    Flow Monitoring    Schwab, 200191  35  100%    Moist, 200392  53  87%    Ultrasound    Robbin, 200689  122  80% |

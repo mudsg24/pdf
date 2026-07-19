@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 14.3 Physiologic Actions of the Natriuretic Peptides |

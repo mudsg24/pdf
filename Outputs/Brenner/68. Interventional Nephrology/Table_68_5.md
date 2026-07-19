@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 68.5 Effect of Surveillance on Graft Thrombosis: Observational Studies Reference  Surveillance Method  Thrombosis Rate (Per Graft-Years)    Historical Control  Surveillance Period  Percent Reduction    Schwab, 198985  Dynamic dialysis venous pressure  0.61  0.20  67    Besarab, 199590  Static dialysis venous pressure  0.50  0.28  64    Safa, 199686  Clinical monitoring  0.48  0.17  64    Allon, 199827  Clinical monitoring  0.70  0.28  60    Cayco, 199887  Clinical monitoring  0.49  0.29  41    McCarley, 200197  Flow monitoring  0.71  0.16  77 |

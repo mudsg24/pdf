@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 41.1 Subtypes of Renal Cell Carcinoma Subtype  Incidence    Clear cell  70%–88% of  RCCs^{212-214}     Papillary type 1  Papillary types 1 and 2 together constitute    Papillary type 2  10%–20% of  RCCs^{214-216}     Chromophobe   5\%^{7,215}     ccRCC, Clear cell renal cell carcinoma; RCC, renal cell carcinoma. |

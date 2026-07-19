@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 66.4 Complications of Plasmapheresis Modality  Complications    Vascular access  HematomasPneumothoraxCatheter infections    Replacement fluids  Anaphylactoid reactions to fresh-frozen plasmaCoagulopathiesTransmission of viral infectionsHypocalcemiaHypokalemia    Other modalities  HypotensionDyspneaThrombocytopeniaRemoval of erythropoietin and drugs bound to plasma proteins |

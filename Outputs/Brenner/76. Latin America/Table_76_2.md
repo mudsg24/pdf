@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 76.2 Potential Causes of Mesoamerican Nephropathy Cause  Examples    Toxins  Pesticides and agricultural chemicals, heavy metals, herbal toxins    Drugs  Nonsteroidal antiinflammatory drugs    Infections  Leptospirosis, pyelonephritis    Genetic, developmental susceptibility  Low birth weight, specific genetic predisposition of unclear origin (APOL1-like)    Heat-related volume depletion  Ischemia, repeated rhabdomyolysis, fructose-mediated injury |

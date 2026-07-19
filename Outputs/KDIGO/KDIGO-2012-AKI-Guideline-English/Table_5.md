@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 5 \| Causes of AKI and diagnostic tests Selected causes of AKI requiring immediate diagnosis and specific therapies  Recommended diagnostic tests    Decreased kidney perfusion  Volume status and urinary diagnostic indices Urine sediment examination,    Acute glomerulonephritis, vasculitis, interstitial nephritis, thrombotic microangiopathy  serologic testing and hematologic testing    Urinary tract obstruction  Kidney ultrasound AKI, acute kidney injury. |

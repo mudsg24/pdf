@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 9.1 Ammonia Transport by Aquaporins |

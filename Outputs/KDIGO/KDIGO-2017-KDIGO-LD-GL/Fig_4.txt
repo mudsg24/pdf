@@ -1,0 +1,4 @@
+Figure 4 Framework to accept or decline donor candidates based on a transplant 
+program’s threshold of acceptable projected lifetime risk of 
+kidney failure, quantified as the aggregate of risk related to demographic 
+and health profile and donation-attributable risks.

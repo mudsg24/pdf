@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 67.2 Poisons Whose Elimination May Be Enhanced by Corporeal Techniques Urine Alkalinization  Multiple Doses of Activated Charcoal  Sodium Polystyrene Sulfonate  Prussian Blue    Chlorophenoxy herbicides (e.g., 2,4-D, MCPA,  MCPP)^a   Carbamazepine Colchicine Dapsone Digoxin Phenobarbital  Lithium Potassium  Radiocesium Thallium    Chlorpropamide Diflunisal Fluoride Methotrexate Phenobarbital Salicylates  Phenytoin Quinine Salicylates Theophylline Yellow oleander <sup>a</sup>2,4-D, 2,4-Dichlorophenoxyacetic acid; MCPA, 4-chloro-2- methylphenoxyacetic acid; MCPP, methylchlorophenoxypropionic acid (Mecoprop). |

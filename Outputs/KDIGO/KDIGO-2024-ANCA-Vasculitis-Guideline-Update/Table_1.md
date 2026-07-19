@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 1 \| Hierarchy of outcomes Hierarchy  Outcomes    Critical outcomes  • All-cause mortality • Kidney failure • ≥50% loss of GFR    Important outcomes  • Infection • Glucocorticoid-related adverse events • Malignancy • Remission/relapse • Annual GFR loss (minimum 3 years follow-up) GFR, glomerular <sup>fi</sup>ltration rate. The critical and important outcomes were voted on by the Work Group using an adapted Delphi process (1–9 Likert scale). Critical outcomes were rated 7–9, and important outcomes were rated 4–6 on the 9-point scale. |

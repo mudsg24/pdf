@@ -1,0 +1,2 @@
+Figure 6 Pre- and post-implementation pathways for the development, validation, implementation, 78 
+maintenance, and on-going evaluation of a clinical risk model

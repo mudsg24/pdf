@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 42.7 Factors That Distinguish Primary From Malignancy-Associated Membranous Nephropathy Parameter  Solid Tumor-Associated Membranous Nephropathy    Clinical clues  Age > 65 years, smoking > 20 pack-years, family history of malignancy, history of thromboembolism    Serologic  Absence of circulating anti-PLA2R autoantibodies in serum.    Histopathologic, kidney biopsy findings  1. Predominance of glomerular IgG1, IgG2 deposition (idiopathic membranous nephropathy is associated with IgG4 predominance)2. Normal glomerular anti-PLA2R staining3. Presence of > 8 inflammatory cells/glomerulus |

@@ -1,0 +1,598 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_1.txt",
+        "description": "Table 1 Hb levels in children between 1–19 years for initiation of anemia workup \n289",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_1.md",
+        "page": 18
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_2.txt",
+        "description": "Table 2 Hb levels in children between birth and 24 months for initiation of anemia workup \n307",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_2.md",
+        "page": 18
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_3.txt",
+        "description": "Table 3 Potentially correctable versus non correctable factors involved in the anemia of CKD, in addition to ESA \ndeficiency \n308",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_3.md",
+        "page": 36
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_4.txt",
+        "description": "Table 4 Practical approach in presence of ESA hyporesponsiveness \n312",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_4.md",
+        "page": 37
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_5.txt",
+        "description": "Table 5 Estimated risk associated with blood transfusions per unit transfused \n312",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_5.md",
+        "page": 41
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_6.txt",
+        "description": "Table 6 Estimated risk of transfusion-related infections per unit transfused \n314",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_6.md",
+        "page": 41
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_7",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_7.txt",
+        "description": "Table 7 Indications for blood transfusions \n318",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_7.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_7.md",
+        "page": 43
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_8",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_8.txt",
+        "description": "Table 8 Systematic review topics and screening criteria \n318",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_8.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_8.md",
+        "page": 47
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_9",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_9.txt",
+        "description": "Table 9 Hierarchy of importance of outcomes \n319",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_9.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_9.md",
+        "page": 47
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_10",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_10.txt",
+        "description": "Table 10 Literature search yield of primary articles for systematic review topics \n319",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_10.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_10.md",
+        "page": 48
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_11",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_11.txt",
+        "description": "Table 11 Classification of study quality \n320",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_11.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_11.md",
+        "page": 48
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_12",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_12.txt",
+        "description": "Table 12 GRADE system for grading quality of evidence \n320",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_12.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_12.md",
+        "page": 49
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_13",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_13.txt",
+        "description": "Table 13 Final grade for overall quality of evidence \n321",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_13.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_13.md",
+        "page": 49
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_14",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_14.txt",
+        "description": "Table 14 Balance of benefits and harm \n321",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_14.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_14.md",
+        "page": 50
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_15",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_15.txt",
+        "description": "Table 15 KDIGO nomenclature and description for grading recommendations \n321",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_15.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_15.md",
+        "page": 50
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_16",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_16.txt",
+        "description": "Table 16 Determinants of strength of recommendation \n322",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_16.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_16.md",
+        "page": 50
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Table_17",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_17_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_17_part2.png"
+        ],
+        "text": null,
+        "description": "Table 17 The Conference on Guideline Standardization (COGS) checklist for reporting clinical practice guidelines",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_17.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Table_17.md",
+        "page": 51,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 51
+          },
+          {
+            "part_no": 2,
+            "page": 52
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Fig_1.txt",
+        "description": "Figure 1 Receiver operating characteristic (ROC) curves, examining the utility of iron status tests to distinguish iron deficient from nondeficient study patients",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 22
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Fig_2.txt",
+        "description": "Figure 2 Sensitivity and specificity of TSAT and serum ferritin and their combination (TSAT + ferritin) and bone marrow iron (BM iron) to identify correctly a positive erythropoietic response (Z1-g/dl [Z10-g/l] increase in Hb [DHb]) to intravenous iron in 100 nondialysis patients with CKD (areas under the ROCs)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 23
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Fig_3.txt",
+        "description": "Figure 3 Lymphocytotoxic antibody reactivity against random donor test panel in relation to the number of blood transfusions",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 42
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-Anemia-Guideline-English",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-Anemia-Guideline-English/Fig_4.txt",
+        "description": "Figure 4 Algorithms for red cell transfusion use in CKD patients",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 44
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    }
+  ],
+  "hard_failures": []
+}

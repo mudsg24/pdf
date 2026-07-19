@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 73.8 Metabolic Acidosis in Children According to the Serum Anion Gap Serum Anion Gap  Features    Normal  Loss of bicarbonate in the stoolDiarrheaDigestive fistulas or surgical drainageDrugs— CaCl_{2} ,  MgCl_{2} , cation exchange resinsLoss of bicarbonate in urineMild to moderate renal failure (greater tubulointerstitial than glomerular damage)Renal tubular acidosisExtracellular volume expansion    High  Advanced renal failure (uremic acidosis)KetoacidosisDiabetes mellitusInborn errors of metabolismProlonged fastingLactic acidosisTissue hypoxiaInborn errors of metabolismToxins—salicylate, methanol, ethylene glycol |

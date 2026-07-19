@@ -1,0 +1,1 @@
+Fig. 61.5 Supplementary dose after hemodialysis (HD). To maintain therapeutic target concentrations, a supplementary dose must be given after hemodialysis to replace the removed fraction of the dose. The dose after dialysis (DHD) combines both the adjusted maintenance dose (Dfail) and the supplementary dose (Dsuppl).

@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 60.5 Dietary Approaches to Reduce Mortality in Established CKD Strategy  Tactic    Emphasize an overall diet with a high ratio of fiber to animal-based proteinMinimize dietary NaCl (“salt”)  Promote plant-based foodsMinimize animal-based foods, particularly red meatPromote fresh fruits and vegetables as toleratedMinimize processed foods |

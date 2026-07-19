@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 32 \| Medications that should be considered for temporary discontinuation before elective surgeries and potential perioperative adverse events associated with their continued use Medications  Potential perioperative adverse events    ACEi/ARB  Hypotension, AKI    Diuretics  Volume depletion, AKI    SGLT2i  Ketoacidosis (starvation or diabetes)    Metformin  Lactic acidosis if AKI occurs    Aminoglycosides  Acute tubular necrosis/AKI    NSAIDs  AKI, acute interstitial nephritis (AIN) ACEi, angiotensin-converting enzyme inhibitor; AKI, acute kidney injury; ARB, angiotensin II receptor blocker; NSAID, nonsteroidal anti-in<sup>fl</sup>ammatory drug; SGLT2i, sodium glucose cotransporter-2 inhibitor. |

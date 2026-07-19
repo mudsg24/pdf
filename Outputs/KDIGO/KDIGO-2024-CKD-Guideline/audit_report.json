@@ -1,0 +1,2871 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_1.txt",
+        "description": "Table 1 Criteria for chronic kidney disease",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_1.md",
+        "page": 22
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_2.txt",
+        "description": "Table 2 GFR categories in CKD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_2.md",
+        "page": 22
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_3.txt",
+        "description": "Table 3 Albuminuria categories in chronic kidney disease (CKD)",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_3.md",
+        "page": 22
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_4.txt",
+        "description": "Table 4 Use of GFR and albuminuria",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_4.md",
+        "page": 54
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_5.txt",
+        "description": "Table 5 Risk factors for CKD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_5.md",
+        "page": 56
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_6.txt",
+        "description": "Table 6 Guidance for selection of additional tests for evaluation of cause",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_6.md",
+        "page": 59
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_7",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_7.txt",
+        "description": "Table 7 Description of initial and supportive tests for evaluation of GFR",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_7.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_7.md",
+        "page": 63
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_8",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_8.txt",
+        "description": "Table 8 Indications for use of cystatin C",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_8.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_8.md",
+        "page": 64
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_9",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_9.txt",
+        "description": "Table 9 Comparison of estimated GFR and measured GFR",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_9.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_9.md",
+        "page": 65
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_10",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_10.txt",
+        "description": "Table 10 Indications for measured GFR",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_10.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_10.md",
+        "page": 66
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_11",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_11.txt",
+        "description": "Table 11 Implementation standards to ensure accuracy and reliability of GFR assessments using creatinine and cystatin C",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_11.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_11.md",
+        "page": 69
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_12",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_12.txt",
+        "description": "Table 12 Reported examples of substances that may cause analytical interferences in creatinine assays",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_12.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_12.md",
+        "page": 69
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_13",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_13.txt",
+        "description": "Table 13 Criteria for a validated GFR estimating equation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_13.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_13.md",
+        "page": 72
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=0.922"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_14",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_14.txt",
+        "description": "Table 14 Validated GFR estimating equations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_14.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_14.md",
+        "page": 74
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_15",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_15.txt",
+        "description": "Table 15 Criteria for equation comparison for comparison of candidate equations to another (i.e., how to determine validity)",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_15.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_15.md",
+        "page": 75
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_16",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_16.txt",
+        "description": "Table 16 Factors causing biological variation in urine albumin or urine protein",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_16.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_16.md",
+        "page": 76
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_17",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_17.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_17.txt",
+        "description": "Table 17 Implementation standards to ensure accuracy and reliability of urine samples",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_17.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_17.md",
+        "page": 78
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_18",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_18.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_18.txt",
+        "description": "Table 18 Impact of albuminuria/proteinuria on CKD progression in pediatrics",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_18.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_18.md",
+        "page": 83
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_19",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_19.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_19.txt",
+        "description": "Table 19 Externally validated risk equations for predicting kidney failure in the general (CKD G3–G5) population",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_19.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_19.md",
+        "page": 84
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=0.999"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_20",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_20.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_20.txt",
+        "description": "Table 20 Externally validated risk equations for predicting a 40% decline in GFR",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_20.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_20.md",
+        "page": 88
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_21",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_21.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_21.txt",
+        "description": "Table 21 Impact of plant-based foods in people with CKD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_21.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_21.md",
+        "page": 94
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_22",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_22.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_22.txt",
+        "description": "Table 22 Age-based sodium intake recommendations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_22.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_22.md",
+        "page": 97
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_23",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_23.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_23.txt",
+        "description": "Table 23 Variation of laboratory values in a large population database by age group, sex, and eGFR; bicarbonate, mmol/l, mean (SD), n [ 3,990,898",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_23.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_23.md",
+        "page": 107
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_24",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_24.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_24.txt",
+        "description": "Table 24 Variation of laboratory values in a large population database by age group, sex, and eGFR; potassium, mmol/l, mean (SD), n [ 4,278,600",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_24.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_24.md",
+        "page": 108
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_25",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_25.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_25.txt",
+        "description": "Table 25 Factors and mechanisms that impact on potassium measurements",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_25.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_25.md",
+        "page": 110
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_26",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_26.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_26.txt",
+        "description": "Table 26 Medications associated with increased risk of hyperkalemia",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_26.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_26.md",
+        "page": 111
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_27",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_27.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_27.txt",
+        "description": "Table 27 A comparison of potassium exchange agents",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_27.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_27.md",
+        "page": 112
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_28",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_28.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_28.txt",
+        "description": "Table 28 Suggested action in the event of moderate and severe hyperkalemia",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_28.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_28.md",
+        "page": 112
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_29",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_29.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_29.txt",
+        "description": "Table 29 Variation of laboratory values in a large population database by age group, sex, and eGFR; hemoglobin, g/dl, mean (SD), n [3,561,622",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_29.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_29.md",
+        "page": 114
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_30",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_30.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_30.txt",
+        "description": "Table 30 Randomized controlled trials in the treatment of asymptomatic hyperuricemia in people with CKD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_30.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_30.md",
+        "page": 118
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_31",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_31.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_31.txt",
+        "description": "Table 31 Key examples of common medications with documented nephrotoxicity and, where available, selected non-nephrotoxic alternatives",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_31.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_31.md",
+        "page": 132
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_32",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_32.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_32.txt",
+        "description": "Table 32 Medications that should be considered for temporary discontinuation before elective surgeries and potential perioperative adverse events associated with their continued use",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_32.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_32.md",
+        "page": 137
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_33",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_33.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_33.txt",
+        "description": "Table 33 Potential risk factors for contrast-associated acute kidney injury",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_33.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_33.md",
+        "page": 138
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_34",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_34.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_34.txt",
+        "description": "Table 34 Benefits and consequences of early versus late referral",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_34.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_34.md",
+        "page": 141
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_35",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_35.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_35.txt",
+        "description": "Table 35 Factors associated with late referral for kidney replacement therapy planning",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_35.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_35.md",
+        "page": 142
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_36",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_36.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_36.txt",
+        "description": "Table 36 Outcomes examined in a systematic review by Smart et al.",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_36.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_36.md",
+        "page": 142
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_37",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_37.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_37.txt",
+        "description": "Table 37 Recommended patient-reported outcome measurement tools for use in people with CKD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_37.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_37.md",
+        "page": 143
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_38",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_38_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_38_part2.png"
+        ],
+        "text": null,
+        "description": "Table 38 Management strategies for common symptoms in CKD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_38.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_38.md",
+        "page": 144,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 144
+          },
+          {
+            "part_no": 2,
+            "page": 145
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_39",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_39.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_39.txt",
+        "description": "Table 39 List of validated assessment tools for malnutrition",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_39.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_39.md",
+        "page": 146
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_40",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_40.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_40.txt",
+        "description": "Table 40 Key features of existing CKD care models",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_40.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_40.md",
+        "page": 147
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_41",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_41.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_41.txt",
+        "description": "Table 41 Indications for the initiation of dialysis",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_41.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_41.md",
+        "page": 151
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_42",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_42.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_42.txt",
+        "description": "Table 42 Studies examining the timing of dialysis in people with CKD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_42.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_42.md",
+        "page": 152
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_43",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_43.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_43.txt",
+        "description": "Table 43 People with kidney failure who receive comprehensive conservative care",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_43.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_43.md",
+        "page": 153
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_44",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_44_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_44_part2.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_44_part3.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_44_part4.png"
+        ],
+        "text": null,
+        "description": "Table 44 Clinical questions and systematic review topics in PICOS format",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_44.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_44.md",
+        "page": 160,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 160
+          },
+          {
+            "part_no": 2,
+            "page": 161
+          },
+          {
+            "part_no": 3,
+            "page": 162
+          },
+          {
+            "part_no": 4,
+            "page": 163
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_45",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_45.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_45.txt",
+        "description": "Table 45 Classification for certainty of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_45.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_45.md",
+        "page": 165
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_46",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_46.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_46.txt",
+        "description": "Table 46 GRADE system for grading the certainty of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_46.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_46.md",
+        "page": 165
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_47",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_47.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_47.txt",
+        "description": "Table 47 KDIGO nomenclature and description for grading recommendations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_47.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_47.md",
+        "page": 166
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Table_48",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_48.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_48.txt",
+        "description": "Table 48 Determinants of the strength of recommendation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_48.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Table_48.md",
+        "page": 166
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_1.txt",
+        "description": "Figure 1 Associations of chronic kidney disease (CKD) staging by estimated glomerular filtration rate by creatinine and cystatin C (eGFRcr-cys) and albumin-to-creatinine ratio (ACR) categories and risks for 10 common complications by age in multivariable-adjusted analyses",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 21
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_2.txt",
+        "description": "Figure 2 Age-standardized chronic kidney disease disability-adjusted life-year (DALY) rates for each location by sociodemographic index, both sexes combined, 2019",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 23
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_3.txt",
+        "description": "Figure 3 Screening algorithm for diagnosis and staging of chronic kidney disease (CKD) in adults",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 24
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_4.txt",
+        "description": "Figure 4 Special considerations for chronic kidney disease (CKD) care across the lifespan",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 26
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_5.txt",
+        "description": "Figure 5 Associations of chronic kidney disease (CKD) staging by estimated glomerular filtration rate by creatinine (eGFRcr) and albumin-to-creatinine ratio (ACR) categories and risks for 10 common complications in multivariable-adjusted analyses",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 30
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_6.txt",
+        "description": "Figure 6 Associations of chronic kidney disease (CKD) staging by estimated glomerular filtration rate by creatinine and cystatin C (eGFRcr-cys) and albumin-to-creatinine ratio categories and risks for 10 common complications in multivariable-adjusted analyses",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 31
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_7.txt",
+        "description": "Figure 7 Hazard ratios for adverse outcomes using the continuous model of estimated glomerular filtration rate (eGFR), comparison of the shape of associations between creatinine-based eGFR (eGFRcr) and creatinine and cystatin C–based eGFR (eGFRcr-cys) in the population with cystatin C (eGFRcr-cys population)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 32
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_8.txt",
+        "description": "Figure 8 Evaluation of cause of chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 58
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_9.txt",
+        "description": "Figure 9 Actionable genes in kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 59
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_10",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_10.txt",
+        "description": "Figure 10 Proposed organization for implementing genetics in nephrology",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 60
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_11",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_11.txt",
+        "description": "Figure 11 Approach to glomerular filtration rate (GFR) evaluation using initial and supportive tests",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 62
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_12",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_12.txt",
+        "description": "Figure 12 Sources and magnitude of error around measured glomerular filtration rate (mGFR) and estimated GFR (eGFR)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 67
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_13",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_13.txt",
+        "description": "Figure 13 Frequency of monitoring glomerular filtration rate (GFR) and albuminuria in people with chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 82
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_14",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_14.txt",
+        "description": "Figure 14 (a) Predicted risk of kidney failure and (b) ‡40% decline in estimated glomerular filtration rate (eGFR) by chronic kidney disease (CKD) eGFR (G1–G5) and albumin-to-creatinine ratio (ACR) (A1–A3) categories in Optum Labs Data Warehouse",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 84
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_15",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_15.txt",
+        "description": "Figure 15 Transition from an estimated glomerular filtration rate (eGFR)-based to a risk-based approach to chronic kidney disease care",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 86
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_16",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_16.txt",
+        "description": "Figure 16 Comparison of risk of chronic kidney disease (CKD) progression (5-year probability of estimated glomerular filtration rate [eGFR] 2) versus kidney failure in adults with CKD G1– G2 calculated from the risk equation available at https://www.ckdpc.org/risk-models.html",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 87
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_17",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_17.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_17.txt",
+        "description": "Figure 17 Chronic kidney disease (CKD) treatment and risk modification",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 90
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_18",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_18.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_18.txt",
+        "description": "Figure 18 Holistic approach to chronic kidney disease (CKD) treatment and risk modification",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 91
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_19",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_19.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_19.txt",
+        "description": "Figure 19 Protein guideline for adults with chronic kidney disease not treated with dialysis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 93
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_20",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_20.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_20.txt",
+        "description": "Figure 20 Average protein content of foods in grams",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 94
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_21",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_21.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_21.txt",
+        "description": "Figure 21 Algorithm for monitoring of potassium and estimated glomerular filtration rate (eGFR) after the initiation of renin-angiotensin system inhibitors",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 99
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_22",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_22.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_22.txt",
+        "description": "Figure 22 Effect of sodium-glucose cotransporter-2 inhibitors (SGLT2i) with kidney disease outcomes by diabetes status",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 100
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_23",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_23.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_23.txt",
+        "description": "Figure 23 Effects of sodium-glucose cotransporter-2 (SGLT2) inhibition versus placebo on cardiovascular and mortality outcomes by diabetes status and trial population",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 101
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_24",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_24.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_24.txt",
+        "description": "Figure 24 Effects of sodium-glucose cotransporter-2 (SGLT2) inhibition versus placebo on kidney failure (chronic kidney disease [CKD] trials)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 102
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_25",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_25.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_25.txt",
+        "description": "Figure 25 Effects of empagliflozin versus placebo on annual rate of change in estimated glomerular filtration rate (GFR) by key subgroups in the Study of Heart and Kidney Protection With Empagliflozin (EMPA KIDNEY)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 104
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_26",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_26.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_26.txt",
+        "description": "Figure 26 Serum potassium monitoring during treatment with a nonsteroidal mineralocorticoid receptor antagonist (MRA) (finerenone)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 105
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_27",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_27.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_27.txt",
+        "description": "Figure 27 Effect of finerenone versus placebo on kidney and cardiovascular outcomes in pooled analyses from the Finerenone in Reducing Kidney Failure and Disease Progression in Diabetic Kidney Disease (FIDELIO-DKD) and Finerenone in Reducing Cardiovascular Mortality and Morbidity in Diabetic Kidney Disease (FIGARO-DKD trials)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 106
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_28",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_28.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_28.txt",
+        "description": "Figure 28 Association between estimated glomerular filtration rate (eGFR) with serum bicarbonate concentration in general population and high-risk cohorts from the Chronic Kidney Disease Prognosis Consortium, by level of albuminuria (A1–A3)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 107
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_29",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_29.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_29.txt",
+        "description": "Figure 29 Distribution of blood potassium in general population and high-risk cohorts from the Chronic Kidney Disease Prognosis Consortium, by estimated glomerular filtration rate (eGFR)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 109
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_30",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_30.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_30.txt",
+        "description": "Figure 30 Meta-analyzed adjusted prevalence of hyperkalemia (25th and 75th percentile cohort) in general population and high-risk cohorts from the Chronic Kidney Disease Prognosis Consortium, by diabetes status",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 109
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_31",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_31.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_31.txt",
+        "description": "Figure 31 Serum potassium concentration and confounder-adjusted risk of death by presence or absence of diabetes, heart failure (HF), or chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 110
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_32",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_32.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_32.txt",
+        "description": "Figure 32 Actions to manage hyperkalemia (potassium >5.5 mmol/l) in chronic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 113
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_33",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_33.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_33.txt",
+        "description": "Figure 33 Potassium absorption rates of plant-based, animal-based, and processed foods",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 113
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_34",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_34.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_34.txt",
+        "description": "Figure 34 Association between estimated glomerular filtration rate (eGFR) and hemoglobin concentration from general population and high-risk cohorts from the Chronic Kidney Disease Prognosis Consortium, by diabetes status",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 114
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_35",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_35.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_35.txt",
+        "description": "Figure 35 Association between estimated glomerular filtration rate (eGFR) with serum concentrations of parathyroid hormone, phosphate, and serum calcium in general population and high-risk cohorts from the Chronic Kidney Disease Prognosis Consortium, by level of albuminuria (A1–A3)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 115
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_36",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_36.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_36.txt",
+        "description": "Figure 36 Risk of all-cause and cardiovascular mortality by estimated glomerular filtration rate (eGFR) and level of albuminuria from general population cohorts contributing to the Chronic Kidney Disease Prognosis Consortium",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 118
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_37",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_37.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_37.txt",
+        "description": "Figure 37 Effect of lowering low-density lipoprotein (LDL) cholesterol per 1.0 mmol/l on risk of major vascular events by level of estimated glomerular filtration rate (eGFR) at recruitment",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 120
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_38",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_38.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_38.txt",
+        "description": "Figure 38 Predicted 5-year absolute benefits and harms of allocation to aspirin (A) versus control (C) using a secondary or primary prevention strategy, by different levels of risk (based on age and sex)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 122
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_39",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_39.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_39.txt",
+        "description": "Figure 39 Meta-analyzed adjusted prevalence of atrial fibrillation from cohorts contributing to the Chronic Kidney Disease Prognosis Consortium, by diabetes status",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 125
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_40",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_40.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_40.txt",
+        "description": "Figure 40 Strategies for the diagnosis and management of atrial fibrillation",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 126
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_41",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_41.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_41.txt",
+        "description": "Figure 41 Pooled hazard ratio (HR) comparing non–vitamin K antagonist oral anticoagulants (NOACs) with warfarin among people with chronic kidney disease in terms of stroke",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 127
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_42",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_42.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_42.txt",
+        "description": "Figure 42 Pooled hazard ratio (HR) comparing non–vitamin K antagonist oral anticoagulants (NOACs) with warfarin among people with chronic kidney disease in terms of bleeding",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 128
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_43",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_43.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_43.txt",
+        "description": "Figure 43 Evidence from (a) randomized controlled trials (RCTs) regarding therapeutic anticoagulation dose by glomerular filtration rate (GFR) and (b) in areas where RCTs are lacking",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 129
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_44",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_44.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_44.txt",
+        "description": "Figure 44 Advice on when to discontinue non–vitamin K antagonist oral anticoagulants (NOACs) before procedures (low vs. high risk)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 49
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_45",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_45.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_45.txt",
+        "description": "Figure 45 Selected herbal remedies and dietary supplements with evidence of potential nephrotoxicity, grouped by the continent from where the reports first came",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 133
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_46",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_46.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_46.txt",
+        "description": "Figure 46 Suggested steps in the process of medication review and reconciliation",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 135
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_47",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_47.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_47.txt",
+        "description": "Figure 47 Essential steps for appropriate sick day rule implementation",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 136
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_48",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_48.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_48.txt",
+        "description": "Figure 48 Circumstances for referral to specialist kidney care services and goals of the referral",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 140
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_49",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_49.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_49.txt",
+        "description": "Figure 49 Common symptoms, prevalence, and severity in people with chronic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 143
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_50",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_50.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_50.txt",
+        "description": "Figure 50 Optimal care model by increasing severity of chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 146
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_51",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_51.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_51.txt",
+        "description": "Figure 51 The chronic care model",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 147
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_52",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_52.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_52.txt",
+        "description": "Figure 52 Specific components of the chronic kidney disease model of care",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 147
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_53",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_53.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_53.txt",
+        "description": "Figure 53 Strategy for effective patient education programs for people with chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 148
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_54",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_54.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_54.txt",
+        "description": "Figure 54 Telehealth technologies for people with chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 149
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_55",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_55.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_55.txt",
+        "description": "Figure 55 The process of transition from pediatric to adult care in chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 150
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_56",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_56.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_56.txt",
+        "description": "Figure 56 Relationship between supportive care, comprehensive conservative care, and end-of-life care",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 154
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2024-CKD-Guideline",
+      "asset_id": "Fig_57",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_57.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2024-CKD-Guideline/Fig_57.txt",
+        "description": "Figure 57 Search yield and study flow diagram",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 164
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    }
+  ],
+  "hard_failures": []
+}

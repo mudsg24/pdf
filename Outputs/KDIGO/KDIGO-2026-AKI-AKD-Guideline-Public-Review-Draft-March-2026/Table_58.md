@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 58 \|.Post-AKI/AKD kidney health care framework<sup>1210</sup> KAMPS Framework  Components    Kidney function check  Measure kidney function (e.g., serum creatinine or cystatin C), urinalysis,assessment of albuminuria    Advocacy  Patient education about kidney function and AKI, what to expect inresolution of AKI, and self-care strategies    Medications  Medication review and reconciliation    Pressure  Blood pressure evaluation and adherence to guideline-recommended targets    Sick day protocols  Patient information about how to self-manage medications in the event ofdehydration or acute illness AKD, acute kidney disease; AKI, acute kidney injury |

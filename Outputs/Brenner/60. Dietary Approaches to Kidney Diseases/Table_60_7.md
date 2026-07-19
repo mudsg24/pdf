@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 60.7 Dietary Interventions That Help in the Management of CKD-Related Complications Strategy  Tactic    Nephropathy progression  Reduce net endogenous acid productionPromote a “kidney friendly” gut microbiome    Hypertension  Minimize NaCl (“salt”)Promote plant-based food as toleratedPotassium as toleratedMagnesium as tolerated    Disturbed calcium/phosphate metabolism  Promote plant-based food as toleratedMinimize processed foods    Metabolic acidosis  Promote base-producing fruits and vegetables as toleratedMinimize animal-based proteinMinimize NaCl (“salt”)    Increased protein catabolism  Treat metabolic acidosis with the described dietary approaches |

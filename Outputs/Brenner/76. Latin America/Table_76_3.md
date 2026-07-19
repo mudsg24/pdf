@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 76.3 Socioeconomic Indexes, Prevalence and Incidence of Renal Replacement Therapy and Transplantation Rate in Latin America |

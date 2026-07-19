@@ -1,0 +1,1 @@
+Table 64.5 Determinants of Solute Clearance and Fluid Removal in Peritoneal Dialysis **Patient-Related Factors** * Residual kidney function * Body mass index * Peritoneal transport type **Prescription-Related Factors** * Dialytic modality * Frequency of exchanges per day * Volume of each exchange * Dwell time * Dialysis fluid tonicity

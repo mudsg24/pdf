@@ -1,0 +1,1 @@
+Fig. 61.3 Threshold concentration, CE05, producing 5% of the maximum effect and ceiling concentration, CE95, producing 95% of the maximum effect. With a Hill coefficient of H = 1.0, CE05 = 0.5 and CE95 = 190, whereas for H = 4.0, the threshold is higher, with CE05 = 6.0, but the ceiling is much less, with CE95 = 21 mg/L.

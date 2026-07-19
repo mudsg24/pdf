@@ -1,0 +1,1 @@
+Fig. 46.15 Blood pressure and mortality in US veterans with chronic kidney disease. Shown are multivariable-adjusted relative hazards (hazard ratios [95% confidence intervals]) of all-cause mortality associated with systolic blood pressure (SBP) and diastolic blood pressure (DBP) relative to a hypothetical patient with the mean time-varying SBP (133 mm Hg) and DBP (71 mm Hg).

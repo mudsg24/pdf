@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 7: Diagnostic criteria for acute kidney injury Criteria An abrupt (within 48 h) reduction in kidney function currently defined as an absolute increase in serum creatinine of 0.3 mg/dL ( 26.4 lmol/L), a percentage increase in serum creatinine of 50% (1.5-fold from baseline), or a reduction in urine output (documented oliguria of less than 0.5 mL/kg/h for more than 6 h). The above criteria include both an absolute and a percentage change in creatinine to accommodate variations related to age, gender and BMI, and to reduce the need for a baseline creatinine but do require at least two creatinine values within 48 h. BMI, body mass index. Adapted with permission (164). |

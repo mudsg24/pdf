@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 32.1 International Society of Nephrology/ Renal Pathology Society (2003) Classification of Lupus Nephritis |

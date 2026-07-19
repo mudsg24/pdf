@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 24.2 Use of the Hematocrit to Estimate the Extracellular Fluid Volume<sup>a</sup>  <sup>a</sup>The assumptions made when using this calculation are that the patient does not have anemia or erythrocytosis, that the red blood cell (RBC) volume is 2 L, and that the plasma volume is 3 L (blood volume 5 L). The formula is: Hematocrit = RBC volume/(RBC volume + plasma volume) Values between those listed can be deduced by interpolation. ECFV, Extracellular fluid volume. |

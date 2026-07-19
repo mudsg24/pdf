@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 33.1. Considerations for Individualization of Therapy and Avoidance of Drug Toxicity Considerations  Example    Disease  Disease-specific treatment targets  A partial remission of proteinuria may portend favorable prognosis and minimize drug toxicity    Disease-related risks with no treatment  Risk of thrombosis with untreated membranous nephropathy, life-threatening risks of vasculitis    Patient  Modifiable patient factors  Obesity, smoking    Nonmodifiable patient factors  Age, comorbid conditions    Exposures  Endemic and latent infections    Drug  Anticipation of drug-specific toxicities  Steroid avoidance in prediabetes, infection prophylaxis |

@@ -1,0 +1,1 @@
+Fig. 63.13 Membrane-limited clearance. The diffusive force is the solute concentration gradient. Solute concentrations along the membrane from dialyzer inflow to outflow for both blood and dialysate are relatively constant because transport across the membrane is limiting and relatively low.

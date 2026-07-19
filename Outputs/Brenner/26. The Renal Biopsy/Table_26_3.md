@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 26.3 Alternative Methods for Obtaining Renal Tissue and Their Risks and Benefits Compared With a Percutaneous Approach |

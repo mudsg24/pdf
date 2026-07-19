@@ -1,0 +1,1091 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_1.txt",
+        "description": "Table 1 Implications of the strength of a recommendation \n19",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_1.md",
+        "page": 21
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_2.txt",
+        "description": "Table 2 Staging of AKI \n21",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_2.md",
+        "page": 11
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_3.txt",
+        "description": "Table 3 Comparison of RIFLE and AKIN criteria for diagnosis and classification of AKI \n21",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_3.md",
+        "page": 24
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_4.txt",
+        "description": "Table 4 Cross-tabulation of patients classified by RIFLE vs. AKIN \n22",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_4.md",
+        "page": 24
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_5.txt",
+        "description": "Table 5 Causes of AKI and diagnostic tests \n23",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_5.md",
+        "page": 25
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_6.txt",
+        "description": "Table 6 Causes of AKI: exposures and susceptibilities for non-specific AKI \n28",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_6.md",
+        "page": 26
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_7",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_7.txt",
+        "description": "Table 7 AKI diagnosis \n29",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_7.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_7.md",
+        "page": 31
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_8",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_8.txt",
+        "description": "Table 8 Overview of the approaches to determine baseline SCr in the application of RIFLE classification in previous \nstudies \n29",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_8.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_8.md",
+        "page": 32
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_9",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_9.txt",
+        "description": "Table 9 Estimated baseline SCr \n30",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_9.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_9.md",
+        "page": 32
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_10",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_10.txt",
+        "description": "Table 10 AKI staging \n33",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_10.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_10.md",
+        "page": 33
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_11",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_11.txt",
+        "description": "Table 11 Definitions of AKI, CKD, and AKD \n33",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_11.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_11.md",
+        "page": 36
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_12",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_12.txt",
+        "description": "Table 12 Examples of AKI, CKD, and AKD based on GFR and increases in SCr \n35",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_12.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_12.md",
+        "page": 36
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_13",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_13.txt",
+        "description": "Table 13 Markers of kidney damage in AKD and CKD \n35",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_13.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_13.md",
+        "page": 38
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_14",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_14.txt",
+        "description": "Table 14 Integrated approach to interpret measures of kidney function and structure for diagnosis of AKI, AKD, and CKD \n73",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_14.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_14.md",
+        "page": 38
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_15",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_15.txt",
+        "description": "Table 15 CI-AKI risk-scoring model for percutaneous coronary intervention \n77",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_15.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_15.md",
+        "page": 76
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_16",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_16.txt",
+        "description": "Table 16 Additional radiological measures to reduce CI-AKI \n91",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_16.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_16.md",
+        "page": 80
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=0.944"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_17",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_17.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_17.txt",
+        "description": "Table 17 Potential applications for RRT \n91",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_17.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_17.md",
+        "page": 94
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_18",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_18.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_18.txt",
+        "description": "Table 18 Fluid overload and outcome in critically ill children with AKI \n97",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_18.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_18.md",
+        "page": 94
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_19",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_19.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_19.txt",
+        "description": "Table 19 Overview of the advantages and disadvantages of different anticoagulants in AKI patients \n104",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_19.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_19.md",
+        "page": 100
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_20",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_20.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_20.txt",
+        "description": "Table 20 Catheter and patient sizes \n107",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_20.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_20.md",
+        "page": 107
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_21",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_21.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_21.txt",
+        "description": "Table 21 Typical setting of different RRT modalities for AKI (for 70-kg patient) \n108",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_21.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_21.md",
+        "page": 110
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_22",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_22.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_22.txt",
+        "description": "Table 22 Theoretical advantages and disadvantages of CRRT, IHD, SLED, and PD \n112",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_22.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_22.md",
+        "page": 111
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Table_23",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_23.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_23.txt",
+        "description": "Table 23 Microbiological quality standards of different regulatory agencies",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_23.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Table_23.md",
+        "page": 115
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_1.txt",
+        "description": "Figure 1 The RIFLE criteria for AK \n20",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 17
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_2.txt",
+        "description": "Figure 2 Overview of AKI, CKD, and AKD \n20",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 23
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_3.txt",
+        "description": "Figure 3 Conceptual model for AKI \n25",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 23
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_4.txt",
+        "description": "Figure 4 Stage-based management of AKI \n26",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 12
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_5.txt",
+        "description": "Figure 5 Evaluation of AKI according to the stage and cause \n34",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 29
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_6.txt",
+        "description": "Figure 6 Chronic Kidney Disease Epidemiology Collaboration cohort changes in eGFR and final eGFR corresponding to \nKDIGO definition and stages of AKI \n34",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 37
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_7.txt",
+        "description": "Figure 7 GFR/SCr algorithm \n38",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 37
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_8.txt",
+        "description": "Figure 8 Conceptual model for development and clinical course of AKI \n48",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 41
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_9.txt",
+        "description": "Figure 9 Effect of furosemide vs. control on all-cause mortality \n48",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 51
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_10",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_10.txt",
+        "description": "Figure 10 Effect of furosemide vs. control on need for RRT \n51",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 51
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_11",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_11.txt",
+        "description": "Figure 11 Effect of low-dose dopamine on mortality \n52",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 54
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_12",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_12.txt",
+        "description": "Figure 12 Effect of low-dose dopamine on need for RRT \n73",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 55
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_13",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_13.txt",
+        "description": "Figure 13 Sample questionnaire \n78",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 76
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_14",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_14.txt",
+        "description": "Figure 14 Risk for contrast-induced nephropathy \n81",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 81
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_15",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_15.txt",
+        "description": "Figure 15 Bicarbonate vs. saline and risk of CI-AKI \n85",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 84
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_16",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_16.txt",
+        "description": "Figure 16 NAC and bicarbonate vs. NAC for risk of CI-AKI \n96",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 88
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2012-AKI-Guideline-English",
+      "asset_id": "Fig_17",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_17.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2012-AKI-Guideline-English/Fig_17.txt",
+        "description": "Figure 17 Flow-chart summary of recommendations",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 14
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    }
+  ],
+  "hard_failures": []
+}

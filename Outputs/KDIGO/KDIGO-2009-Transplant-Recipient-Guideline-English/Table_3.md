@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 3: CNI cost reduction from the concomitant use of ketoconazole Mean follow-up Ketoconazole (mg/day)a  Estimated cost reduction (%)    Study First (66)b  CNI CsA  Keto (N) 24  Control (N) 28  (months) 15  200  73    Butman (66A)  CsA  15  一  11  400  72    Keogh (68)b  CsA  23  20  25  200  80    Sobh (69)b  CsA  51  49  53  82.8  73    Carbajal (71)  CsA  14  17  29  54 ± 17  60    El-Dahshan (73)b  Tac  35  35  24  100  53    Soltero (73A)  Tac  11  一  15  87  78 CNI, calcineurin inhibitor; CsA, cyclosporine A; Keto, ketoconazole; Tac, tacrolimus. <sup>a</sup>Fixed total once daily dose, or mean standard deviation. <sup>b</sup>RCT |

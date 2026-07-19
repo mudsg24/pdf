@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 11.2 Peptides That Have Been Described as Substrates for Neprilysin<sup>393,547</sup> |

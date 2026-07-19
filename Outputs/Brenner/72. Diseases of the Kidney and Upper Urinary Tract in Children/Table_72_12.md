@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 72.12 Current and Emerging Treatment Options for Children With IgA Nephropathy or Henoch–Schönlein Purpura Nephritis Immunosuppressive  Nonimmunosuppressive    Oral glucocorticoids  Angiotensin-converting enzyme inhibitors    Pulse intravenous methylprednisolone  Angiotensin receptor blockers    Mycophenolate mofetil (and mizoribine)  Fish oil ^{a}  (omega 3 fatty acids)    Alkylating agents ^{a}  (cyclophosphamide, chlorambucil)  Tonsillectomy ^{a}     Calcineurin inhibitors ^{a}  (cyclosporine, tacrolimus)  Chinese herbal medicine ^{a}  (Sairei-to; TJ-114)    Budesonide ^{b}   Coagulation-modifying drugs ^{a}  (warfarin, urokinase, antiplatelet drugs) <sup>a</sup>Less commonly used treatment. <sup>b</sup>Emerging treatment. |

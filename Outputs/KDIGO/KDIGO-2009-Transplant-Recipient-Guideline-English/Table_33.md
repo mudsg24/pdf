@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 33: Literature search yield of RCTs RCTs included Systematic reviews in evidence profiles    Topic  Abstracts identifiedª  RCTs retrieved  RCTs accepted  RCTs data- extracted  in summary tablesb    Immunosuppression    87  84      Monitoring and infections CVD  15094  134  93      7    24  23  17  17 0  5 0      11  2  2 0  0  1    Malignancy Miscellaneous  0 18  0 18  13  13  2 CVD, cardiovascular disease; RCT, randomized controlled trial. <sup>a</sup>All topics and all study designs combined. <sup>b</sup>Available at www.kdigo.org. |

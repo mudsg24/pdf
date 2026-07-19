@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 16.18 Diagnosis of Metabolic Alkalosis |

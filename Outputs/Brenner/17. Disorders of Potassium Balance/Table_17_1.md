@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 17.1 Factors Affecting Distribution of Potassium Between Intracellular and Extracellular Compartments  From Giebisch G: Renal potassium transport: mechanisms and regulation. Am J Physiol. 1998;274:F817-F833. |

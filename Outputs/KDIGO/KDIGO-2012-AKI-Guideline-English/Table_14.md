@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 14 \| Integrated approach to interpret measures of kidney function and structure for diagnosis of AKI, AKD, and CKD Measures    Diagnosis  GFR/SCr  Oliguria  Kidney damage  Small kidneys    AKI  X  X        AKD  X    X      CKD  X  X  X  X X indicates that the measures can contribute to the diagnosis indicated. AKD, acute kidney diseases and disorders; AKI, acute kidney injury; CKD, chronic kidney disease. |

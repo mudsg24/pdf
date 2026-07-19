@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 61.8 Recommendations for Dosing Selected Drugs in Patients With Chronic Kidney Disease or Acute Kidney Injury A multi-page table providing dosing recommendations for various drugs based on glomerular filtration rate (GFR) categories (>50, 10-50, <10 mL/min) and for patients receiving renal replacement therapies (HD, CAPD, CRRT). The table lists drugs alphabetically and provides dose reduction percentages or interval prolongations for each GFR category, followed by specific dosing guidance for each type of renal replacement therapy. |

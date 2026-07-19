@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 33.2. Definition of Remission and Outcome by Histologic Diagnosis in Primary Glomerulonephritis Membranous Glomerulonephritis  Focal and Segmental Glomerulosclerosis  Immunoglobulin A Nephropathy    Definition of partial remission  Reduction to <3.5 g/day and 50% decrease from peak proteinuria  Reduction to <3.5 g/day and 50% decrease from peak proteinuria  Reduction to <1 g/day proteinuria    Rate of renal function decline  CR: -1 mL/min/year  CR: -0.1 mL/min/year  CR: -1.6 mL/min/year    PR: -2 mL/min/year  PR: -5.6 mL/min/year  PR: -2 mL/min/year    NR: -10 mL/min/year  NR: -10 mL/min/year  NR: -9 mL/min/year CR, Complete remission; NR, no remission; PR, partial remission. |

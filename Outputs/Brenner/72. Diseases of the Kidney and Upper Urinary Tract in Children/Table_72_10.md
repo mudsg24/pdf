@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 72.10 Causes of Membranous Nephropathy in Children Primary  Secondary    Infections  Medications  Autoimmune Diseases  Neoplasms  Miscellaneous    Idiopathic membranous nephropathy  Hepatitis B  Captopril  Systemic lupus erythematosus  Neuroblastoma  Sickle cell disease    Hepatitis C  Nonsteroidal antiinflammatory drugs  Sjögren syndrome  Angiomatoid fibrous histiocytoma  De novo, postrenal transplantation    Streptococcal infections  Penicillamine  Sarcoidosis  Ovarian tumor  Mercury exposure    Syphilis  Infliximab  Autoimmune hepatitis        Tuberculosis  Tiopronin  Primary biliary cirrhosis        Epstein-Barr virus  Etanercept          Cytomegalovirus  Gold          Malaria |

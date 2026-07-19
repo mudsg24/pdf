@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 16.15 Contrasting Features and Diagnostic Studies in Renal Tubular Acidosis |

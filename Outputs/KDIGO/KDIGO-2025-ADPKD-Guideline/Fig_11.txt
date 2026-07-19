@@ -1,0 +1,1 @@
+Figure 11 Predicted estimated glomerular filtration rate (eGFR) values and slopes by Mayo Imaging Classification (MIC) at different ages, using a polynomial model

@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 77.5 Regional Access to Antiretroviral Therapy in 2015 for Africans Living With Human Immunodeficiency Virus. Figures Are Percentages With Confidence Intervals Adults (Aged 15 Years+)  Children (Aged 0–14 Years)  Pregnant  Women^a     Eastern and Southern Africa  53% (50–57)  63% (56–71)  90% (82–95+)    Western and Central Africa  29% (24–35)  20% (16–25)  48% (40–58)    Middle East and North Africa  16% (12–24)  20% (16–25)  12% (9–18)    Global averages  46% (43–50)  49% (42–55)   77\% (69–86)^{114} <sup>a</sup>Treatment to prevent mother-to-child transmission of human immunodeficiency virus. From AIDS by the numbers. Geneva, Switzerland: Joint United Nations programme on HIV/AIDS 2016. |

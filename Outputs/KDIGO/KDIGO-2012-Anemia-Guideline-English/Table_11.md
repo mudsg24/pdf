@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 11 \| Classification of study quality Good quality  Low risk of bias and no obvious reporting errors, complete reporting of data. Must be prospective. If study of intervention, must be randomized controlled study (RCT).    Fair quality  Moderate risk of bias, but problems with study/paper are unlikely to cause major bias. If study of intervention, must be prospective.    Poor quality  High risk of bias or cannot exclude possible significant biases. Poor methods, incomplete data, reporting errors. Prospective or retrospective. |

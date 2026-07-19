@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 66.5 Decrease of Clotting Factors Following Plasmapheresis Factor  Decrease From Baseline (%)  Factor Level    24 Hours After Plasmapheresis  48–96 Hours After Plasmapheresis    V  50–71  RTB  RTB    VII  69–82  62  RTB    VIII  50–82  62, RTB  RTB    IX  26–55  RTB  RTB    X  67–84  RTB  RTB    XI  50–66    RTB    XII  66    RTB    Antithrombin III  58–84  70, RTB  82%, RTB    Fibrinogen  50–78  60  63%, RTB RTB, Return to baseline. |

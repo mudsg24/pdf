@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 9: Assessment of medication adherence (255,260) Self-reporting medication use by patient Collateral reporting of medication use by relatives, friends or caretakers    Patient diaries    Questionnaires Laboratory tests (drug and metabolite levels)    Medical record review, outcomes    Prescription refills    Monitored pill counts    Electronic monitoring devices Modified with permission (260). |

@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 10 \| Criteria for resolution of AKI and AKD Complete resolution  Partial resolution    AKI  SCr or serum cystatin C <1.2 times higherthan baseline within 7 days  SCr or serum cystatin C ≥1.2 to <1.5 timeshigher than baseline within 7 days    AKD  SCr or serum cystatin C <1.2 times higherthan baseline,OreGFR ≥80% of baseline within 3 months  SCr or serum cystatin C ≥1.2 to <1.5 timeshigher than baseline,OreGFR <80% to >66% of baseline within 3months AKD, acute kidney disease; AKI, acute kidney injury; eGFR, estimated glomerular filtration rate; SCr, serum creatinine |

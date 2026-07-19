@@ -1,0 +1,544 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_1.txt",
+        "description": "Table 1 Secondary causes of dyslipidemias \n270",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_1.md",
+        "page": 20
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_2.txt",
+        "description": "Table 2 Examples of situations in which measuring cholesterol level might or might not change the management \nimplied by Recommendation 1.2 \n272",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_2.md",
+        "page": 21
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_3.txt",
+        "description": "Table 3 Rate of coronary death or non-fatal MI (by age and eGFR) \n274",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_3.md",
+        "page": 24
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_4.txt",
+        "description": "Table 4 Recommended doses of statins in adults with CKD \n281",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_4.md",
+        "page": 25
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_5.txt",
+        "description": "Table 5 Plasma lipid concentrations for children and adolescents \n288",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_5.md",
+        "page": 32
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_6.txt",
+        "description": "Table 6 Systematic review topics and screening criteria \n289",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_6.md",
+        "page": 39
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_7",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_7.txt",
+        "description": "Table 7 Hierarchy of outcomes \n289",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_7.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_7.md",
+        "page": 40
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_8",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_8.txt",
+        "description": "Table 8 Literature yield for RCTs \n290",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_8.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_8.md",
+        "page": 40
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_9",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_9.txt",
+        "description": "Table 9 Work products for the guideline \n290",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_9.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_9.md",
+        "page": 41
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_10",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_10.txt",
+        "description": "Table 10 Classification of study quality \n291",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_10.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_10.md",
+        "page": 41
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_11",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_11.txt",
+        "description": "Table 11 GRADE system for grading quality of evidence \n293",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_11.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_11.md",
+        "page": 42
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_12",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_12.txt",
+        "description": "Table 12 Final grade for overall quality of evidence \n293",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_12.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_12.md",
+        "page": 44
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_13",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_13.txt",
+        "description": "Table 13 Balance of benefits and harms \n293",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_13.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_13.md",
+        "page": 44
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_14",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_14.txt",
+        "description": "Table 14 KDIGO nomenclature and description for grading recommendations \n293",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_14.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_14.md",
+        "page": 44
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_15",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_15.txt",
+        "description": "Table 15 Determinants of strength of recommendation \n294",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_15.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_15.md",
+        "page": 44
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Table_16",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_16_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_16_part2.png"
+        ],
+        "text": null,
+        "description": "Table 16 The Conference on Guideline Standardization (COGS) checklist for reporting clinical practice guidelines",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_16.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Table_16.md",
+        "page": 45,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 45
+          },
+          {
+            "part_no": 2,
+            "page": 46
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Fig_1.txt",
+        "description": "Figure 1 Adjusted relation between LDL-C and HR of myocardial infarction by eGFR as a continuous variable",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 23
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Fig_2.txt",
+        "description": "Figure 2 Future 10-year coronary risk based on various patient characteristics",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 23
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2013-Lipids-Guideline-English",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2013-Lipids-Guideline-English/Fig_3.txt",
+        "description": "Figure 3 Grading the quality of CKD subgroups of non-CKD trials",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 43
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    }
+  ],
+  "hard_failures": []
+}

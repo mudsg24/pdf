@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 5 \| Circumstances warranting more frequent iron testings • Initiation of or increase in the dose of erythropoiesis-stimulating agents (ESAs) or hypoxia-inducible factor-prolyl hydroxylase inhibitors (HIF-PHls)    • Episodes of known blood loss    • Recent hospitalization    • Important increase in ferritin or transferrin saturation (TSAT) or overshooting target limit |

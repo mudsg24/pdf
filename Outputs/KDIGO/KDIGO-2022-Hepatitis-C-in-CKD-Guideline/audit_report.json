@@ -1,0 +1,680 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_1.txt",
+        "description": "Table 1 Infection control practices (“hygienic precautions”) particularly relevant for preventing HCV transmission",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_1.md",
+        "page": 18
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_2.txt",
+        "description": "Table 2 Recent reported HCV prevalence in hemodialysis patients",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_2.md",
+        "page": 34
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_3.txt",
+        "description": "Table 3 Factors and lapses in infection control practices associated with transmission of HCV infection in dialysis units",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_3.md",
+        "page": 34
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_4.txt",
+        "description": "Table 4 Hygienic precautions for hemodialysis (dialysis machines)",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_4.md",
+        "page": 37
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_5.txt",
+        "description": "Table 5 Steps to initiate concurrently and undertake following identification of a new HCV infection in a hemodialysis patient",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_5.md",
+        "page": 39
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_6.txt",
+        "description": "Table 6 Strategies to support adherence to infection control recommendations in hemodialysis centers",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_6.md",
+        "page": 39
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_7",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_7.txt",
+        "description": "Table 7 Key hygienic precautions for hemodialysis staff",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_7.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_7.md",
+        "page": 40
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_8",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_8.txt",
+        "description": "Table 8 Systematic review topics and screening criteria performed for the 2022 guideline",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_8.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_8.md",
+        "page": 56
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_9",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_9.txt",
+        "description": "Table 9 Systematic reviews and screening criteria used in the 2018 guideline for topics not revisited in the 2022 guideline",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_9.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_9.md",
+        "page": 57
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_10",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_10.txt",
+        "description": "Table 10 Hierarchy of outcomes",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_10.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_10.md",
+        "page": 57
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_11",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_11.txt",
+        "description": "Table 11 Work products for the 2022 guideline",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_11.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_11.md",
+        "page": 59
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_12",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_12.txt",
+        "description": "Table 12 Work products from the 2018 guideline for topics not revisited in the 2022 guideline",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_12.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_12.md",
+        "page": 59
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_13",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_13.txt",
+        "description": "Table 13 Classification of study quality",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_13.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_13.md",
+        "page": 60
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_14",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_14.txt",
+        "description": "Table 14 GRADE system for grading quality of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_14.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_14.md",
+        "page": 60
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_15",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_15.txt",
+        "description": "Table 15 Final grade for overall quality of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_15.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_15.md",
+        "page": 61
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_16",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_16.txt",
+        "description": "Table 16 Balance of benefits and harms",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_16.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_16.md",
+        "page": 61
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_17",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_17.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_17.txt",
+        "description": "Table 17 KDIGO nomenclature and description for grading recommendations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_17.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_17.md",
+        "page": 61
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_18",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_18.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_18.txt",
+        "description": "Table 18 Determinants of strength of recommendation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_18.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_18.md",
+        "page": 61
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Table_19",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_19_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_19_part2.png"
+        ],
+        "text": null,
+        "description": "Table 19 The COGS checklist for reporting clinical practice guidelines",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_19.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Table_19.md",
+        "page": 62,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 62
+          },
+          {
+            "part_no": 2,
+            "page": 63
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Fig_1.txt",
+        "description": "Figure 1 Direct-acting antiviral (DAA) regimens with evidence of effectiveness for various chronic kidney disease (CKD) populations",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 17
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Fig_2.txt",
+        "description": "Figure 2 Summary of currently available direct-acting antiviral (DAA) treatment targets in hepatitis C virus (HCV) life cycle",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 29
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Fig_3.txt",
+        "description": "Figure 3 Proposed management strategy in a hepatitis C virus (HCV)–infected kidney transplant candidate",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 44
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Fig_4.txt",
+        "description": "Figure 4 Indications for biopsy in patients with hepatitis C virus (HCV) and severe glomerulonephritis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 20
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Hepatitis-C-in-CKD-Guideline",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Fig_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Hepatitis-C-in-CKD-Guideline/Fig_5.txt",
+        "description": "Figure 5 Search yield",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 58
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    }
+  ],
+  "hard_failures": []
+}

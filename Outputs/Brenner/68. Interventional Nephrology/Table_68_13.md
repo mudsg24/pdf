@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 68.13 Adequacy of Kidney Tissue Retrieval and Complications by Real-Time Ultrasound-Guided Percutaneous Renal Biopsy Reference  Number of Biopsies  Adequate Tissue  Major Complicationsa    Dowd, 1991275  23  95.5%  <0.5%    Doyle, 1994276  86  99%  0.8%    Hergesell, 1998277  1090  98.8%  <0.5%    Donovan, 1991278  192  97.8%  <1%    Burstein, 1993279  200  97.5%  5.6%    Cozens, 1992280    93%  N/A    Marwah, 1996281  394    6.6%    Maya, 2007282  65  100%  0% <sup>a</sup>Definitions of major complications differed among studies. |

@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 49.18 Hemodynamic Effects of Calcium Channel Blockers Class  Arterio-lar Dilation  Coro-nary Dilation  Cardiac After-load  Cardiac Contract- tility  Myocar-dial  O_2  Demand  Cardiac Output  AV Con- duction  SA Auto-maticity  Heart Rate: Short Term/ Long Term  Activation of Baroreceptor Reflexes    Dihydropyridines  ↑↑↑  ↑↑↑  ↓↓   \leftrightarrow   ↓  ↓ or  \leftrightarrow    \leftrightarrow    \leftrightarrow   ↑/↑  ↑ or  \leftrightarrow     Diltiazem  ↑↑  ↑↑↑  ↓  ↓  ↓   \leftrightarrow   ↓  ↓↓  ↓/↓ or  \leftrightarrow    \leftrightarrow     Verapamil  ↑↑  ↑↑  ↓  ↓↓  ↓   \leftrightarrow   ↓↓  ↓  ↓/↓ or  \leftrightarrow    \leftrightarrow AV, Atrioventricular; SA, sinoatrial. |

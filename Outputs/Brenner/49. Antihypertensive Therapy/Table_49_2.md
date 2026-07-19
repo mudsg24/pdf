@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 49.2 Antihypertensive Mechanisms of Action of Angiotensin-Converting Enzyme Inhibitors Lower peripheral vascular resistance.    Inhibit the breakdown of vasodilatory bradykinins.    Enhance vasodilatory prostaglandin synthesis.    Improve nitric oxide-mediated endothelial function.    Reverse vascular hypertrophy.    Decrease aldosterone secretion.    Induce natriuresis.    Augment renal blood flow.    Blunt sympathetic nervous system activity and pressor responses.    Inhibit norepinephrine and arginine vasopressin release.    Inhibit baroreceptor reflexes.    Reduce endothelin-1 levels.    Inhibit thirst.    Inhibit oxidation of cholesterol.    Inhibit collagen deposition in target organs. |

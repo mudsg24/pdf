@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 7 \| Hierarchy of outcomes Hierarchy  Outcome    Critical importance  Mortality, cardiovascular mortality, cardiovascular or cerebrovascular events, ESRD, graft failure    High importance  Doubling of SCr or halving of GFR    Moderate importance  Change in TC, LDL-C, or HDL-C or TGs    Importance dependent on severity  Adverse events Abbreviations: ESRD, end-stage renal disease; GFR, glomerular filtration rate; HDL-C, high-density lipoprotein cholesterol; LDL-C, low-density lipoprotein cholesterol; SCr, serum creatinine; TC, total cholesterol; TG, triglyceride |

@@ -1,0 +1,1 @@
+Fig. 5.3 Whittam model. Coupling of ATP utilization by Nat-K+-ATPase to ATP production by mitochondrial oxygen consumption (QO2). Hydrolysis of ATP produces ADP plus inorganic phosphate (Pi), which lowers the ATP/ADP ratio, a signal to increase ADP uptake into the mitochondria and increase ATP synthesis.

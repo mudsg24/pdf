@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 5.1 Adenosine Triphosphate (ATP) Yield From Metabolism of One Glucose Molecule |

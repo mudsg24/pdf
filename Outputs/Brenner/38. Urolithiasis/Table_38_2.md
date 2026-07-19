@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 38.2 Clinical Conditions Associated With Hypocitraturia Low Extracellular Fluid pH  Normal or High Extracellular Fluid pH    Overproduction acidosisChronic diarrheaExercise-induced lactic acidosis  Potassium deficiency    Underexcretion acidosisCongenital or acquired distal RTAAcetazolamide, topiramate  Angiotensin II-relatedACE inhibitorsSalt excessExcess dietary protein    ACE, Angiotensin-converting enzyme; RTA, renal tubular acidosis. |

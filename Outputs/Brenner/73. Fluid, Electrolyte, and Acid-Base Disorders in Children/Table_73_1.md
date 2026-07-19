@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 73.1 Pathogenesis of Hyperosmolar Disorders Disorder  Features    Insufficient water intake  Inability to obtain water: preambulatory infants, unconscious or disabled children, lack of waterAbnormalities of thirst—hypodipsia secondary to CNS disorders    Net loss of water in excess of solutes  Renal losses—central and nephrogenic diabetes insipidusGI losses: vomiting, diarrheaCutaneous losses: sweating, burnsPulmonary losses: hyperventilation    High sodium intake + low intake of water free of solutes  Excessive administration of NaCl or  NaHCO_{3}^{-} —parenteral nutrition, cardiopulmonary resuscitation, seawater intake    CNS, Central nervous system; GI, gastrointestinal. |

@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 13 \| Classi<sup>fi</sup>cation of study quality Good quality  Low risk of bias and no obvious reporting errors; complete reporting of data. Must be prospective.    Fair quality  Moderate risk of bias, but problems with study or paper are unlikely to cause major bias.    Poor quality  High risk of bias or cannot rule out possible significant biases. Poor methods, incomplete data, reporting errors. |

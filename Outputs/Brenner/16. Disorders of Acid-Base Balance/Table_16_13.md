@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 16.13 Hyporeninemic Hypoaldosteronism: Typical Clinical Features |

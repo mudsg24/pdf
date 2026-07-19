@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 72.11 Current Treatment Options for Children With Membranous Nephropathy Immunosuppressive  Nonimmunosuppressive    Oral glucocorticoids (usually in combination with other agents)  Angiotensin-converting enzyme inhibitors    Alkylating agents (cyclophosphamide, chlorambucil)  Angiotensin receptor blockers    Calcineurin inhibitors (cyclosporine, tacrolimus)      Rituximab      Adrenocorticotropic hormone      Mycophenolate mofetila(and mizoribine)      Pulse intravenous methylprednisolonea      aLess commonly used treatment. |

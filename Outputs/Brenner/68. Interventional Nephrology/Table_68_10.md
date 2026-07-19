@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 68.10 Effect of Salvage Procedures on Immature Fistulas Reference  # Patients  Type of Intervention  Percent Usable for Dialysis  Primary Patency at 1 Year    Beathard, 1999158  63  PTA, Vein ligation  82  75%    Turmel-Rodrigues, 2001160  69  PTA, Vein ligation  97  39%    Miller, 2003155  41  PTA Vein ligation  44  N/A    Surgical revision        Beathard, 2003159  100  PTA, Vein ligation  92  68%    Asif, 200577  24  PTA, Vein ligation  92  N/A    Nassar, 2006161  119  PTA, Vein ligation  83  65%    Singh, 2008163  32  PTA Vein ligation  78  NA    Surgical revision        Han, 2013152  141  PTA  87  72% NA, Not available; PTA, percutaneous transluminal angioplasty. |

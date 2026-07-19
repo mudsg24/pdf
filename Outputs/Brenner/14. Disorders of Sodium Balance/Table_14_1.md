@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 14.1 Mechanisms for Sensing Regional Changes in Effective Arterial Blood Volume Sensors of Cardiac Filling |

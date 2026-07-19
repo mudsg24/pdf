@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 73.5 Primary Manifestations of Hypokalemia and Potassium Deficit in Pediatric Patients Organ System  Manifestation    Neuromuscular  Skeletal muscle weaknessMuscular paralysisParalytic ileumMuscle ischemia and rhabdomyolysis    Heart  Electrocardiographic alterationsDepression of S-T segmentLow amplitude of T waveAppearance of U waveArrhythmias    Nutrition and growth  Mild glucose intoleranceGrowth retardation    Kidney  Hypokalemic nephropathyPolyuria-polydipsia |

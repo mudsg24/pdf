@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 70.13 Antihypertensive Agents in the Transplant Recipient Indication  β-Blocker  ACE-I/ARB  Ca-Channel Blocker  Thiazide Diuretic    Hypertension only    X  X  X    CHF  X  X        Post-MI  X  X        CAD  X  X        Diabetes    X        Proteinuria    X ACE-I, Angiotensin-converting enzyme inhibitor; ARB, angiotensin receptor blocker; CAD, coronary artery disease; CHF, congestive heart failure; MI, myocardial infarction. |

@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 5. Specific situations where serum cystatin C measurement may be preferable to SCr to detect reduced GFR Domain  Specific clinical condition    Changes in muscle mass  Muscle wasting after prolonged illness Neurological diseases (e.g., muscle dystrophy) Spinal cord injury, paraplegia/quadriplegia Above knee amputation Extreme sport/exercise Eating disorders     Diet  Low-protein diet Vegetarian High protein diets and creatine supplementation    Medications  Drugs that interfere with tubular secretion of creatinine (e.g., cimetidine, trimethoprim) GFR, glomerular filtration rate; SCr, serum creatinine |

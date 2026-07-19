@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 16.12 Effects of Hyperkalemia on Ammonium Excretion |

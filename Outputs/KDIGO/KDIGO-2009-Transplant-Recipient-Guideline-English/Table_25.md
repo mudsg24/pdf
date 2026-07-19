@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 25: Pharmacological therapies for cigarette smoking cessation in KTRs Class  Drug  Special considerations    Nicotine replacement  Nicotine gum, inhaler, nasal spray, lozenge and patch  May use in combinations with other nicotine and non-nicotine replacement agents    Antidepressant  Bupropion SR  Monitor CsA blood levels and increase CsA dose as needed (585)    α4β2 nicotinic receptor partial agonist  Varenicline  Warn patients and monitor for serious neuropsychiatric symptoms including depression and suicidal ideationª <sup>a</sup>www.fda.gov/Cder/Drug/infopage/varenicline/default.htm; last accessed June 21, 2008 |

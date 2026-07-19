@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 68.1 Procedures Performed by Interventional Nephrologists Placement of non-tunneled and tunneled dialysis catheters    Exchange of tunneled dialysis catheters    Implantation of subcutaneous dialysis devices    Preoperative vascular mapping    Surveillance for stenosis    Diagnostic fistulograms of grafts and fistulas    Angioplasty of peripheral and central stenosis    Deployment of endoluminal stents for peripheral and central stenosis    Thrombectomy of grafts and fistulas    Sonographic or angiographic assessment of immature fistulas    Salvage procedures for immature fistulas    Placement of peritoneal dialysis catheters    Diagnostic renal ultrasound    Percutaneous renal biopsy |

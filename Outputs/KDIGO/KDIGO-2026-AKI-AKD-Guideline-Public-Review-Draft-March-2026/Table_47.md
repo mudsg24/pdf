@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 47 \| Peres’ formulas for determining catheter length in adults<sup>882,</sup> <sup>883</sup> Site  Formula  Accuracy    Right internal jugular  Height/10 cm  90%    Left internal jugular  Height/10+4 cm  94%    Right subclavian  Height/10-2 cm  96%    Left subclavian  Height/10+2 cm  97% |

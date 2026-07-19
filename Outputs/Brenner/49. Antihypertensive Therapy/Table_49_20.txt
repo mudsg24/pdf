@@ -1,0 +1,1 @@
+Table 49.20 Receptor Binding of Centrally Acting Antihypertensives | Drug         | Receptor | | ------------ | -------- | | Clonidine    | α2, I1   | | α-Methyldopa | α2       | | Guanabenz    | α2       | | Guanfacine   | α2       | | Rilmenidine  | I₁ > α2  | | Moxonidine   | I₁ > α2  | I1, Imidazole receptor; α2, α2-adrenergic receptor.

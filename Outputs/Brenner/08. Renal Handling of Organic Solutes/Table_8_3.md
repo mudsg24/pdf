@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 8.3 Uremic Toxins Accumulating in Oat1 and/or Oat3 Knockout Mice |

@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 46.7 Factors That May Cause False- Positive or False-Negative Results of the Aldosterone/Renin Ratio Factor  False-Positives  False-Negatives    Aldosterone relatively high  Potassium loading      Renin relatively low  Beta-blockers; central alpha-adrenoceptor agonists; direct renin inhibitors; nonsteroidal antiinflammatory drugs; chronic kidney disease; sodium loading      Aldosterone relatively low    Hypokalemia    Renin relatively high    Diuretics; ACE inhibitors, angiotensin receptor blockers; calcium channel blockers (dihydropyridines); acute sodium depletion ACE, Angiotensin-converting enzyme. |

@@ -1,0 +1,1 @@
+Fig. 63.26 Effect of frequency on peak and average solute concentrations. Two-compartment formal kinetic modeling of a solute with low K predicts that both peak and mean concentrations decrease significantly as the frequency of treatments increases, despite no change in the weekly dialyzer clearance × treatment time (Kt).

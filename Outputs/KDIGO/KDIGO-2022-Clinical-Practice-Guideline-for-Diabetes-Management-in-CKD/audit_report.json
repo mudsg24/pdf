@@ -1,0 +1,1137 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_1.txt",
+        "description": "Table 1 Hierarchy of outcomes",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_1.md",
+        "page": 98
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_2_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_2_part2.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_2_part3.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_2_part4.png"
+        ],
+        "text": null,
+        "description": "Table 2 Clinical questions and systematic review topics in the PICOM format",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_2.md",
+        "page": 99,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 99
+          },
+          {
+            "part_no": 2,
+            "page": 100
+          },
+          {
+            "part_no": 3,
+            "page": 101
+          },
+          {
+            "part_no": 4,
+            "page": 102
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_3.txt",
+        "description": "Table 3 Classification for certainty and quality of the evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_3.md",
+        "page": 104
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_4.txt",
+        "description": "Table 4 GRADE system for grading quality of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_4.md",
+        "page": 104
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_5.txt",
+        "description": "Table 5 KDIGO nomenclature and description for grading recommendations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_5.md",
+        "page": 105
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_6.txt",
+        "description": "Table 6 Determinants of the strength of recommendation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Table_6.md",
+        "page": 105
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_1.txt",
+        "description": "Figure 1 Kidney–heart risk factor management",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 20
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_2.txt",
+        "description": "Figure 2 Holistic approach for improving outcomes in patients with diabetes and chronic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 21
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_3.txt",
+        "description": "Figure 3 Different formulations of angiotensin-converting enzyme inhibitors (ACEi) and angiotensin II receptor blockers (ARBs)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 35
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_4.txt",
+        "description": "Figure 4 Monitoring of serum creatinine and potassium during angiotensin-converting enzyme inhibitor (ACEi) or angiotensin II receptor blocker (ARB) treatment—dose adjustment and monitoring of side effects",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 22
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_5.txt",
+        "description": "Figure 5 Cardiovascular and kidney outcome trials for sodium–glucose cotransporter-2 inhibitors (SGLT2i)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 40,
+        "parts": []
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_6.txt",
+        "description": "Figure 6 Practical approach to initiating sodium–glucose cotransporter-2 inhibitors (SGLT2i) in patients with type 2 diabetes and chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 23
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_7.txt",
+        "description": "Figure 7 Sodium–glucose cotransporter-2 inhibitors (SGLT2i) with established kidney and cardiovascular benefits and dose adjustments as approved by the US Food and Drug Administration (FDA)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 48
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_8.txt",
+        "description": "Figure 8 Cardiovascular (CV) and kidney outcome trials for finerenone",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 50
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_9.txt",
+        "description": "Figure 9 Serum potassium monitoring during treatment with finerenone",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 53
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_10",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_10.txt",
+        "description": "Figure 10 Effects of chronic kidney disease (CKD)–related factors on glycated hemoglobin (HbA1c)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 57
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_11",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_11.txt",
+        "description": "Figure 11 Frequency of glycated hemoglobin (HbA1c) measurement and use of glucose management indicator (GMI) in chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 58
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_12",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_12.txt",
+        "description": "Figure 12 Glossary of glucose-monitoring terms",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 59
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_13",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_13.txt",
+        "description": "Figure 13 Relationship of glucose-lowering drug choice to risk of hypoglycemia and rationale for using continuous glucose monitoring (CGM) or self-monitoring of blood glucose (SMBG)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 60
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_14",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_14.txt",
+        "description": "Figure 14 Factors guiding decisions on individual glycated hemoglobin (HbA1c) targets",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 24
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_15",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_15.txt",
+        "description": "Figure 15 What does a healthy kidney diet look like?",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 65
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_16",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_16.txt",
+        "description": "Figure 16 Protein guideline for adults with diabetes and chronic kidney disease (CKD) not treated with dialysis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 66
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_17",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_17.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_17.txt",
+        "description": "Figure 17 Average protein content of foods in grams",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 67
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_18",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_18.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_18.txt",
+        "description": "Figure 18 Effects of decreased sodium intake on various outcomes and accompanying quality of evidence",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 68
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_19",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_19.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_19.txt",
+        "description": "Figure 19 Ten ways to cut out salt",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 69
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_20",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_20.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_20.txt",
+        "description": "Figure 20 Examples of various levels of physical activity and their associated metabolic equivalents (METs)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 72
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_21",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_21.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_21.txt",
+        "description": "Figure 21 Physical activity intensity levels in people with chronic kidney disease (CKD) in the US",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 73
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_22",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_22.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_22.txt",
+        "description": "Figure 22 Suggested approach to address physical inactivity and sedentary behavior in chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 74
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_23",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_23.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_23.txt",
+        "description": "Figure 23 Treatment algorithm for selecting glucose-lowering drugs for patients with type 2 diabetes (T2D) and chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 26
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_24",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_24.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_24.txt",
+        "description": "Figure 24 Overview of select large, placebo-controlled clinical outcome trials assessing the benefits and harms of sodium–glucose cotransporter-2 (SGLT2) inhibitors, glucagon-like peptide-1 (GLP-1) receptor agonists, and dipeptidyl peptidase-4 (DPP-4) inhibitors",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 77
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_25",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_25.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_25.txt",
+        "description": "Figure 25 Patient factors influencing the selection of glucose-lowering drugs other than sodium–glucose cotransporter-2 inhibitor (SGLT2i) and metformin in type 2 diabetes (T2D) and chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 26
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_26",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_26.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_26.txt",
+        "description": "Figure 26 Different formulations of metformin",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 80
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_27",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_27.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_27.txt",
+        "description": "Figure 27 Suggested approach in dosing metformin based on the level of kidney function",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 27
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_28",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_28.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_28.txt",
+        "description": "Figure 28 Cardiovascular and kidney outcome trials for glucagon-like peptide-1 receptor agonists (GLP-1 RA)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 84
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_29",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_29.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_29.txt",
+        "description": "Figure 29 Dosing for available glucagon-like peptide-1 receptor agonists (GLP-1 RA) and dose modification for chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 28
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_30",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_30.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_30.txt",
+        "description": "Figure 30 Key objectives of effective diabetes self-management education programs",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 28
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_31",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_31.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_31.txt",
+        "description": "Figure 31 Meta-analysis showing the effect of different intervention components on (a) systolic blood pressure (SBP), (b) diastolic blood pressure (DBP), (c) estimated glomerular filtration rate (eGFR), (d) glycated hemoglobin (HbA1c; %), (e) self-management (SM) activity, and (f) health-related quality of life (HRQOL)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 92
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_32",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_32.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_32.txt",
+        "description": "Figure 32 Forest plots showing outcomes for people with diabetes and chronic kidney disease (CKD) undergoing self-management (SM) education programs",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 93
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU content_list_v2 caption block"
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_33",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_33.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_33.txt",
+        "description": "Figure 33 Integrated care approach to improve outcomes, self-management, and patient–provider communication in patients with diabetes and chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 95
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_34",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_34.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_34.txt",
+        "description": "Figure 34 The chronic care model",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 96
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_35",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_35.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_35.txt",
+        "description": "Figure 35 Team-based integrated care delivered by physicians and nonphysician personnel supported by decision-makers",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 29
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD",
+      "asset_id": "Fig_36",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_36.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD/Fig_36.txt",
+        "description": "Figure 36 Search yield and study flow diagram",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 103
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    }
+  ],
+  "hard_failures": []
+}

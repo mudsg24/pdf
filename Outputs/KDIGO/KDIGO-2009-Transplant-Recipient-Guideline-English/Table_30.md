@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 30: Viral-associated cancers Virus  Malignancy site/Type of cancer    Sufficient evidence  Limited evidence    HBV and HCV  Liver      Human T-cell lymphotropic virus type 1  Non-Hodgkin lymphoma      Human Herpes virus 8  Kaposi sarcoma      EBV  Nasopharynx, Non-Hodgkin lymphoma,      HPV  Hodgkin lymphoma Tongue, mouth, tonsil, anus, vagina, cervix, penis  Nonmelanoma skin, larynx EBV, Epstein-Barr virus; HBV, hepatitis B virus; HCV, hepatitis C virus; HPV, Human papillomavirus. Modified with permission (621). |

@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 1 \| Hierarchy of outcomes Hierarchy  Outcomes    Critical outcomes  • All-cause mortality • Cardiovascular mortality • Kidney failure      • 3-point and 4-point MACE • Individual cardiovascular events (myocardial infarction, stroke, heart failure) • Doubling of serum creatinine      • Hypoglycemia requiring third-party assistance • Attaining HbA1c    Important outcomes • Albuminuria progression (onset of albuminuria,  • Change in HbA1c • Hyperkalemia eGFR, estimated glomerular <sup>fi</sup>ltration rate; HbA1c, glycated hemoglobin; MACE, major cardiovascular events. |

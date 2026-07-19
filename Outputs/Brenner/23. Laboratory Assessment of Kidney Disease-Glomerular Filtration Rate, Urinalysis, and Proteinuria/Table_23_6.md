@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 23.6 Patient Factors That May Increase Urinary Protein or Albumin Posture (postural proteinuria)    Urinary tract infection    Hematuria    High dietary protein intake    High-intensity exercise    Congestive cardiac failure    Menstruation or vaginal discharge    Drugs (e.g., nonsteroidal antiinflammatory drugs) Adapted from Johnson DW, Jones GR, Mathew TH, et al. Chronic kidney disease and measurement of albuminuria or proteinuria: a position statement. Med J Aust. 2012;197:224–225; and Miller WG, Bruns DE, Hortin GL, et al. Current issues in measurement and reporting of urinary albumin excretion [article in French]. Ann Biol Clin (Paris). 2010;68:9–25. |

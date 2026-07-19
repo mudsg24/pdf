@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 80.2 Chinese Medicinal Herbs That Contain Aristolochic Acids Name of Chinese Herb  Botanical Name    Guang Fang Ji (Fangchi)  Aristolochia fangchi    Xixin  Radix et Rhizoma Asari    Guan Mu Tong  Aristolochia manshuriensis    Qing Mu Xiang  Aristolochia cucurbitifolia    Ma Dou Ling  Aristolochia debilis    Tian Xian Teng  Aristolochia contorta Modified from Yang HY, Chen PC, Wang JD. Chinese herbs containing aristolochic acid associated with renal failure and urothelial carcinoma: a review from epidemiologic observations to causal inference. Biomed Res Int. 2014;2014:569325. |

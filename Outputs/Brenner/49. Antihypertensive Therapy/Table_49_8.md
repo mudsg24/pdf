@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 49.8 Pharmacokinetic Interactions Between Angiotensin II Type 1 (AT<sub>1</sub>) Receptor Blockers and Receptor Agent  AT _1  Receptor-Receptor Antagonist Dissociation Rate  Affinity (K _d )  Type of AT _1  Antagonism    Candesartan cilexetil (candesartan)  Slow  280  Noncompetitive    Irbesartan  Slow  5  Noncompetitive    Valsartan  Slow  10  Noncompetitive    Telmisartan  Slow  10  Noncompetitive    Losartan  Fast  50  Competitive    Eprosartan  Fast  100  Competitive |

@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 15: Categories of PTLD 1: Early lesions  Reactive plasmacytic hyperplasia Infectious mononuclueosis-like    2: PTLD—polymorphic 3: PTLD—monomorphic  Polyclonal (rare) Monoclonal B-cell lymphomas    (classify according to lymphoma classification)  Diffuse large B-cell lymphoma (immunoblastic, centroblastic, anaplastic) Burkitt/Burkitt-like lymphoma Plasma cell myeloma T-cell lymphomas Peripheral T-cell lymphoma, not otherwise categorized Other types (hepatosplenic, gamma-delta, T/NK)    4: Other types (rare)  Hodgkin's disease-like lesions (associated with methotrexate therapy) Plasmacytoma-like lesions PTLD, posttransplant lymphoproliferative disease; T/NK, T-cell/ natural killer cell. Modified with permission (323). |

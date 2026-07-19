@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 7 \| Definitions of transient and persistent AKI Duration of reduction in kidney function    Transient AKI  ≤48 hour increase in SCr or cystatin C or reduced urine output    Persistent AKI  >48 hour and up to 7 days increase in SCr or cystatin C orreduced urine output AKI, acute kidney injury; SCr, serum creatinine |

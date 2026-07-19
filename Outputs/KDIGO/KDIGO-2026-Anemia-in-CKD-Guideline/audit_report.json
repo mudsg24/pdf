@@ -1,0 +1,809 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_1.txt",
+        "description": "Table 1 Prevalence of anemia across CKD stages in different countries",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_1.md",
+        "page": 30
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_2.txt",
+        "description": "Table 2 Factors to consider when choosing between oral and i.v. iron",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_2.md",
+        "page": 40
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_3.txt",
+        "description": "Table 3 Oral iron formulations, treatment regimens, and factors influencing the choice between different formulations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_3.md",
+        "page": 40
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_4.txt",
+        "description": "Table 4 Intravenous iron formulations and treatment regimens",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_4.md",
+        "page": 21
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_5.txt",
+        "description": "Table 5 Circumstances warranting more frequent iron testings",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_5.md",
+        "page": 21
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_6.txt",
+        "description": "Table 6 Considerations for people with anemia and CKD at risk of adverse events with HIF-PHIs",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_6.md",
+        "page": 23
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_7",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_7.txt",
+        "description": "Table 7 Dosing of ESAs",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_7.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_7.md",
+        "page": 24
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_8",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_8.txt",
+        "description": "Table 8 Overview of HIF-PHIs approved for marketing as of October 2024",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_8.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_8.md",
+        "page": 26
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_9",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_9.txt",
+        "description": "Table 9 Causes of hyporesponsiveness to erythropoiesis-stimulating agents",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_9.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_9.md",
+        "page": 59
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_10",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_10.txt",
+        "description": "Table 10 Definitions of hyporesponsiveness to ESAs",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_10.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_10.md",
+        "page": 60
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_12",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_12_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_12_part2.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_12_part3.png"
+        ],
+        "text": null,
+        "description": "Table 12 Clinical questions and systematic review topics in PICOS format",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_12.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_12.md",
+        "page": 71,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 71
+          },
+          {
+            "part_no": 2,
+            "page": 72
+          },
+          {
+            "part_no": 3,
+            "page": 73
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=0.966",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_13",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_13.txt",
+        "description": "Table 13 Classification for the grade of the certainty of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_13.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_13.md",
+        "page": 75
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_14",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_14.txt",
+        "description": "Table 14 GRADE system for grading the certainty of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_14.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_14.md",
+        "page": 75
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_15",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_15.txt",
+        "description": "Table 15 KDIGO nomenclature and description for grading recommendations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_15.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_15.md",
+        "page": 76
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Table_16",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_16.txt",
+        "description": "Table 16 Determinants of the strength of a recommendation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_16.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Table_16.md",
+        "page": 76
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_1.txt",
+        "description": "Figure 1 Overview of anemia in chronic kidney disease (CKD) with its definition, prevalence across CKD stages, potential causes, and associated outcomes",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 29
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_2.txt",
+        "description": "Figure 2 Mechanisms underlying anemia of chronic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 31
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_3.txt",
+        "description": "Figure 3 Overview of iron deficiency in chronic kidney disease (CKD) with its definitions, prevalence across CKD stages, potential causes, and associated outcomes",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 32
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_4.txt",
+        "description": "Figure 4 Systemic movement of iron in different iron-related states",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 33
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_5.txt",
+        "description": "Figure 5 Suggested testing frequency for anemia by chronic kidney disease (CKD) population",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 34
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_6.txt",
+        "description": "Figure 6 Flowchart of the different steps to follow when people with chronic kidney disease (CKD) have anemia",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 19
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_7.txt",
+        "description": "Figure 7 Suggested management of reactions to intravenous (i.v.) iron",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 22
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_8.txt",
+        "description": "Figure 8 Potentially reversible causes of anemia in chronic kidney disease in addition to decreased erythropoietin production",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 23
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_9.txt",
+        "description": "Figure 9 Pathophysiological mechanisms of the anemia of inflammation",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 60
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_10",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_10.txt",
+        "description": "Figure 10 Treatment algorithm for sustained erythropoiesis-stimulating agent (ESA) hyporesponsiveness",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 27
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_11",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_11.txt",
+        "description": "Figure 11 Infectious and noninfectious adverse effects of red blood cell transfusions as compared with other, unrelated risks",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 63
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_12",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_12.txt",
+        "description": "Figure 12 Lymphocytotoxic antibody reactivity against random donor test panel in relation to the number of red blood cell transfusions",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 65
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_13",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_13.txt",
+        "description": "Figure 13 Algorithm for guiding the use of red blood cell transfusion to treat anemia in people with chronic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 68
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2026-Anemia-in-CKD-Guideline",
+      "asset_id": "Fig_14",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2026-Anemia-in-CKD-Guideline/Fig_14.txt",
+        "description": "Figure 14 Search yield and study flow diagram",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 74
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    }
+  ],
+  "hard_failures": []
+}

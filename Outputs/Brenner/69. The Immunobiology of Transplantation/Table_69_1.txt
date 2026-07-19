@@ -1,0 +1,1 @@
+Table 69.1 Common Human Leukocyte Antigen Genes With Multiple Human Leukocyte Antigens Associated | Human Leukocyte Antigen Gene | Antigens Encoded by Gene | | :--- | :--- | | HLA-B*14 | B64 or B65 | | HLA-B*15 | B62, B63, B71, B72, B75, B76, or B77 | | HLA-B*40 | B60 or B61 | | HLA-C*03 | Cw9 or Cw10 | | HLA-DRB1*03 | DR17 or DR18 | | HLA-DQB1*03 | DQ, DQ8, or DQ9 |

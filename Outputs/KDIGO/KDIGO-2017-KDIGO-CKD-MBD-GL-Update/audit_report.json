@@ -1,0 +1,249 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-CKD-MBD-GL-Update",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_1.txt",
+        "description": "Table 1 Utility of KDOQI and KDIGO PTH thresholds for diagnostic decision making",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_1.md",
+        "page": 25
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-CKD-MBD-GL-Update",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_2_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_2_part2.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_2_part3.png"
+        ],
+        "text": null,
+        "description": "Table 2 Research questions",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_2.md",
+        "page": 43,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 43
+          },
+          {
+            "part_no": 2,
+            "page": 44
+          },
+          {
+            "part_no": 3,
+            "page": 45
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-CKD-MBD-GL-Update",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_3.txt",
+        "description": "Table 3 Question-specific eligibility criteria",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_3.md",
+        "page": 46
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-CKD-MBD-GL-Update",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_4.txt",
+        "description": "Table 4 GRADE system for grading quality of evidence for an outcome",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_4.md",
+        "page": 47
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-CKD-MBD-GL-Update",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_5.txt",
+        "description": "Table 5 Final grade for overall quality of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_5.md",
+        "page": 48
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-CKD-MBD-GL-Update",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_6.txt",
+        "description": "Table 6 Balance of benefits and harms",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_6.md",
+        "page": 48
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-CKD-MBD-GL-Update",
+      "asset_id": "Table_7",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_7.txt",
+        "description": "Table 7 Implications of the strength of a recommendation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_7.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_7.md",
+        "page": 48
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-CKD-MBD-GL-Update",
+      "asset_id": "Table_8",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_8.txt",
+        "description": "Table 8 Determinants of strength of recommendation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_8.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-CKD-MBD-GL-Update/Table_8.md",
+        "page": 48
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    }
+  ],
+  "hard_failures": []
+}

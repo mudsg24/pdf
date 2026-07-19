@@ -1,0 +1,1249 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_1.txt",
+        "description": "Table 1 Key questions defining the evidence review",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_1.md",
+        "page": 20
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=0.993"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_2.txt",
+        "description": "Table 2 Systematic review screening criteria",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_2.md",
+        "page": 21
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_3.txt",
+        "description": "Table 3 Evidence quality assessment criteria",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_3.md",
+        "page": 23
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=0.907"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_4.txt",
+        "description": "Table 4 KDIGO nomenclature and description for grading recommendations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_4.md",
+        "page": 24
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_5.txt",
+        "description": "Table 5 Determinants of strength of a recommendation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_5.md",
+        "page": 25
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_6.txt",
+        "description": "Table 6 Final grade for overall quality of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_6.md",
+        "page": 25
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_7",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_7.txt",
+        "description": "Table 7 Reasons why many ungraded recommendations are issued \nin this guideline",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_7.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_7.md",
+        "page": 26
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_8",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_8_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_8_part2.png"
+        ],
+        "text": null,
+        "description": "Table 8 The Conference on Guideline Standardization (COGS) checklist \nfor reporting clinical practice guidelines",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_8.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_8.md",
+        "page": 27,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 27
+          },
+          {
+            "part_no": 2,
+            "page": 28
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=0.937",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_9",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_9.txt",
+        "description": "Table 9 Approaches to implementation of a quantitative framework for donor \ncandidate medical evaluation and acceptance centered on lifetime risk \nof kidney failure",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_9.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_9.md",
+        "page": 31
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_10",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_10.txt",
+        "description": "Table 10 Roles and responsibilities of participants in donor candidate \nidentification, evaluation, care, and follow-up",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_10.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_10.md",
+        "page": 32
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_11",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_11.txt",
+        "description": "Table 11 Recommended content of disclosure during the evaluation of living \ndonor candidates",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_11.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_11.md",
+        "page": 35
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_12",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_12.txt",
+        "description": "Table 12 Sources of error in GFR estimation using creatinine",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_12.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_12.md",
+        "page": 44
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_13",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_13.txt",
+        "description": "Table 13 Sources of error in GFR estimation using cystatin C",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_13.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_13.md",
+        "page": 45
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_14",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_14.txt",
+        "description": "Table 14 Factors affecting urinary ACR",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_14.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_14.md",
+        "page": 49
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_15",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_15.txt",
+        "description": "Table 15 Relationship among categories for albuminuria and proteinuria",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_15.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_15.md",
+        "page": 50
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_16",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_16.txt",
+        "description": "Table 16 US Public Health Service (PHS) 2013 Screening for factors associated \nwith increased likelihood of recent HIV, HBV or HCV infection",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_16.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_16.md",
+        "page": 69
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_17",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_17_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_17_part2.png"
+        ],
+        "text": null,
+        "description": "Table 17 Microbiological screening to reduce the risk of living donor-derived \ninfection transmission",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_17.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_17.md",
+        "page": 71,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 71
+          },
+          {
+            "part_no": 2,
+            "page": 72
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_18",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_18.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_18.txt",
+        "description": "Table 18 Social and clinical factors associated with increased likelihood of \ngeographically endemic infections and infections related to \nspecific exposures",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_18.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_18.md",
+        "page": 75
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=0.861"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_19",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_19.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_19.txt",
+        "description": "Table 19 Recognized organ donor-derived infection transmissions",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_19.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_19.md",
+        "page": 76
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_20",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_20.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_20.txt",
+        "description": "Table 20 Bosniak renal cyst classification system",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_20.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_20.md",
+        "page": 79
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_21",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_21.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_21.txt",
+        "description": "Table 21 International TNM staging system for renal cell carcinoma",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_21.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_21.md",
+        "page": 80
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_22",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_22.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_22.txt",
+        "description": "Table 22 Donor characteristics and maternal and fetal outcomes in postdonation \npregnancies from three studies: Norway, Minnesota (United States) \nand Ontario (Canada)",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_22.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_22.md",
+        "page": 86
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=0.926"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_23",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_23.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_23.txt",
+        "description": "Table 23 Recommended processes and content of the psychosocial evaluation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_23.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_23.md",
+        "page": 87
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Table_24",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_24.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_24.txt",
+        "description": "Table 24 Recommendations for psychosocial factors that either exclude donation, \nor prevent further evaluation until resolution",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_24.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Table_24.md",
+        "page": 88
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_1.txt",
+        "description": "Figure 1 Perspectives of risk in living kidney donation",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 22
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_2.txt",
+        "description": "Figure 2 Literature flow diagram",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 23
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_3.txt",
+        "description": "Figure 3 Framework to accept or decline donor candidates based on a transplant \nprogram’s threshold of acceptable postdonation risk.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 29
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_4.txt",
+        "description": "Figure 4 Framework to accept or decline donor candidates based on a transplant \nprogram’s threshold of acceptable projected lifetime risk of \nkidney failure, quantified as the aggregate of risk related to demographic \nand health profile and donation-attributable risks.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 30
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_5.txt",
+        "description": "Figure 5 Performance of the CKD-EPI equation in estimating measured GFR",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 43
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_6.txt",
+        "description": "Figure 6 Complications of CKD according to baseline eGFR and albuminuria.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 45
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_7.txt",
+        "description": "Figure 7 Estimated 15-yr incidence (%) of ESKD in the United States according \nto baseline eGFR and demographic profile from the CKD-PC",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 46
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_8.txt",
+        "description": "Figure 8 Estimated lifetime incidence (%) of ESKD in the United States according \nto baseline eGFR and demographic profile from the CKD-PC",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 47
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_9.txt",
+        "description": "Figure 9 Estimated 15-yr incidence (%) of ESKD in the United States according \nto baseline albumin-to-creatinine ratio (ACR, mg/g) and demographic profile \nfrom the CKD-PC",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 51
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_10",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_10.txt",
+        "description": "Figure 10 Estimated lifetime incidence (%) of ESKD in the United States according \nto baseline albumin-to-creatinine ratio (ACR, mg/g) and demographic profile \nfrom the CKD-PC",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 51
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_11",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_11.txt",
+        "description": "Figure 11 Proteinuria after kidney donation",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 52
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_12",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_12.txt",
+        "description": "Figure 12 Meta-analysis of proteinuria after kidney donation",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 53
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_13",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_13.txt",
+        "description": "Figure 13 Sequential evaluation of microscopic hematuria in living kidney donor candidates ...",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 54
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_14",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_14.txt",
+        "description": "Figure 14 Estimated 15-yr incidence (%) of ESKD in the United States according to \nbaseline systolic blood pressure and demographic profile from the CKD-PC ...",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 61
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_15",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_15.txt",
+        "description": "Figure 15 Estimated lifetime incidence (%) of ESKD in the United States according to \nbaseline systolic blood pressure and demographic profile from the CKD-PC ....",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 61
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_16",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_16.txt",
+        "description": "Figure 16 Estimated 15-yr incidence (%) of ESKD in the United States according \nto baseline BMI and demographic profile from the CKD-PC",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 64
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_17",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_17.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_17.txt",
+        "description": "Figure 17 Estimated lifetime incidence (%) of ESKD in the United States according \nto baseline BMI and demographic profile from the CKD-PC",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 65
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_18",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_18.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_18.txt",
+        "description": "Figure 18 Estimated 15-yr incidence (%) of ESKD in the United States according \nto non-insulin dependent diabetes mellitus status and demographic profile \nfrom the CKD-PC",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 65
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_19",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_19.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_19.txt",
+        "description": "Figure 19 Estimated lifetime incidence (%) of ESKD in the United States according \nto non-insulin dependent diabetes mellitus status and demographic profile \nfrom the CKD-PC",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 66
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_20",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_20.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_20.txt",
+        "description": "Figure 20 Estimated 15-yr incidence (%) of ESKD in the United States according \nto baseline smoking status and demographic profile from the CKD-PC",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 67
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2017-KDIGO-LD-GL",
+      "asset_id": "Fig_21",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_21.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2017-KDIGO-LD-GL/Fig_21.txt",
+        "description": "Figure 21 Estimated lifetime incidence (%) of ESKD in the United States according \nto baseline smoking status and demographic profile from the CKD-PC",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 68
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    }
+  ],
+  "hard_failures": []
+}

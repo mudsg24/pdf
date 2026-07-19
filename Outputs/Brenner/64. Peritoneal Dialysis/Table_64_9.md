@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 64.9 Intermittent Administration of Antibiotics in Automated Peritoneal Dialysis Drug  Intraperitoneal Dosage    Cefazolin  20 mg/kg every day, in long daytime dwell ^{114}     Cefepime  1 g in one exchange per day    Fluconazole  200 mg in one exchange per day every 24-48 hours    Tobramycin  LD, 1.5 mg/kg in long dwell; then 0.5 mg/kg each day in long dwell ^{114}     Vancomycin  LD, 30 mg/kg in long dwell; repeat 15 mg/kg in long dwell every 3-5 days (aim to keep serum trough levels above 15 μg/mL) |

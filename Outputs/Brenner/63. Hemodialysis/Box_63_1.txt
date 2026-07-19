@@ -1,0 +1,1 @@
+Box 63.1 Components of the Dialysis Prescription *   Duration *   Frequency *   Vascular access *   Dialyzer (membrane, configuration, surface area, sterilization method) *   Blood flow rate *   Dialysate flow rate *   Ultrafiltration rate *   Dialysate composition (see Table 63.7) *   Anticoagulation *   Dialysate temperature *   Intradialytic medications

@@ -1,0 +1,2316 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_1.txt",
+        "description": "Table 1 Genes associated with the ADPKD spectrum, designations, and phenotype",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_1.md",
+        "page": 58
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_2.txt",
+        "description": "Table 2 Genes associated with the ADPLD spectrum, designations, and phenotype",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_2.md",
+        "page": 59
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_3.txt",
+        "description": "Table 3 Factors to consider when testing (by imaging and/or genetics) people at risk for ADPKD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_3.md",
+        "page": 65
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_4.txt",
+        "description": "Table 4 Situations in which genetic testing can clarify the diagnosis and aid in determining a prognosis",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_4.md",
+        "page": 26
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_5.txt",
+        "description": "Table 5 Other disorders that present with kidney cysts",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_5.md",
+        "page": 27
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_6.txt",
+        "description": "Table 6 Genetic testing methods for screening for ADPKD and ADPLD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_6.md",
+        "page": 73
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_7",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_7.txt",
+        "description": "Table 7 Consequences of genetic testing by tNGS for people with typical or atypical ADPKD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_7.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_7.md",
+        "page": 74
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_8",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_8.txt",
+        "description": "Table 8 Approaches to reduce AVP activity in ADPKD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_8.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_8.md",
+        "page": 114
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_9",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_9.txt",
+        "description": "Table 9 Checklist of contraindications to initiating and/or maintaining tolvaptan use",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_9.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_9.md",
+        "page": 120
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_10",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_10.txt",
+        "description": "Table 10 Relative contraindications for increasing water intake",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_10.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_10.md",
+        "page": 125
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_11",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_11.txt",
+        "description": "Table 11 Factors to be considered before advising increased water intake",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_11.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_11.md",
+        "page": 127
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_12",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_12.txt",
+        "description": "Table 12 Classifications for PLD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_12.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_12.md",
+        "page": 136
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_13",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_13.txt",
+        "description": "Table 13 Methods to assess sarcopenia and malnutrition",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_13.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_13.md",
+        "page": 40
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_14",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_14.txt",
+        "description": "Table 14 Treatment options in PLD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_14.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_14.md",
+        "page": 140
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_15",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_15.txt",
+        "description": "Table 15 Risk factors for ICAs or SAH",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_15.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_15.md",
+        "page": 150
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_16",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_16.txt",
+        "description": "Table 16 Advantages and limitations of screening for ICAs",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_16.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_16.md",
+        "page": 43
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_17",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_17_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_17_part2.png"
+        ],
+        "text": null,
+        "description": "Table 17 Extrarenal manifestations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_17.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_17.md",
+        "page": 156,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 156
+          },
+          {
+            "part_no": 2,
+            "page": 157
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_18",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_18.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_18.txt",
+        "description": "Table 18 Nutrition guidance for people with ADPKD and CKD G1–G4",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_18.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_18.md",
+        "page": 45
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_19",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_19.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_19.txt",
+        "description": "Table 19 Recommendations on use of common lifestyle products in people with ADPKD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_19.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_19.md",
+        "page": 164
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_20",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_20.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_20.txt",
+        "description": "Table 20 Key concerns of people with ADPKD and their family members, relating to psychosocial issues",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_20.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_20.md",
+        "page": 166
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_21",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_21.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_21.txt",
+        "description": "Table 21 Definitions of phenotypical entities in children with ADPKD",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_21.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_21.md",
+        "page": 51
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_22",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_22_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_22_part2.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_22_part3.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_22_part4.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_22_part5.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_22_part6.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_22_part7.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_22_part8.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_22_part9.png"
+        ],
+        "text": null,
+        "description": "Table 22 Clinical questions and SR topics in PICOD format",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_22.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_22.md",
+        "page": 193,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 193
+          },
+          {
+            "part_no": 2,
+            "page": 194
+          },
+          {
+            "part_no": 3,
+            "page": 195
+          },
+          {
+            "part_no": 4,
+            "page": 196
+          },
+          {
+            "part_no": 5,
+            "page": 197
+          },
+          {
+            "part_no": 6,
+            "page": 198
+          },
+          {
+            "part_no": 7,
+            "page": 199
+          },
+          {
+            "part_no": 8,
+            "page": 200
+          },
+          {
+            "part_no": 9,
+            "page": 201
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_23",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_23.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_23.txt",
+        "description": "Table 23 GRADE system for grading the certainty of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_23.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_23.md",
+        "page": 204
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_24",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_24.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_24.txt",
+        "description": "Table 24 KDIGO nomenclature and description for grading recommendations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_24.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_24.md",
+        "page": 204
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_25",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_25.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_25.txt",
+        "description": "Table 25 Determinants of the strength of recommendation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_25.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_25.md",
+        "page": 204
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Table_26",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_26.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_26.txt",
+        "description": "Table 26 Classification for the grade of the certainty of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_26.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Table_26.md",
+        "page": 205
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_1.txt",
+        "description": "Figure 1 Diagnosis algorithm in at-risk adults (positive family history) for autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 25
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_2.txt",
+        "description": "Figure 2 Diagnosis algorithm in adults with incidentally detected kidney and/or liver cysts in absence of known family history of autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 64
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_3.txt",
+        "description": "Figure 3 Ultrasound criteria by age group to diagnose autosomal dominant polycystic kidney disease (ADPKD) in people with a positive family history based on a positive predictive value of the test",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 24
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_4.txt",
+        "description": "Figure 4 Ultrasound criteria by age group to exclude autosomal dominant polycystic kidney disease (ADPKD) in people with a positive family history based on a negative predictive value of the test",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 24
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_5.txt",
+        "description": "Figure 5 Magnetic resonance imaging (MRI) criteria for ages 16–40 years in people with a positive family history",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 24
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_6.txt",
+        "description": "Figure 6 Factors associated with the rate of disease progression in autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 76
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_7.txt",
+        "description": "Figure 7 Methods to assess the rate of kidney disease progression in autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 78
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_8.txt",
+        "description": "Figure 8 The Mayo Imaging Classification divides height-adjusted total kidney volume (htTKV)/age into 5 different classes",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 80
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_9.txt",
+        "description": "Figure 9 The Mayo Imaging Classification (MIC) of autosomal dominant polycystic kidney disease (ADPKD; left panel) with examples (right panel) of (a,b) MIC subclass 1A and 1E, (c–f) MIC subclass 2A, and (g,h) MIC subclass 2B",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 81
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_10",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_10.txt",
+        "description": "Figure 10 Predicted glomerular filtration rate (GFR) values, slopes, and paired differences between predicted and observed GFR at different ages, using a polynomial model",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 82
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_11",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_11.txt",
+        "description": "Figure 11 Predicted estimated glomerular filtration rate (eGFR) values and slopes by Mayo Imaging Classification (MIC) at different ages, using a polynomial model",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 82
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_12",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_12.txt",
+        "description": "Figure 12 The Predicting Renal Outcome in Polycystic Kidney Disease (PROPKD) algorithm",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 83
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_13",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_13.txt",
+        "description": "Figure 13 The Predicting Renal Outcome in Polycystic Kidney Disease (PROPKD) score enables stratification of risk of progression to kidney failure in people with autosomal dominant polycystic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 83
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_14",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_14.txt",
+        "description": "Figure 14 Blood pressure (BP) management in autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 29
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_15",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_15.txt",
+        "description": "Figure 15 Shared decision-making in management of chronic kidney pain in autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 92
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_16",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_16.txt",
+        "description": "Figure 16 Diagnostic algorithm for an infected kidney cyst in autosomal dominant polycystic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 33
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_17",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_17.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_17.txt",
+        "description": "Figure 17 Measures for chronic kidney disease management in people with autosomal dominant polycystic kidney disease, with reference to specific sections of the guideline",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 100
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_18",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_18.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_18.txt",
+        "description": "Figure 18 Recommendations from the KDIGO Clinical Practice Guideline for Lipid Management in Chronic Kidney Disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 102
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_19",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_19.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_19.txt",
+        "description": "Figure 19 Post-transplant complications that are more common with autosomal dominant polycystic kidney disease (ADPKD) than they are in people with other forms of chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 103
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_20",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_20.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_20.txt",
+        "description": "Figure 20 Calculations for adjusted body mass index (BMI) in people with autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 45
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_21",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_21.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_21.txt",
+        "description": "Figure 21 Potential indications for native nephrectomy in people with autosomal dominant polycystic kidney disease receiving a kidney transplant",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 35
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_22",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_22.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_22.txt",
+        "description": "Figure 22 Potential complications of native nephrectomy in autosomal dominant polycystic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 106
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_23",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_23.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_23.txt",
+        "description": "Figure 23 (a) Unadjusted and (b) adjusted all-cause death with peritoneal dialysis (PD) versus hemodialysis (HD) in autosomal dominant polycystic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 111
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_24",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_24.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_24.txt",
+        "description": "Figure 24 Schematic diagram depicting the life journey and therapeutic considerations of a hypothetical person with rapidly progressive autosomal dominant polycystic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 113
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_25",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_25.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_25.txt",
+        "description": "Figure 25 The Kidney Disease: Improving Global Outcomes algorithm to decide in whom to prescribe tolvaptan",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 36
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_26",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_26.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_26.txt",
+        "description": "Figure 26 Summary of the Tolvaptan Efficacy and Safety in Management of Autosomal Dominant Polycystic Kidney Disease and Its Outcomes (TEMPO 3:4) and Replicating Evidence of Preserved Renal Function: An Investigation of Tolvaptan Safety and Efficacy in ADPKD (REPRISE) trials",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 115
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_27",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_27.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_27.txt",
+        "description": "Figure 27 Schematic diagram summarizing the harms, benefits, and uncertainties regarding long-term treatment with tolvaptan in people with rapidly progressing autosomal dominant polycystic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 117
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_28",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_28.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_28.txt",
+        "description": "Figure 28 Commencement of and titration approach to tolvaptan use in autosomal dominant polycystic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 37
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_29",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_29.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_29.txt",
+        "description": "Figure 29 Recommended monitoring for the early detection of drug-induced liver injury in people with autosomal dominant polycystic kidney disease on chronic treatment with tolvaptan",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 38
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_30",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_30.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_30.txt",
+        "description": "Figure 30 Algorithm summarizing recommendations for evaluation and management of potential tolvaptaninduced liver injury",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 123
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_31",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_31.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_31.txt",
+        "description": "Figure 31 Symptoms of polycystic liver disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 137
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_32",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_32.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_32.txt",
+        "description": "Figure 32 Polycystic liver disease (PLD)-specific pitfalls in liver transplantation",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 142
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_33",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_33.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_33.txt",
+        "description": "Figure 33 Diagnostic algorithm to diagnose liver cyst infections in autosomal dominant polycystic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 41
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_34",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_34.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_34.txt",
+        "description": "Figure 34 Management of liver cyst infections in autosomal dominant polycystic kidney disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 145
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_35",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_35.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_35.txt",
+        "description": "Figure 35 Prevalence of unruptured intracranial aneurysms (ICAs) and incidence of subarachnoid hemorrhage (SAH) in the general and autosomal dominant polycystic kidney disease (ADPKD) populations, overall and in the presence of a family history of ICA or SAH",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 42
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_36",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_36.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_36.txt",
+        "description": "Figure 36 Percentage of people with a diagnosis of autosomal dominant polycystic kidney disease (ADPKD) with intracranial aneurysms (ICAs) at time of presymptomatic screening",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 148
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_37",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_37.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_37.txt",
+        "description": "Figure 37 Incidence rate of people with a diagnosis of autosomal dominant polycystic kidney disease (ADPKD) with ruptured intracranial aneurysms (ICAs)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 148
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_38",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_38.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_38.txt",
+        "description": "Figure 38 Specific presentation of thunderclap headache and suggested actions",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 43
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_39",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_39.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_39.txt",
+        "description": "Figure 39 Incidence rate of ruptured intracranial aneurysm (ICA) in people with autosomal dominant polycystic kidney disease with a diagnosis of ICA under imaging surveillance and in people with autosomal dominant polycystic kidney disease in whom no ICA was detected on imaging",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 152
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_40",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_40.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_40.txt",
+        "description": "Figure 40 Lifestyle and psychosocial care for improved outcomes in people with autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 159
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_41",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_41.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_41.txt",
+        "description": "Figure 41 Suggested approach to address physical inactivity and sedentary behavior in chronic kidney disease (CKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 162
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_42",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_42.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_42.txt",
+        "description": "Figure 42 Stressors associated with psychosocial issues in people with autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 47
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_43",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_43.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_43.txt",
+        "description": "Figure 43 Psychosocial manifestations, screening, and approach",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 47
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_44",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_44.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_44.txt",
+        "description": "Figure 44 Information for people, caregivers, and families affected by autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 167
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_45",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_45.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_45.txt",
+        "description": "Figure 45 Management of women with autosomal dominant polycystic kidney disease (ADPKD) of childbearing age",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 48
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_46",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_46.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_46.txt",
+        "description": "Figure 46 Multidisciplinary approach to preconception counseling",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 48
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_47",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_47.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_47.txt",
+        "description": "Figure 47 Reproductive options for men and women with autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 49
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_48",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_48.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_48.txt",
+        "description": "Figure 48 Diagnostic criteria for preeclampsia from the American College of Obstetricians and Gynecologists (ACOG) Practice Bulletin No. 222",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 174
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_49",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_49.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_49.txt",
+        "description": "Figure 49 Postpartum kidney review",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 175
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_50",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_50.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_50.txt",
+        "description": "Figure 50 Diagnosis of children at risk of autosomal dominant polycystic kidney disease (ADPKD), which should be performed by a pediatrician with expertise in ADPKD",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 51
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_51",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_51.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_51.txt",
+        "description": "Figure 51 Diagnosis of children with clinical consideration of autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 52
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_52",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_52.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_52.txt",
+        "description": "Figure 52 Follow-up of children with autosomal dominant polycystic kidney disease (ADPKD), which should be performed by a pediatrician or pediatric nephrologist",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 53
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_53",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_53.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_53.txt",
+        "description": "Figure 53 Follow-up of children at risk for autosomal dominant polycystic kidney disease (ADPKD), which can be performed by a general practitioner, pediatrician, or pediatric nephrologist",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 54
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_54",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_54.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_54.txt",
+        "description": "Figure 54 Suggested transition scheme for autosomal dominant polycystic kidney disease (ADPKD)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 186
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_55",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_55.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_55.txt",
+        "description": "Figure 55 The SHARE approach for shared decision-making",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 188
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_56",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_56.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_56.txt",
+        "description": "Figure 56 A proposed autosomal dominant polycystic kidney disease (ADPKD) care pathway",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 55
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_57",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_57.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_57.txt",
+        "description": "Figure 57 Principles of effective self-management",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 190
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-ADPKD-Guideline",
+      "asset_id": "Fig_58",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_58.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-ADPKD-Guideline/Fig_58.txt",
+        "description": "Figure 58 Literature flow diagram",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 203
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    }
+  ],
+  "hard_failures": []
+}
