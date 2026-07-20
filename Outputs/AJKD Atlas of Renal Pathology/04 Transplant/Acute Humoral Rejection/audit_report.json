@@ -9,9 +9,9 @@
       "failure_reason": null,
       "artifact_paths": {
         "images": [
-          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Humoral Rejection/Fig_1.png"
+          "/private/tmp/ajkd-atlas-full-staging-20260720/04 Transplant/Acute Humoral Rejection/Fig_1.png"
         ],
-        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Humoral Rejection/Fig_1.txt",
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/04 Transplant/Acute Humoral Rejection/Fig_1.txt",
         "description": "Figure 1. New evidence has led to re-organization of classification of transplant rejection from a classic, morphological based classification to a mechanistic based classification. Antibodymediated rejection was previously loosely, but not definitely, correlated with the presence of acute glomerulitis, that is the infiltration of the glomerulus by numerous mononuclear cells, as illustrated here (Jones’ silver stain, 3400).",
         "json": null,
         "csv": null,
@@ -35,9 +35,9 @@
       "failure_reason": null,
       "artifact_paths": {
         "images": [
-          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Humoral Rejection/Fig_2.png"
+          "/private/tmp/ajkd-atlas-full-staging-20260720/04 Transplant/Acute Humoral Rejection/Fig_2.png"
         ],
-        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Humoral Rejection/Fig_2.txt",
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/04 Transplant/Acute Humoral Rejection/Fig_2.txt",
         "description": "Figure 2. Antibody-mediated rejection is very strongly correlated with the presence of type III vascular rejection with fibrinoid ne crosis of the vessel wall, as illustrated here. Type III rejection, both in CCTT and Banff schema, is characterized by arterial fibri noid necrosis (periodic acid Schiff, 3200).",
         "json": null,
         "csv": null,
@@ -61,9 +61,9 @@
       "failure_reason": null,
       "artifact_paths": {
         "images": [
-          "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Humoral Rejection/Fig_3.png"
+          "/private/tmp/ajkd-atlas-full-staging-20260720/04 Transplant/Acute Humoral Rejection/Fig_3.png"
         ],
-        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/04 Transplant/Acute Humoral Rejection/Fig_3.txt",
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/04 Transplant/Acute Humoral Rejection/Fig_3.txt",
         "description": "Figure 3. Antibody-mediated rejection has also been tightly linked with the presence of C4d staining in peritubular capillaries. C4d is a breakdown product of complement, and its presence in peritubular capillaries correlates strongly with the presence of antidonor antibodies. This immunofluorescence test is thus used as an adjunct to suggest antibody-mediated mechanisms of acute rejection (anti-C4d immunofluorescence, 3400).",
         "json": null,
         "csv": null,

@@ -1,0 +1,239 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Postinfectious Glomerulonephritis 2",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_1.txt",
+        "description": "Figure 1. Glomeruli show diffuse hypercellularity due to mesangia and endothelial cell increase and a large number of polymorphonuclear neutrophils (PMNs). These light microscopic findings are typical of diffuse proliferative acute postinfectious glomerulone phritis (hematoxylin & eosin; original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Postinfectious Glomerulonephritis 2",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_2.txt",
+        "description": "Figure 2. Diffuse proliferative acute postinfectious glomerulonephritis with numerous PMNs with PAS-positive cytoplasm and endocapillary proliferation (periodic acid-Schiff; original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Postinfectious Glomerulonephritis 2",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_3.txt",
+        "description": "Figure 3. The large number of PMNs typical of acute poststreptococcal glomerulonephritis is evident in this high-power silver stain. The glomerular basement membrane does not show split ting or spikes. There is endocapillary proliferation, ie, proliferation of endothelial and mesangial cells and infiltrating cells in addition to filling and distending capillary loops. The large number of PMNs is characteristic of postinfectious glomerulonephritis, with the prototype being poststreptococcal glomerulone phritis (Jones’ silver stain; original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Postinfectious Glomerulonephritis 2",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_4.txt",
+        "description": "Figure 4. Crescents may occasionally be found in diffuse proliferative acute postinfectious glomerulonephritis, particularly in those patients who undergo renal biopsy when spontaneous resolution does not occur. The crescent in this case has ruptured Bowman’s capsule, and there is an intense lymphoplasmocytic interstitial infiltrate surrounding the glomerulus (Jones’ silver stain; original magnification 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Postinfectious Glomerulonephritis 2",
+      "asset_id": "Fig_5a",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_5a.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_5a.txt",
+        "description": "Figure 5a. Acute postinfectious glomerulonephritis by immunoflu orescence typically shows irregular capillary loop deposits staining for IgG, seen here, or C3, seen in Figure 6 (immunoflu orescence with anti-IgG; original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Postinfectious Glomerulonephritis 2",
+      "asset_id": "Fig_5b",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_5b.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_5b.txt",
+        "description": "Figure 5b. The garland pattern of immune complexes due to large subepithelial deposits in acute postinfectious glomerulonephriti is shown (immunofluorescence with anti-IgG; original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Postinfectious Glomerulonephritis 2",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_6.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_6.txt",
+        "description": "Figure 6. The scattered capillary wall granular deposits in acute poststreptococcal glomerulonephritis also stain for complement (immunofluorescence with antibody to C3; original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Postinfectious Glomerulonephritis 2",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_8.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_8.txt",
+        "description": "Figure 8. Hump- or dome-shaped deposits in acute postinfectious glomerulonephritis with extensive foot process effacement and endocapillary proliferation (transmission electron micrograph; original magnification 311,250).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Postinfectious Glomerulonephritis 2",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_9.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Postinfectious Glomerulonephritis 2/Fig_9.txt",
+        "description": "Figure 9. In this case of acute postinfectious glomerulonephritis, only rare subepithelial deposits remain with occasional intramembranous deposits. At this later stage, the deposits may be found only in the notch area, ie, where the basement membrane reflects over the mesangium. Such deposits may indent the basement membrane as well as protrude above it, as shown (transmission electron micrograph; original magnification, 317,125).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 4
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

@@ -1,0 +1,135 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "Subacute Bacterial Endocarditis–Associated Glomerulonephritis",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Subacute Bacterial Endocarditis–Associated Glomerulonephritis/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Subacute Bacterial Endocarditis–Associated Glomerulonephritis/Fig_1.txt",
+        "description": "Figure 1. Subacute bacterial endocarditis–associated glomerulonephritis with segmental endocapillary hypercellularity (Jones silver stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Subacute Bacterial Endocarditis–Associated Glomerulonephritis",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Subacute Bacterial Endocarditis–Associated Glomerulonephritis/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Subacute Bacterial Endocarditis–Associated Glomerulonephritis/Fig_2.txt",
+        "description": "Figure 2. Subacute bacterial endocarditis–associated glomerulonephritis with ﬁbrocellular crescent (Jones silver stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Subacute Bacterial Endocarditis–Associated Glomerulonephritis",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Subacute Bacterial Endocarditis–Associated Glomerulonephritis/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Subacute Bacterial Endocarditis–Associated Glomerulonephritis/Fig_3.txt",
+        "description": "Figure 3. Subacute bacterial endocarditis–associated glomerulonephritis with IgM dominant mesangial and capillary wall granular and chunky staining (immunoﬂuorescence microscopy, IgM).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Subacute Bacterial Endocarditis–Associated Glomerulonephritis",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Subacute Bacterial Endocarditis–Associated Glomerulonephritis/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Subacute Bacterial Endocarditis–Associated Glomerulonephritis/Fig_4.txt",
+        "description": "Figure 4. Subacute bacterial endocarditis–associated glomer ulonephritis with mesangial deposits (electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "Subacute Bacterial Endocarditis–Associated Glomerulonephritis",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Subacute Bacterial Endocarditis–Associated Glomerulonephritis/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/Subacute Bacterial Endocarditis–Associated Glomerulonephritis/Fig_5.txt",
+        "description": "Figure 5. Subacute bacterial endocarditis–associated glomerulonephritis with subendothelial deposits (electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

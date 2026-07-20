@@ -9,9 +9,9 @@
       "failure_reason": null,
       "artifact_paths": {
         "images": [
-          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Malakoplakia/Fig_1.png"
+          "/private/tmp/ajkd-atlas-full-staging-20260720/Disease related/Malakoplakia/Fig_1.png"
         ],
-        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Malakoplakia/Fig_1.txt",
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/Disease related/Malakoplakia/Fig_1.txt",
         "description": "Figure 1. Malakoplakia with mass-like sheets of macrophages with granular eosinophilic cytoplasm and scattered neutrophils within the interstitium and tubules (hematoxylin and eosin stain).",
         "json": null,
         "csv": null,
@@ -35,9 +35,9 @@
       "failure_reason": null,
       "artifact_paths": {
         "images": [
-          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Malakoplakia/Fig_2.png"
+          "/private/tmp/ajkd-atlas-full-staging-20260720/Disease related/Malakoplakia/Fig_2.png"
         ],
-        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Malakoplakia/Fig_2.txt",
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/Disease related/Malakoplakia/Fig_2.txt",
         "description": "Figure 2. Malakoplakia with sheets of macrophages with granular cytoplasm and intracytoplasmic Michaelis-Gutmann bodies (periodic acid–Schiff stain).",
         "json": null,
         "csv": null,
@@ -61,9 +61,9 @@
       "failure_reason": null,
       "artifact_paths": {
         "images": [
-          "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Malakoplakia/Fig_3.png"
+          "/private/tmp/ajkd-atlas-full-staging-20260720/Disease related/Malakoplakia/Fig_3.png"
         ],
-        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Disease related/Malakoplakia/Fig_3.txt",
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/Disease related/Malakoplakia/Fig_3.txt",
         "description": "Figure 3. Malakoplakia with macrophage with intracytoplasmic Michaelis-Gutmann body composed of crystalline central core with peripheral mineral deposits (electron microscopy).",
         "json": null,
         "csv": null,

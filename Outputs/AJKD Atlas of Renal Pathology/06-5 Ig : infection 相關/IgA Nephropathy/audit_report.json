@@ -1,0 +1,161 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "IgA Nephropathy",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy/Fig_1.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy/Fig_1.txt",
+        "description": "Figure 1. Immunoglobulin A nephropathy with moderate mesangial expansion and proliferation (periodic acid–Schiff stain). Reproduced with permission from AJKD 31(4):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy/Fig_2.txt",
+        "description": "Figure 2. Immunoglobulin A nephropathy with endocapillary proliferation and cellular crescent formation (Jones silver stain).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy/Fig_3.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy/Fig_3.txt",
+        "description": "Figure 3. Immunoglobulin A nephropathy with segmental sclerosis (periodic acid–Schiff stain). Reproduced with permission from AJKD 31(4):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy/Fig_4.txt",
+        "description": "Figure 4. The diagnosis of immunoglobulin A (IgA) nephropathy is based on the ﬁnding of dominant or codominant IgA mesangial deposits. C3 is often present in the mesangium, usually equal to or less than IgA staining (immunoﬂuorescence microscopy, IgA). Reproduced with permission from AJKD 31(4):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy/Fig_5.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy/Fig_5.txt",
+        "description": "Figure 5. Mesangial deposits with increased mesangial matrix and cellularity in immunoglobulin A nephropathy (electron micro scopy). Reproduced with permission from AJKD 31(4):e1.",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy/Fig_6.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy/Fig_6.txt",
+        "description": "Figure 6. Subendothelial deposits in glomerular capillary walls can be seen in more active immunoglobulin A nephropathy (electron microscopy).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

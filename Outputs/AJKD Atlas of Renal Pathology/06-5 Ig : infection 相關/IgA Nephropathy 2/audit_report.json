@@ -1,0 +1,291 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "IgA Nephropathy 2",
+      "asset_id": "Fig_1A",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_1A.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_1A.txt",
+        "description": "Figure 1A. IgA nephropathy with minimal increase in mesangia matrix and cells (normal is less than or equal to 3 cells/mesangia area). The diagnosis must rely on additional immunofluorescence and electron microscopic studies ([A] periodic acid-Schiff, original magnification 3200; [B] Jones’ silver stain, original magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy 2",
+      "asset_id": "Fig_1B",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_1B.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_1B.txt",
+        "description": "Figure 1B. IgA nephropathy with minimal increase in mesangia matrix and cells (normal is less than or equal to 3 cells/mesangia area). The diagnosis must rely on additional immunofluorescence and electron microscopic studies ([A] periodic acid-Schiff, original magnification 3200; [B] Jones’ silver stain, origina magnification 3400).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 1
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy 2",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_2.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_2.txt",
+        "description": "Figure 2. Moderate diffuse mesangial expansion with increased matrix and cellularity in IgA nephropathy (Jones’ silver stain, original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy 2",
+      "asset_id": "Fig_3A",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_3A.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_3A.txt",
+        "description": "Figure 3A. IgA nephropathy with moderate mesangial expansion with increased matrix and cells ([A] periodic acid-Schiff; [B] Jones’ silver stain; original magnification for each 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy 2",
+      "asset_id": "Fig_3B",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_3B.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_3B.txt",
+        "description": "Figure 3B. IgA nephropathy with moderate mesangial expansion with increased matrix and cells ([A] periodic acid-Schiff; [B] Jones’ silver stain; original magnification for each 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy 2",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_4.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_4.txt",
+        "description": "Figure 4. Increased mesangial cellularity and matrix in IgA ne phropathy (Jones’ silver stain, original magnification 3400)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 2
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy 2",
+      "asset_id": "Fig_5A",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_5A.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_5A.txt",
+        "description": "Figure 5A. IgA nephropathy may have superimposed segmenta sclerosis in addition to variable mesangial increase. (A) A smal peripheral sclerotic lesion with adhesion is present; (B) more advanced segmental sclerosis is shown ([A] Jones’ silver stain; [B] periodic acid-Schiff; original magnification for each 3200).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy 2",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_7.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_7.txt",
+        "description": "Figure 7. Henoch-Scho¨nlein purpura (HSP) also has mesangia IgA deposits, and thus it appears morphologically like IgA nephropathy. Clinicopathological correlation is required to distinguish HSP from IgA nephropathy, but crescents, shown here, are more frequent in biopsied HSP than in IgA nephropath (Jones’s silver stain, original magnification 3100).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 3
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy 2",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_8.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_8.txt",
+        "description": "Figure 8. Mesangial electron dense deposits and increased mesangial matrix and cellularity in IgA nephropathy (transmis sion electron microscopy, original magnification 34,500)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 4
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy 2",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_9.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_9.txt",
+        "description": "Figure 9. Mesangial electron dense deposits and increased mesangial matrix and cellularity in IgA nephropathy (transmis sion electron microscopy, original magnification 38,500)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 4
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    },
+    {
+      "chapter_stem": "IgA Nephropathy 2",
+      "asset_id": "Fig_10",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_10.png"
+        ],
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/06-5 Ig : infection 相關/IgA Nephropathy 2/Fig_10.txt",
+        "description": "Figure 10. Marked increase in mesangial cellularity and matrix with massive mesangial dense deposits, with some extension of deposits to paramesangial areas. (Left) There is also interposition of cells in the glomerular basement membrane with new basement membrane formation on the endothelial aspect of the interposed cells (transmission electron microscopy, origina magnification 34,800).",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 4
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "AJKD MinerU image_caption"
+    }
+  ],
+  "hard_failures": []
+}

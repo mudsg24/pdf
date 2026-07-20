@@ -9,9 +9,9 @@
       "failure_reason": null,
       "artifact_paths": {
         "images": [
-          "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Acute Pyelonephritis 2/Fig_1.png"
+          "/private/tmp/ajkd-atlas-full-staging-20260720/Pyelonephritis/Acute Pyelonephritis 2/Fig_1.png"
         ],
-        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Acute Pyelonephritis 2/Fig_1.txt",
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/Pyelonephritis/Acute Pyelonephritis 2/Fig_1.txt",
         "description": "Figure 1. Acute pyelonephritis is diagnosed by intratubular aggregations of polymorphonuclear neutrophils (PMNs). There may be surrounding interstitial inflammation with a mixture of PMNs, lymphocytes, and plasma cells, but the predominant inflammation is within the tubules. (Jones’ Silver Stain, origina magnification 3200).",
         "json": null,
         "csv": null,
@@ -35,9 +35,9 @@
       "failure_reason": null,
       "artifact_paths": {
         "images": [
-          "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Acute Pyelonephritis 2/Fig_2.png"
+          "/private/tmp/ajkd-atlas-full-staging-20260720/Pyelonephritis/Acute Pyelonephritis 2/Fig_2.png"
         ],
-        "text": "/private/tmp/ajkd-atlas-full-staging-20260719/Pyelonephritis/Acute Pyelonephritis 2/Fig_2.txt",
+        "text": "/private/tmp/ajkd-atlas-full-staging-20260720/Pyelonephritis/Acute Pyelonephritis 2/Fig_2.txt",
         "description": "Figure 2. More extensive intratubular polymorphonuclear neutrophils (PMNs) are present in this case of acute pyelonephritis. The PMNs are easily recognizable by their multilobed irregular nuclei. There is associated tubular degeneration and necrosis, but only minimal interstitial changes. (Jones’ Silver Stain, origina magnification 3200).",
         "json": null,
         "csv": null,
