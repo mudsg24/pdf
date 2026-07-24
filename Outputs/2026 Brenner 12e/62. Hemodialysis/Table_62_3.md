@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 62.3 Characteristics of Ideal Hemodialysis Vascular Access Compared With Commonly Available Types Desired Characteristic  Autogenous AV Fistula  AV Graft  Central Venous Catheter    Good primary patency rate  ✓  ✓✓  ✓✓✓    Instant usability  ✓  ✓✓  ✓✓✓    Long survival  ✓✓✓  ✓✓  ✓    Low thrombosis rate  ✓✓✓  ✓✓  ✓    Low infection rate  ✓✓✓  ✓✓  ✓    High blood flow rate on hemodialysis  ✓✓✓  ✓✓✓  ✓    Patient comfort  ✓  ✓  ✓✓✓    Patient bathing/hygiene  ✓✓✓  ✓✓✓  ✓    Minimizes needles  ✓  ✓  ✓✓✓    Minimal cosmetic affect  ✓  ✓✓  ✓✓ AV, Arteriovenous. |

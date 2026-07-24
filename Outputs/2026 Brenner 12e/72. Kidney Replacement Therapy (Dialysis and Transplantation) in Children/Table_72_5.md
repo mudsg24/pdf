@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 72.5 Temporary and Tunneled Hemodialysis Central Venous Lines (CVCs) Patient Weight  Temporary CVCs  Tunneled CVCs    <10 kg  6.5 Fr 10 cm  8 Fr 18 cm (double-lumen)    10-20 kg  8.0 Fr 10 cm  10 Fr 15 cm (split); 8 Fr 18 cm (double-lumen)    10-20 kg  8.0 Fr 12.5 cm  10 Fr 18 cm (split); 14.5 Fr 13 cm (double-lumen)    20-30 kg  11 Fr 12.5 cm  14 Fr 24 cm; 14.5 Fr 19 cm (double-lumen)    >30 kg  11 Fr 15 cm  14 Fr 24 cm; 14.5 Fr 23 cm (double-lumen) |

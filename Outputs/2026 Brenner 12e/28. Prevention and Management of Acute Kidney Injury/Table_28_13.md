@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 28.13  Complications of Acute Kidney Injury Metabolic  Cardiovascular  Gastrointestinal  Neurologic  Hematologic  Infectious  Other    Hyperkalemia  Pulmonary edema  Nausea  Neuromuscular irritability  Anemia  Pneumonia  Hiccups    Metabolic acidosis  Arrhythmias  Vomiting  Asterixis  Bleeding  Septicemia  Elevated parathyroid hormone    Hyponatremia  Pericarditis  Malnutrition  Seizures    Urinary tract infection  Low total triiodothyronine and thyroxine    Hypocalcemia  Pericardial effusion  Hemorrhage  Mental status changes      Normal thyroxine    Hyperphosphatemia  Pulmonary embolism              Hypermagnesemia  Hypertension              Hyperuricemia  Myocardial infarction |

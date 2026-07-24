@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 71.5  Factors Influencing in Utero Environment That Are Associated With Renal Hypoplasia Fetal Exposure to  Renal Phenotype  References    Uteroplacental insufficiency  Hypoplasia  843    Vitamin A deficiency  Hypoplasia, hydronephrosis/ ureter  844    Low-protein diet  Hypoplasia  845,846    Hyperglycemia  Agenesis, ectopic/ horseshoe, cystic/ dysplasia, hypoplasia, hydronephrosis/ ureter  847    Cocaine  Agenesis, hypoplasia, hydronephrosis/ ureter  113    Alcohol  Agenesis, ectopia/ horseshoe, cystic  848,116    Angiotensin- converting enzyme inhibitors and angiotensin II receptor blockers  dysplasia, hypoplasia, hydronephrosis/ ureter Renal dysgenesis  112 |

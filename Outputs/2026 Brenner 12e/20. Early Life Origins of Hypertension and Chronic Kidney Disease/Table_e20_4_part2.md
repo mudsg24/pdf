@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| eTable 20.4  Programming Effects on the Renin–Angiotensin System Model  Species  Timing of Insult  Age and Sex of Offspring at Study  mRNA or Protein Expression  Physiologic Response  Reference(s)    Glucocorticoids  Sheep  Early gestation  40 mo ♀  ↔ Plasma renin, ANG II, or Aogen  ↑ Basal MAP, females only  170    Rat    6-7 mo ♂♀  ↔ Renal Aogen ↑ PRA, plasma Aogen in females only  ↑ Basal TBP, females only  163    Rat  Mid- to late gestation  6 mo  ↑ Renal ACE and renin in males and females  ND  354    Rat  Mid- to late gestation  4 and 8 wk ♂  ↔ PRA, plasma ANG II, and renal ANG II levels ↑ Urine ANG II at 4 and 8 wk  ↑ Basal TBP at 8 but not 4 wk of age  32 |

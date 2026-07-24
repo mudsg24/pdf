@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 43.1  Bosniak Classification of Renal Cysts and Cystic Masses Classification  Description  Historical Likelihood of Malignancy (%)44    Bosniak I  Simple cyst of water density with a thin wall that does not contain septa, calcifications, or other solid components  1.7    Bosniak II  Cyst may contain a few hairline septa and fine calcifications; uniform high-attenuation lesions that do not show contrast enhancement  18.5    Bosniak IIF  Cysts may contain multiple hairline thin septa or minimal smooth wall thickening  >18.5    Bosniak III  Thickened or irregular walls or septa with measurable enhancement  33    Bosniak IV  One or more enhancing nodules (>4 mm)  92.5 |

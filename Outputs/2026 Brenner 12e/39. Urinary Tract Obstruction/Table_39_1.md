@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 39.1  Glomerular Hemodynamics in Ureteral Obstruction<sup>a</sup> Stage of obstruction   P_T    R_A    P_{GC}   SNGFR    1-2 hours unilateral  ↑↑  ↓  ↑  =    24 hours unilateral  =  ↑↑  ↓  ↓↓    24 hours bilateral  ↑↑  =  =  ↓↓    After release: 24 hours unilateral  ↓  ↑↑  ↓↓  ↓↓    After release: 24 hours bilateral  =  ↑↑  ↓  ↓↓ <sup>a</sup>See text for discussion and references. P , Hydraulic pressure of Bowman space; P , proximal tubule hydraulic pressure; R , afferent arteriole resistance; SNGFR, single-nephron glomerular filtration rate; =, unchanged; ↑, increased; ↑↑, markedly increased; ↓, reduced; ↓↓, markedly reduced. |

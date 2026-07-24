@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 7.4 Factors Altering the Reabsorption of Phosphate in the Kidney Phosphate Reabsorption Increased By  Phosphate Reabsorption Decreased By    Growth hormone  Atrial natriuretic peptide    Hypocalcemia  Diuretics    Insulin  Dopamine    Metabolic alkalosis  Estrogen    Parathyroidectomy  Fibroblast growth factor 7    Phosphate depletion  Fibroblast growth factor 23    Stanniocalcin 1  Glucocorticoids    Volume contraction  Hypercalcemia      Hypokalemia      Matrix extracellular phosphoglycoprotein (MEPE)      Metabolic acidosis      Parathyroid hormone      Phosphate loading      Secreted frizzled-related protein 4 (sFRP-4)      Volume expansion |

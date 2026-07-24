@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 14.2  Classification of Hyponatremia According to Severity of Presenting Symptoms Severity  Serum Sodium Level  Neurologic Symptoms  Typical Duration of Hyponatremia    Severe  Generally <125 mmol/L  Vomiting, seizures, obtundation, respiratory distress, coma  Acute (<24-48 hours)    Moderate  Generally <130 mmol/L  Nausea, confusion, disorientation, altered mental status, unstable gait, falls  Intermediate or chronic (>24-48 hours)    Mild  <135 mmol/L  Headache, irritability, difficulty concentrating, altered mood, depression  Chronic (several days to many weeks or months) |

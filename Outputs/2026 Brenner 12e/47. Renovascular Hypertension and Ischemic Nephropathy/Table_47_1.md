@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 47.1 Prevalence rates of atherosclerotic renal artery stenosis<sup>a</sup> Vascular disease  Prevalence rate (%)    Suspected renovascular hypertension  14.1    Coronary angiography  10.5    With hypertension  17.8    Peripheral vascular disease  25.3    AAA  33.1    ESKD  40.8 (?)b    Congestive heart failure  54.1 (?)b |

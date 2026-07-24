@@ -1,0 +1,329 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_1.txt",
+        "description": "Table 1 Hierarchy of outcomes",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_1.md",
+        "page": 37
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_2.txt",
+        "description": "Table 2 Clinical questions and systematic review topics in PICOD format",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_2.md",
+        "page": 38
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_3.txt",
+        "description": "Table 3 Classification for the grade of the certainty of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_3.md",
+        "page": 40
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_4.txt",
+        "description": "Table 4 GRADE system for grading the certainty of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_4.md",
+        "page": 40
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_5.txt",
+        "description": "Table 5 KDIGO nomenclature and description for grading recommendations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_5.md",
+        "page": 41
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_6.txt",
+        "description": "Table 6 Determinants of the strength of a recommendation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Table_6.md",
+        "page": 41
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Fig_1.txt",
+        "description": "Figure 1 Clinical characteristics of and definitions for nephrotic syndrome (NS) in children aged 1–18 years",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 23
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Fig_2.txt",
+        "description": "Figure 2 Treatment algorithm for nephrotic syndrome (NS) from onset",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 25
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Fig_3.txt",
+        "description": "Figure 3 Glucocorticoid-sparing therapies in children with steroid-sensitive nephrotic syndrome, listed in an unbiased order",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 31
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Fig_4.txt",
+        "description": "Figure 4 Treatment of steroid-resistant nephrotic syndrome in children",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 35
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Fig_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Fig_5.txt",
+        "description": "Figure 5 General principles for children with nephrotic syndrome",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 36
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Fig_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children/Fig_6.txt",
+        "description": "Figure 6 Search yield and study flow diagram",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 39
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    }
+  ],
+  "hard_failures": []
+}

@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 45.6  Specific Values Above 97.5th Percentile by Age and Sex for Possible ADPKD Diagnosis; Cysts Must Be ≥5 mm in Diameter Age (Years)  Number of Cysts (Diameter ≥5 mm)    Males  Females    ≤29  ≥2  ≥2    30-39  ≥3  ≥3    40-49  ≥4  ≥3    50-59  ≥6  ≥4    60-69  ≥11  ≥5    ≥70  ≥11 (≥5 in each kidney)  ≥10 (≥5 in each kidney) |

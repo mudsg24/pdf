@@ -1,0 +1,1 @@
+Box 62.2a Global Nutritional Assessment Tools to Evaluate for Presence of Protein Energy Wasting (PEW)—Subjective Global Assessment (SGA), Malnutrition Inflammation Score (MIS), and PEW Score

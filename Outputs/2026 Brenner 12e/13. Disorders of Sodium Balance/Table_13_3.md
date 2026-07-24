@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 13.3 Causes of Absolute and Relative Hypovolemia ABSOLUTE Extrarenal    Gastrointestinal fluid loss    Bleeding    Skin fluid loss    Respiratory fluid loss    Extracorporeal ultrafiltration |

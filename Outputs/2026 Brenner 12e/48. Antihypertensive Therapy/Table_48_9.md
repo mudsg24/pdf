@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 48.9 Pharmacologic Properties of β-Adrenergic Antagonists Generic Name (Trade Name)   \beta_1  Selectivity  Partial Agonist Activity  Membrane-Stabilizing Activity   \alpha -Adrenergic Antagonist Activity    Acebutolol (Sectral)  +  +  +      Atenolol (Tenormin)  +          Betaxolol (Kerlone)  +    +      Bisoprolol (Zebeta)  +          Carvedilol (Coreg)      +  +    Celiprolol (none in the United States)  +      +    Labetalol (Trandate)    +    +    Metoprolol (Lopressor)  +          Nadolol (Corgard)            Penbutolol (Levatol)    +        Pindolol (Visken)    +  +      Propranolol (Inderal)      +      Nebivolol (Bystolic)  + |

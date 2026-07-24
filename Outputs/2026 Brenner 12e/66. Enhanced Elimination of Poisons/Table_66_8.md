@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 66.8  Antidote Dosage During Toxic Alcohol Poisoning 40% PO Ethanol (e.g., scotch)  10% IV Ethanol  IV Fomepizole    Loading  dose^a   1.8 mL/kg  7.6 mL/kg  15 mg/kg    Maintenance dose  0.2 mL/kg/h (nondrinker)  0.8 mL/kg/h (nondrinker)  10 mg/kg q12h x 4 doses, then 15 mg/kg q 12 hours    0.5 mL/kg/h (chronic drinker)  2.0 mL/kg/h (chronic drinker)    Maintenance dose during IHD  0.5 mL/kg/h (nondrinker)  2.1 mL/kg/h (nondrinker)  Same dose but q4h or a constant infusion of 1.0-1.5 mg/kg/h    0.8 mL/kg/h (chronic drinker)  3.3 mL/kg/h (chronic drinker) <sup>a</sup>Assumes initial ethanol concentration is zero, dose is independent of chronic drinking status. |

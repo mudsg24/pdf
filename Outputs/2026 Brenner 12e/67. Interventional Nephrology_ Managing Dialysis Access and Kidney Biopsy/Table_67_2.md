@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 67.2 Effect of Preoperative Vascular Mapping on Vascular Access Outcomes Reference  % Fistulas Placed  % Primary Fistula Failure  % Prevalence of Fistula Use    Pre-VM  Post-VM  Pre-VM  Post-VM  Pre-VM  Post-VM    Silva, 199840  14  63  36  8  8  64    Ascher, 200038  0  100  N/A  18  5  68    Gibson, 200139  11  95  18  25  N/A  N/A    Allon, 200135  34  64  54  46  16  34    Sedlacek, 200142  N/A  62  N/A  25  N/A  N/A    Mihmanli, 200143      25  6        Miller, 199744  N/A  76            Kakkos, 201141  12  53  32  18 N/A, Not available; VM, preoperative vascular mapping. Adapted from Allon M, Robbin ML. Increasing arteriovenous fistulas in hemodialysis patients: problems and solutions. Kidney Int. |

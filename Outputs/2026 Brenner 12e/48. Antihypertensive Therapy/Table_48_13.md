@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 48.13  Pharmacodynamic Properties of β-Adrenergic Antagonists with Vasodilatory Properties Drug  Initial Dose (mg)  Usual Dose (mg)  Maximum Dose (mg)  Interval  Peak Response (h)  Duration of Response (h)    Labetalol  100  200–800  1200–2400  bid  3  8–12    Carvedilol  6.25  12.5–25  50  bid  4–7  24    Celiprolol  200  200–400  400  qd  —  —    Nebivolol  5  5  40  qd  6  24 bid, Two times a day; qd, once a day. |

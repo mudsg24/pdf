@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 68.2 Human Leukocyte Antigens Mismatching Considered From The Perspective of The Recipient Immune System Human Leukocyte Antigen Locus  A*  B*  Cw*  DRB1*  DQA1*  DQB1*  DPA1*  DPB1*  Total Mismatches    Recipient  11  15(62) 15(75)  04  12  06:01  03:01(7)  01:03  02:02      24    08  14  -  -  02  21:01      Donor  2  46  01  09  03  03:03(9)  02-  05:01      -  52  14  -  -  -  -  09:01      Mismatches  1  2  2  1  1  1  0  2  10    Recipient  2  46  01  09  03  03:03(9)  02-  05:01      -  52  14  -  -  -  -  09:01      Donor  11  15(62) 15(75)  04  12  06:01  03:01(7)  01:03  02:02      24    08  14  -  -  02  21:01      Mismatches  2  2  2  2  1  1  1  2  13 |

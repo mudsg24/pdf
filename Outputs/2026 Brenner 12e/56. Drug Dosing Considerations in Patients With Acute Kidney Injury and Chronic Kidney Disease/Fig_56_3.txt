@@ -1,0 +1,1 @@
+Fig. 56.3 Threshold concentration, CE , producing 5% of the maximum effect, and ceiling concentration, CE , producing 95% of the maximum effect. With a Hill coefficient of H = 1.0, CE<sub>05</sub> = 0.5 and CE<sub>95</sub> = 190, whereas for H = 4.0, the threshold is higher, with CE<sub>05</sub> = 6.0, but the ceiling is much less, with CE = 21 mg/L.

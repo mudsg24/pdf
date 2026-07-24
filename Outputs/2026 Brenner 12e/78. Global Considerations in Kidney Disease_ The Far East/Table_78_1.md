@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 78.1 Secondary Renal Diseases Presenting as Acute Kidney Injury in East, Southeast, and Northeast Asia Causes  Examples    Autoimmunity  Lupus nephritisANCA vasculitisAntiglomerular basement membrane diseaseMiscellaneous glomerulonephritis    Infections  LeptospirosisDengue feverHantaviruses (hemorrhagic fever with renal syndrome)Scrub typhusMalariaSevere fever with thrombocytopenia syndrome virus    Toxins  From plant (e.g., aristolochic acid and djenkolic acid)From animal or insect (e.g., snake venom and grass carp fish gallbladder)Chemical (e.g., ketamine abuse presenting with CKD or AKI due to obstructive uropathy) AKI, Acute kidney injury; ANCA, antineutrophil cytoplasmic antibody; CKD, chronic kidney disease. |

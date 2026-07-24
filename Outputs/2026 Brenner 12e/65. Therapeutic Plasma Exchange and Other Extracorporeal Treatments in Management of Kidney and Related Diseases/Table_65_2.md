@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 65.2  Summary of Kidney Diseases Treated With Plasmapheresis Disease  Category    Antiglomerular basement membrane disease  I    Rapidly progressive glomerulonephritis  II    Hemolytic uremic syndrome  III    TTP  I    Renal transplant rejection  IV    Desensitization for renal transplantation  II    Recurrent FSGS  III    Cryoglobulinemia  II    Systemic lupus erythematosus  III Category I, Standard primary therapy; Category II, supportive therapy; Category III, when the evidence of benefit is unclear; Category IV, when there is no current evidence of benefit or for research protocols; FSGS, focal and segmental glomerulosclerosis; TTP, thrombotic thrombocytopenic purpura. |

@@ -1,0 +1,1 @@
+Fig. 44.2 Positive predictive value for an 85% sensitive test ac- cording to prior probability, or prevalence of the disease in the population in which the test is applied, with each line represent- ing a specificity between 0.90 and 0.99.

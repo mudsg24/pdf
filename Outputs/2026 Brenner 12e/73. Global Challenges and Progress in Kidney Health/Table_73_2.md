@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 73.2  Suggestions for Preparation of Locally Mixed Peritoneal Dialysis Fluids<sup>a</sup> Dialysis fluid can be made by adding 50% dextrose to Ringers lactate, Plasmalyte B, or Hartmann solution 1 L Ringers lactate + 30 mL 50% dextrose will make a 1.5% solution    1 L Ringers lactate + 90 mL 50% dextrose will make a 4.5% solution    1 L Plasmalyte B + 30 mL 50% dextrose makes a 1.5% dialysis solution    1 L Plasmalyte B + 90 mL 90% dextrose makes a 4.5% dialysis solution    1 L Hartmann + 30 mL 50% dextrose makes a 1.5% dialysis solution    1 L Hartmann + 90 mL 50% dextrose makes a 4.5% dialysis solution |

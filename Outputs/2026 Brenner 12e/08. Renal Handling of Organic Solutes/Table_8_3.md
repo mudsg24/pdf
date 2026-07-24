@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 8.3  Uremic Toxins Accumulating in OAT1 and/or OAT3 Knockout Mice Indoxyl sulfate  Indolelactate    p-Cresol sulfate  Kynurenate    Hippurate  Putrescine    CMPF  Uric acid    Phenyl sulfate  Creatinine    Xanthurenate |

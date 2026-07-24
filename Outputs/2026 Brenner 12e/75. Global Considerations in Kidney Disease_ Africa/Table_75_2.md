@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 75.2  Recent Population Prevalence Studies from African Countries Author and Year  Country  Prevalence    Gbaguidi et al., 2021227  Benin  16.1%    George et al., 2019228  Burkino Faso, Ghana, Kenya, South Africa  10.1%    Kaze et al.229  Cameroon  11.7%    Masimango et al., 2020230  Democratic Republic of the Congo  12.2%    Olanrewaju et al., 2020231  Nigeria  12.0%    Wokoma et al., 2017232  Nigeria  11.7%    Adeniyi et al., 2017233  South Africa  6.4%    Hodel et al., 2018234  Tanzania  13.6%    Ploth et al., 2018235  Tanzania  12.4%    Muiru et al., 2020236  Uganda and Kenya  6.8% |

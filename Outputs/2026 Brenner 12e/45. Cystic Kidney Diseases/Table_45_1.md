@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 45.1  Differences Between Simple and Complex Cysts Simple Cyst  Complex Cyst    Characteristics  Most common renal lesion containing water-like fluid  Less common renal mass with thicker walls and solid-like material    Presentation  Typically, asymptomatic. Dull abdominal or back pain and urinary changes in case of enlargement  Typically, asymptomatic.May present with fever, pain, and hematuria    Imaging  Incidental finding. Oval anechoic mass  Poorly demarcated thick cyst walls with septations and internal echoes reflecting solid-like material inside. |

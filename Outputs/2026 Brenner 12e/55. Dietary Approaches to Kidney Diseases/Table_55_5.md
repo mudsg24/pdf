@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 55.5 Dietary Approaches to Reduce Mortality in Established Chronic Kidney Disease Strategy  Tactic    Emphasize an overall diet with a high ratio of fiber-to-animal-based protein  Promote plant-based foodsMinimize animal-based foods, particularly red meatMaintain protein intake that avoids protein energy wasting    Minimize dietary NaCl (“salt”)  Promote fresh fruits and vegetables as toleratedMinimize processed foods    Emphasize diets that improve blood pressure control  Minimize NaCl (“salt”) intakeEmphasize potassium intake as toleratedEmphasize diets that reduce net endogenous acid production |

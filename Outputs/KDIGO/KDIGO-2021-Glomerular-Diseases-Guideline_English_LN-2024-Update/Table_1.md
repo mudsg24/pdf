@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 1 \| Hierarchy of outcomes Hierarchy  Outcomes    Critical outcomes  All-cause mortalityKidney failure (formerly known as ESKD)≥50% loss of GFRInfectionGlucocorticoid-related adverse eventsMalignancy    Important outcomes  Complete remission/relapseAnnual GFR loss (minimum 3 years follow-up) |

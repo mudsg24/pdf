@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| eTable 69.3  Noninvasive Diagnostic Testing for Acute Allograft Rejection in Kidney Transplant Recipients •	 Donor-specific antibodies (DSA) •	 Donor-derived cell-free DNA (dd-cfDNA) •	 Blood gene expression profiles (Trugraf) •	 Urinary mRNA •	 Urinary levels of chemokine Proteomic and peptidomic signatures of acute rejection in urine and blood samples •	 IFN-γ enzyme-linked immunosorbent spot (ELISPOT) assay From Thongprayoon C, Vaitla P, Craici IM, et al. The use of donor-derived cell-free DNA for assessment of allograft rejection and injury status.J Clin Med. 2020;9(5):1480. Published 2020 May 14. |

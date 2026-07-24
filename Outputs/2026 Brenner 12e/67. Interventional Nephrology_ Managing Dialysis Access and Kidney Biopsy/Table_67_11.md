@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 67.11  Primary Graft Patency After Thrombectomy Reference  No. of Procedures  Primary Patency at:    3 Months  6 Months    Valji, 1991140  121  53  34    Trerotola, 1994141  34  45  19    Beathard, 1994142  55 mech  37      48 pharm  46      Cohen, 1994143  135  33  25    Sands, 1994144  71    11    Beathard, 1995145  425  50  33    Beathard, 1996146  1176  52  39    Trerotola, 1998147  112  40  25    Turmel-Rodrigues, 2000102  58  63  32    Lilly, 200177  326  30  19 |

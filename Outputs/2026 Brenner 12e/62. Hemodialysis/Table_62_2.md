@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 62.2 Causes of Death for Prevalent Hemodialysis Patients (2021) Cause of Death  % of Total    Cardiovascular disease  38%    • Arrhythmia, cardiac arrest  32%    • Myocardial infarction  2%    • Other cardiovascular  4%    Withdrawal from dialysis  12%    COVID-19  7%    Septicemia or other infection  6%    Malignancy  2%    Other causes  8%    Missing or unknown causes  27% Data from U.S. Renal Data System. 2023 USRDS Annual Data Report: Epidemiology of kidney disease in the United States. National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD, 2023. |

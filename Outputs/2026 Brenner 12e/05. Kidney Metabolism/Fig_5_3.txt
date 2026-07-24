@@ -1,0 +1,1 @@
+Fig. 5.3 Whittam model. Coupling of adenosine triphosphate (ATP) utilization by Na<sup>+</sup>-K<sup>+</sup>-ATPase to ATP production by mitochondrial oxygen consumption (Qo ). Hydrolysis of ATP produces ADP plus inorganic phosphate (Pi), which lowers the ATP/ADP ratio, a signal to increase ADP uptake into the mitochondria and increase ATP synthesis.

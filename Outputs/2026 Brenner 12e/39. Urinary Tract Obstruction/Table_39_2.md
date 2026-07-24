@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 39.2 Segmental Reabsorption in Superficial and Juxtamedullary Nephrons and in Collecting Ducts in Normal Rats After Release of Bilateral or Unilateral Obstruction Site  Normal  After unilateral obstruction  After bilateral obstruction    Water remaining (%)   Na^+  remaining (%)  Water remaining (%)   Na^+  remaining (%)  Water remaining (%)   Na^+  remaining (%)     S_1   100  100  100  100  100  100     S_2   44  44  26  26  45  45     S_3   26  14  21  12  40  22     S_4   9.4  5  3.2  1.9  25  7     J_1   100  100  100  100  100  100     J_2   12  40  42  52  42  62     CD_1   3.3  2  4.2  3.8  8  6     CD_2   0.4  0.6  2.9  2.5  16.7  12 |

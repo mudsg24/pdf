@@ -1,0 +1,387 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_1.txt",
+        "description": "Table 1 Factors to consider when choosing a treatment and/or treatment combinations for patients with IgAN at risk of progressive loss of kidney function",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_1.md",
+        "page": 38
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_2.txt",
+        "description": "Table 2 Baseline characteristics and key inclusion criteria for recently reported trials in IgAN and including trials with significant numbers of patients with IgAN",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_2.md",
+        "page": 39
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=mineru_evidence",
+        "border_white_ratio=0.993"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_3.txt",
+        "description": "Table 3 Phase 3 clinical trials open in 2025 evaluating new treatments for IgAN",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_3.md",
+        "page": 52
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_4.txt",
+        "description": "Table 4 Hierarchy of outcomes",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_4.md",
+        "page": 57
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_5.txt",
+        "description": "Table 5 Clinical questions and systematic review topics in PICOD format",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_5.md",
+        "page": 58
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_6.txt",
+        "description": "Table 6 Classification for the grade of the certainty of the evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_6.md",
+        "page": 60
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Table_7",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_7.txt",
+        "description": "Table 7 GRADE system for grading the certainty of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_7.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_7.md",
+        "page": 60
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Table_8",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_8.txt",
+        "description": "Table 8 KDIGO nomenclature and description for grading recommendations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_8.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_8.md",
+        "page": 61
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Table_9",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_9.txt",
+        "description": "Table 9 Determinants of the strength of a recommendation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_9.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Table_9.md",
+        "page": 61
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Fig_1.txt",
+        "description": "Figure 1 Data elements included in the International Immunoglobulin A Nephropathy (IgAN) Prediction Tools",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 33
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Fig_2.txt",
+        "description": "Figure 2 Initial assessment and management of the patient with immunoglobulin A nephropathy (IgAN)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 34
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Fig_3.txt",
+        "description": "Figure 3 Treatment targets in immunoglobulin A nephropathy (IgAN) and the positioning of drugs included in this guideline",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 36
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Fig_4.txt",
+        "description": "Figure 4 Other pharmacologic therapies evaluated in immunoglobulin A nephropathy (IgAN)",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 45
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2025-IgAN-IgAV-Guideline",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Fig_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2025-IgAN-IgAV-Guideline/Fig_5.txt",
+        "description": "Figure 5 Search yield and study flow diagram",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 59
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    }
+  ],
+  "hard_failures": []
+}

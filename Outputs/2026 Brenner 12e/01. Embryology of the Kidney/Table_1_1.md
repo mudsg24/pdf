@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 1.1  Timelines of Human and Mouse Kidney Development Stage/Event   Humana^a    Mouse^b     Pronephros    Emergence  22nd day  E8.5    Disappearance by  25th day  E10    Mesonephros    Emergence  24th day  E10    Disappearance by  16th week  E14    Metanephros    Ureteric bud induction  28th-32nd day  E10.5    Nephrogenesis  44th day  E13    Glomerulogenesis  8th-9th week  E14    Cessation of nephrogenesis  36th week  P3    Gestation (Total Length)  40 weeks  19-21 days <sup>a</sup>Human timelines refer to gestational periods. <sup>b</sup>Mouse timelines are indicated as either embryonic days post coitum (E) or postnatal (P). |

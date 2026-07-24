@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 66.1  American Association of Poison Control Centers’ Statistics for Exposures of Common Dialyzable Poisons (2021) Poison  Total Exposuresa  Deaths    Acetaminophen  137,021  223    Baclofen  4620  11    Barbiturates  1331  3    Carbamazepine  2194  0    Ethylene glycol  6474  20    Gabapentin  20,887  5    Isopropanol  14,706  1    Lithium  6332  10    Metformin (Biguanides)  9198  18    Methanol  2228  5    Paraquat  132  1    Phenytoin  1369  2    Salicylates  30,587  26    Theophylline  141  2    Valproic acid  6908  2 <sup>a</sup>Includes coingestions and mixed formulations. |

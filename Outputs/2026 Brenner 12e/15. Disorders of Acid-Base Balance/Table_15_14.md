@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 15.14 Treatment of Generalized Dysfunction of the Nephron With Hyperkalemia Loop diuretic (furosemide, bumetanide)    Alkali therapy (Shohl solution or NaHCO3tablets)    K+binding resin    Low-potassium diet    Fludrocortisone (0.1-0.3 mg/day)    Avoid in hypertension, volume expansion, heart failure    Combine with loop diuretic    Avoid drugs associated with hyperkalemia, herbs and over-the-counter preparations containing potassium    In pseudohypoaldosteronism type 1, add NaCl tablets |

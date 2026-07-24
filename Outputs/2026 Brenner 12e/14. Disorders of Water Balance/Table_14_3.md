@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 14.3 Efficacy of Different Treatments Used as Monotherapy for Syndrome of Inappropriate Antidiuretic Hormone Secretion from the Hyponatremia Registry (%) Treatment   \delta  [Na+] ≥5 mmol/L  [Na+] ≥ 130 mmol/L  [Na+] ≥ 135 mmol/L    No treatment (n = 168)  41  45  20    Fluid restriction (n = 625)  44  29  10    Isotonic saline (n = 384)  36  20  4    Tolvaptan (n = 183)  78  74  40    3% NaCl (n =78)  60  25  13 From Verbalis JG, Greenberg A, Burst V, etal. Diagnosing and treating the syndrome of inappropriate antidiuretic hormone secretion. Am J Med. 2016;129:537.e9−537.e23. |

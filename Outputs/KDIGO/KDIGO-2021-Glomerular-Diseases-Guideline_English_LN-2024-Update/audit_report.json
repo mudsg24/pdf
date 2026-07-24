@@ -1,0 +1,2800 @@
+{
+  "findings": [
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Table_1",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_1.txt",
+        "description": "Table 1 Hierarchy of outcomes",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_1.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_1.md",
+        "page": 240
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=0.863"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Table_2",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_2_part1.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_2_part2.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_2_part3.png",
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_2_part4.png"
+        ],
+        "text": null,
+        "description": "Table 2 Clinical questions and systematic review topics in PICOM format",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_2.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_2.md",
+        "page": 241,
+        "parts": [
+          {
+            "part_no": 1,
+            "page": 241
+          },
+          {
+            "part_no": 2,
+            "page": 242
+          },
+          {
+            "part_no": 3,
+            "page": 243
+          },
+          {
+            "part_no": 4,
+            "page": 244
+          }
+        ]
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Table_3",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_3.txt",
+        "description": "Table 3 Classification for quality and certainty of the evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_3.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_3.md",
+        "page": 246
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Table_4",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_4.txt",
+        "description": "Table 4 GRADE system for grading quality of evidence",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_4.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_4.md",
+        "page": 246
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Table_5",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_5.txt",
+        "description": "Table 5 KDIGO nomenclature and description for grading of recommendations",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_5.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_5.md",
+        "page": 247
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Table_6",
+      "asset_type": "Table",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_6.txt",
+        "description": "Table 6 Determinants of the strength of recommendation",
+        "json": null,
+        "csv": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_6.csv",
+        "md": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Table_6.md",
+        "page": 247
+      },
+      "table_data_status": "transcript_only",
+      "warnings": [
+        "MinerU candidate requires visual crop verification",
+        "table_label_present=true",
+        "border_white_ratio=1.000"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": "reported_page_label inferred from MinerU typed asset block"
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_1",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_1.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_1.txt",
+        "description": "Figure 1 Updates to the KDIGO guideline format",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 26
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_2",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_2.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_2.txt",
+        "description": "Figure 2 Considerations for a kidney biopsy in patients with proteinuria and/or glomerular hematuria",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 35
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_3",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_3.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_3.txt",
+        "description": "Figure 3 Evaluation of kidney tissue",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 36
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_4",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_4.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_4.txt",
+        "description": "Figure 4 Definition of “nephrotic syndrome,” “nephrotic-range proteinuria,” and “non-nephrotic-range proteinuria”",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 96
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_5",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_5.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_5.txt",
+        "description": "Figure 5 Assessment of kidney function in glomerular disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 37
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_6",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_6.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_6.txt",
+        "description": "Figure 6 Summary of supportive management of glomerular disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 99
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_7",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_7.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_7.txt",
+        "description": "Figure 7 Edema management in NS",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 38
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_8",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_8.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_8.txt",
+        "description": "Figure 8 Management of hypertension and proteinuria in glomerular disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 102
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_9",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_9.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_9.txt",
+        "description": "Figure 9 Management of hypertension in glomerular disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 103
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_10",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_10.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_10.txt",
+        "description": "Figure 10 Management of hyperlipidemia in glomerular disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 40
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_11",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_11.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_11.txt",
+        "description": "Figure 11 Anticoagulation in NS",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 106
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_12",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_12.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_12.txt",
+        "description": "Figure 12 Anticoagulant dosing considerations in patients with NS",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 42
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_13",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_13.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_13.txt",
+        "description": "Figure 13 Prophylactic anticoagulation in adults with GN/nephrotic syndrome",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 43
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_14",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_14.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_14.txt",
+        "description": "Figure 14 Screening/prophylaxis for all patients with glomerular disease on immunosuppression",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 112
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_15",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_15.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_15.txt",
+        "description": "Figure 15 Minimization of immunosuppression-related adverse effects",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 44
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_16",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_16.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_16.txt",
+        "description": "Figure 16 Dietary suggestions in glomerular disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 45
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_17",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_17.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_17.txt",
+        "description": "Figure 17 Coordinated care of pregnant patients with glomerular disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 116
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_18",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_18.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_18.txt",
+        "description": "Figure 18 Contraception in women with glomerular disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 117
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_19",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_19.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_19.txt",
+        "description": "Figure 19 An overview of the impact of glomerular disease in women",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 118
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_20",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_20.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_20.txt",
+        "description": "Figure 20 The data elements included in the International IgAN Prediction Tool",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 121
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_21",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_21.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_21.txt",
+        "description": "Figure 21 Initial assessment and management of the patient with IgAN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 47
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_22",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_22.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_22.txt",
+        "description": "Figure 22 Glucocorticoid regimens used in clinical trials of IgAN where there was uniform use of reninangiotensin system (RAS) inhibition",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 125
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_23",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_23.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_23.txt",
+        "description": "Figure 23 Situations when glucocorticoids should be avoided, or administered with great caution",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 126
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_24",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_24.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_24.txt",
+        "description": "Figure 24 Management of patients with IgAN who remain at high risk for progression after maxima supportive care",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 50
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_25",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_25.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_25.txt",
+        "description": "Figure 25 Other pharmacologic therapies evaluated in IgAN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 51
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_26",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_26.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_26.txt",
+        "description": "Figure 26 Regional use of tonsillectomy as a treatment for IgAN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 52
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_27",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_27.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_27.txt",
+        "description": "Figure 27 Guidance for the use and interpretation of the anti-PLA2R antibody assay in patients with known anti-PLA2R-associated MN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 133
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_28",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_28.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_28.txt",
+        "description": "Figure 28 When to consider a kidney biopsy in a patient who is anti-PLA2R antibody-positive",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 134
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_29",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_29.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_29.txt",
+        "description": "Figure 29 Evaluation of patients with MN for associated conditions",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 55
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_30",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_30.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_30.txt",
+        "description": "Figure 30 Clinical criteria for assessing risk of progressive loss of kidney function",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 56
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_31",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_31.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_31.txt",
+        "description": "Figure 31 Risk-based treatment of MN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 136
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_32",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_32.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_32.txt",
+        "description": "Figure 32 Commonly used treatment regimens for patients with MN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 137
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_33",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_33.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_33.txt",
+        "description": "Figure 33 Immunologic monitoring in MN after start of therapy",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 139
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_34",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_34.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_34.txt",
+        "description": "Figure 34 Management of initial relapse after therapy in MN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 58
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_35",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_35.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_35.txt",
+        "description": "Figure 35 Management of resistant disease in MN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 140
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_36",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_36.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_36.txt",
+        "description": "Figure 36 Evaluation of a kidney transplant recipient with MN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 60
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_37",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_37.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_37.txt",
+        "description": "Figure 37 Management of children with MN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 61
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_38",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_38.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_38.txt",
+        "description": "Figure 38 Anticoagulant therapy in patients with MN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 61
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_39",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_39.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_39.txt",
+        "description": "Figure 39 Definitions relating to NS in children aged 1–18 years",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 62
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_40",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_40.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_40.txt",
+        "description": "Figure 40 Treatment algorithm for NS in a newly nephrotic child",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 147
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_41",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_41.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_41.txt",
+        "description": "Figure 41 Glucocorticoid-sparing therapies in children with SSNS",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 64
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_42",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_42.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_42.txt",
+        "description": "Figure 42 Treatment of SRNS in children",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 156
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_43",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_43.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_43.txt",
+        "description": "Figure 43 General principles in children with NS",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 65
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_44",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_44.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_44.txt",
+        "description": "Figure 44 Initial treatment of MCD in adults",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 66
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_45",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_45.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_45.txt",
+        "description": "Figure 45 Treatment of MCD in adults: Initial episode and FR/SD MCD",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 160
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_46",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_46.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_46.txt",
+        "description": "Figure 46 Definition of remission, relapse, resistance, and dependence for MCD",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 66
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_47",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_47.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_47.txt",
+        "description": "Figure 47 Treatment of FR/SD MCD in adults",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 67
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_48",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_48.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_48.txt",
+        "description": "Figure 48 Treatment of FR/SD adult MCD—select clinical studies",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 163
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_49",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_49.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_49.txt",
+        "description": "Figure 49 Proposed classification of FSGS",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 166
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_50",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_50.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_50.txt",
+        "description": "Figure 50 Definition of remission, relapse, resistance, and dependence for FSGS",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 167
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_51",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_51.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_51.txt",
+        "description": "Figure 51 Evaluation of a patient with FSGS lesion on the kidne biops and no evidence of other glomerula pathology",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 67
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_52",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_52.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_52.txt",
+        "description": "Figure 52 Causes of secondary FSGS",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 68
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_53",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_53.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_53.txt",
+        "description": "Figure 53 Utility of genetic testing in patients with FSGS",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 68
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_54",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_54.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_54.txt",
+        "description": "Figure 54 Initial treatment of primary FSGS",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 69
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_55",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_55.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_55.txt",
+        "description": "Figure 55 Treatment of glucocorticoid-resistant primary FSGS",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 70
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_56",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_56.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_56.txt",
+        "description": "Figure 56 Evaluation of classic bacterial infection–related GN syndromes",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 71
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_57",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_57.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_57.txt",
+        "description": "Figure 57 Prognosis and therapy of classic bacterial infection–related GN syndromes",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 72
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_58",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_58.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_58.txt",
+        "description": "Figure 58 The global distribution of CKD associated with HIV infection",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 183
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_59",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_59.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_59.txt",
+        "description": "Figure 59 The spectrum of kidney biopsy findings in patients with HIV in the modern era",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 184
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_60",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_60.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_60.txt",
+        "description": "Figure 60 Lifetime risk of HIVAN or FSGS-UC in the setting of HIV by number of APOL1 risk alleles",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 185
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_61",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_61.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_61.txt",
+        "description": "Figure 61 Risk factors and underlying etiologies of CKD in individuals who are HIV-positive",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 185
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_62",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_62.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_62.txt",
+        "description": "Figure 62 Six patterns of schistosomal glomerular pathology",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 187
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_63",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_63.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_63.txt",
+        "description": "Figure 63 Dosing of antischistosomal agents",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 188
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_64",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_64.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_64.txt",
+        "description": "Figure 64 Global distribution of malaria transmission",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 189
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_65",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_65.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_65.txt",
+        "description": "Figure 65 Pathophysiology of kidney involvement in malaria",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 190
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_66",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_66.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_66.txt",
+        "description": "Figure 66 Histopathologic staging of quartan malarial nephropathy",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 190
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_67",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_67.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_67.txt",
+        "description": "Figure 67 Antimalarial drugs and pregnancy",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 190
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_68",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_68.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_68.txt",
+        "description": "Figure 68 Causes of a membranoproliferative pattern of injury",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 75
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_69",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_69.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_69.txt",
+        "description": "Figure 69 Pathophysiology of membranoproliferative lesions",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 76
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_70",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_70.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_70.txt",
+        "description": "Figure 70 Evaluation of abnormalities of the alternative pathway of complement",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 76
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_71",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_71.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_71.txt",
+        "description": "Figure 71 Biopsy strategy in suspected kidney vasculitis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 77
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_72",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_72.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_72.txt",
+        "description": "Figure 72 Definition of disease activity, remission, relapse, and treatment-resistant disease in AAV",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 199
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_73",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_73.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_73.txt",
+        "description": "Figure 73 Diagnostic strategy in rapidly progressive glomerulonephritis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 200
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_74",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_74.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_74.txt",
+        "description": "Figure 74 Frequency of organ involvement in AAV",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 200
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_75",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_75.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_75.txt",
+        "description": "Figure 75 Histopathologic classification of ANCA-associated glomerulonephritis",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 201
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_76",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_76.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_76.txt",
+        "description": "Figure 76 Recommended treatment regimen for AAV",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 78
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_77",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_77.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_77.txt",
+        "description": "Figure 77 Factors for consideration when choosing between rituximab and cyclophosphamide for induction therapy of AAV",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 79
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_78",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_78.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_78.txt",
+        "description": "Figure 78 Considerations for the route of administration of cyclophosphamide for AAV",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 79
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_79",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_79.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_79.txt",
+        "description": "Figure 79 Prednisolone tapering regimen for AAV",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 80
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_80",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_80.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_80.txt",
+        "description": "Figure 80 Immunosuppressive drug dosing for AAV",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 80
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_81",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_81.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_81.txt",
+        "description": "Figure 81 Plasma exchange dosing and frequency for AAV",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 206
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_82",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_82.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_82.txt",
+        "description": "Figure 82 Factors that increase relapse risk for AAV",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 81
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_83",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_83.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_83.txt",
+        "description": "Figure 83 Considerations for using rituximab or azathioprine for AAV maintenance therapy",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 81
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_84",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_84.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_84.txt",
+        "description": "Figure 84 Immunosuppressive dosing and duration of AAV maintenance therapy",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 82
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_85",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_85.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_85.txt",
+        "description": "Figure 85 Diagnosis of kidney involvement in SLE",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 83
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_86",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_86.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_86.txt",
+        "description": "Figure 86 Activity and chronicity items included in LN kidney biopsy report",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 214
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_87",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_87.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_87.txt",
+        "description": "Figure 87 Measures to minimize the risk of complications related to LN or its treatment",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 84
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_88",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_88.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_88.txt",
+        "description": "Figure 88 Immunosuppressive treatment for patients with Class I or Class II LN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 85
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_89",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_89.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_89.txt",
+        "description": "Figure 89 Recommended approach for initial therapy of active Class III/IV LN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 218
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_90",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_90.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_90.txt",
+        "description": "Figure 90 Example of glucocorticoid regimens for LN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 85
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_91",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_91.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_91.txt",
+        "description": "Figure 91 Cyclophosphamide dosing regimens, combined with glucocorticoids, in initial treatment for active Class III/IV LN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 221
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_92",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_92.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_92.txt",
+        "description": "Figure 92 Maintenance therapy for Class III and Class IV LN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 224
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_93",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_93.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_93.txt",
+        "description": "Figure 93 Maintenance immunosuppressive regimens in patients with LN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 227
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_94",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_94.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_94.txt",
+        "description": "Figure 94 Management of patients with pure Class V LN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 87
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_95",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_95.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_95.txt",
+        "description": "Figure 95 Commonly used definitions of response to therapy in LN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 87
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_96",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_96.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_96.txt",
+        "description": "Figure 96 Management of patients who show unsatisfactory response to initial therapy for active LN",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 88
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_97",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_97.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_97.txt",
+        "description": "Figure 97 Management of patients with LN and TMA",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 89
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_98",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_98.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_98.txt",
+        "description": "Figure 98 Diagnosis and therapy in anti-GBM disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 91
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_99",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_99.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_99.txt",
+        "description": "Figure 99 Treatment of anti-GBM disease",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 92
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    },
+    {
+      "chapter_stem": "KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update",
+      "asset_id": "Fig_100",
+      "asset_type": "Figure",
+      "qa_status": "needs_review",
+      "failure_stage": null,
+      "failure_reason": null,
+      "artifact_paths": {
+        "images": [
+          "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_100.png"
+        ],
+        "text": "/private/tmp/kdigo-pilot-staging/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update/Fig_100.txt",
+        "description": "Figure 100 Search yield and study flow diagram",
+        "json": null,
+        "csv": null,
+        "md": null,
+        "page": 245
+      },
+      "table_data_status": null,
+      "warnings": [
+        "MinerU candidate requires visual crop verification"
+      ],
+      "normalization_repairs": [],
+      "fallback_path": "mineru_candidate",
+      "discovery_reason": null
+    }
+  ],
+  "hard_failures": []
+}

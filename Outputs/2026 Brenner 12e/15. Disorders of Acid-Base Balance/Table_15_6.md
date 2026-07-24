@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 15.6  Differential Diagnosis of Nonanion Gap (Hyperchloremic) Metabolic Acidosis GASTROINTESTINAL BICARBONATE LOSS Diarrhea    External pancreatic or small bowel drainage    Uterosigmoidostomy, jejunal loop    Drugs    Calcium chloride (acidifying agent)    Magnesium sulfate (diarrhea)    Cholestyramine (bile acid diarrhea) |

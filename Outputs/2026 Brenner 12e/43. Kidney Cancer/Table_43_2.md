@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 43.2 Subtypes of Renal Cell Tumors: World Health Organization Classification 2022 Subtype    Clear cell RCC    Papillary RCC    Oncocytoma    Chromophobe RCC    Collecting duct carcinoma    Medullary carcinoma, not otherwise specified    Acquired cystic disease–associated RCC    Eosinophilic solid and cystic RCC    Molecularly defined renal carcinomas:    TFE3-rearranged RCC    TFEB-altered RCC    ELOC (formerly TCEB1)-mutated RCC    Fumarate hydratase–deficient RCC    Succinate dehydrogenase–deficient RCC    ALK-rearranged RCC    SMARCB1-deficient medullary-like RCC    SMARCB1-deficient undifferentiated RCC, NOS    SMARCB1-deficient dedifferentiated RCC of other specific subtypes    RCC, Renal cell carcinoma. |

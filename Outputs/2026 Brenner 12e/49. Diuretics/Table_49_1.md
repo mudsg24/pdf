@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 49.1  Ceiling Doses of Loop Diuretics (in mg) Condition  Furosemide  Bumetanide, IV or PO  Torsemide, IV or PO    IV  PO    Chronic renal insufficiency:    • Moderate (GFR = 20-50 mL/min/1.73  m^2 )  80-160  160  4-8  20-50    • Severe (GFR <20 mL/min/1.73  m^2 )  160-200  240  8-10  50-100    Nephrotic syndrome with normal GFR  80-120  240  2-3  20-50    Cirrhosis with normal GFR  40-80  80-160  1  10-20    Heart failure with normal GFR  40-80  80-160  1-2  10-20 GFR, Glomerular filtration rate; IV, intravenous; PO, oral. Data from Brater DC. Diuretic therapy. N Engl J Med. 1998;339:387–395. |

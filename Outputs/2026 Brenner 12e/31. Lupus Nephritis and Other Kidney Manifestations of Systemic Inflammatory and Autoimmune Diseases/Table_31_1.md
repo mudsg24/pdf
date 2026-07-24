@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 31.1  International Society of Nephrology/ Renal Pathology Society (2003) Classification of Lupus Nephritis Class I Minimal mesangial lupus nephritis (LN)    Class II Mesangial proliferative LN    Class III Focal  LN^a  (<50% of glomeruli)    III (A) Active lesions    III (A/C) Active and chronic lesions    III (C) Chronic lesions    Class IV Diffuse  LN^b  (≥50% of glomeruli)    Diffuse segmental (IV-S) or global (IV-G) LN    IV (A) Active lesions    IV (A/C) Active and chronic lesions    IV (C) Chronic lesions    Class  V^c  Membranous LN    Class VI Advanced sclerosing LN    (≥90% globally sclerosed glomeruli without residual activity) |

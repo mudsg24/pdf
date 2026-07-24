@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 15.13  Hyporeninemic Hypoaldosteronism: Typical Clinical Features Mean age 65 yrs    Asymptomatic hyperkalemia (75%)    Hyperchloremic metabolic acidosis (>50%)    Renal insufficiency (70%)    Diabetes mellitus (50%)    Hypertension (75%)    Weakness (25%)    Arrhythmia (25%)    Congestive heart failure (50%) |

@@ -1,0 +1,596 @@
+{
+  "output_root": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e",
+  "contact_root": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets",
+  "chapter_count": 84,
+  "asset_png_count": 1547,
+  "chapters": [
+    {
+      "chapter_stem": "01. Embryology of the Kidney",
+      "asset_png_count": 37,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/01. Embryology of the Kidney_contact_sheet.pdf",
+      "page_count": 5,
+      "sha256": "0889b6dc8a3e1d68528f21a13d7f5c73f5437d6272238ab7dae39b6c7da56bfd"
+    },
+    {
+      "chapter_stem": "02. Anatomy of the Kidney",
+      "asset_png_count": 58,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/02. Anatomy of the Kidney_contact_sheet.pdf",
+      "page_count": 7,
+      "sha256": "1fa31b65fa1200bb1c3a722662e25649f94c354d22b8d8ac22ae71a00a0e2ff5"
+    },
+    {
+      "chapter_stem": "03. Renal Circulation and Glomerular Filtration",
+      "asset_png_count": 27,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/03. Renal Circulation and Glomerular Filtration_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "cc8089b85c2d4c3d7114555bb5a291c82b7740efc10f676db649898bf4ba22e8"
+    },
+    {
+      "chapter_stem": "04. Glomerular Cell Biology and Podocytopathies",
+      "asset_png_count": 5,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/04. Glomerular Cell Biology and Podocytopathies_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "4080d5aa688077ce70bb7066dc023d6e93f430903b4063e1a5e314b11d7982e6"
+    },
+    {
+      "chapter_stem": "05. Kidney Metabolism",
+      "asset_png_count": 15,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/05. Kidney Metabolism_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "c5c343d55d9fd08916d64507d821d67bcfce854e96bd7b8658fb653864373a61"
+    },
+    {
+      "chapter_stem": "06. Transport of Sodium, Chloride, and Potassium",
+      "asset_png_count": 25,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/06. Transport of Sodium, Chloride, and Potassium_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "099fb56fbfa07e191901f264ab79cc9768f76b68417a0973c642c4ac18ddfe26"
+    },
+    {
+      "chapter_stem": "07. Transport of Calcium, Magnesium, and Phosphate",
+      "asset_png_count": 15,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/07. Transport of Calcium, Magnesium, and Phosphate_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "5e7f2bbae99b5804feea845705b6741de543a971b2dcff63318b9526f14706e1"
+    },
+    {
+      "chapter_stem": "08. Renal Handling of Organic Solutes",
+      "asset_png_count": 16,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/08. Renal Handling of Organic Solutes_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "96a5233e105ddbbaf5cce1e47fe13e9d3666a7bc8bc342e793b488eb5d786772"
+    },
+    {
+      "chapter_stem": "09. Renal Acidification Mechanisms",
+      "asset_png_count": 7,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/09. Renal Acidification Mechanisms_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "a0d9ec08a20db3587919bbb43517973e337c7da50523f8b7df12e97bab41bd28"
+    },
+    {
+      "chapter_stem": "10. Urine Concentration and Dilution",
+      "asset_png_count": 19,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/10. Urine Concentration and Dilution_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "db3aca612eccc455aa1d07d2de8257cbc191faae08c6cbfc12c7e81dc20fbbb8"
+    },
+    {
+      "chapter_stem": "11. Vasoactive Molecules and the Kidney",
+      "asset_png_count": 10,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/11. Vasoactive Molecules and the Kidney_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "34f6ada217fb58feb05430a6c02842f265b5669a1ed1226164071cfca967b2c0"
+    },
+    {
+      "chapter_stem": "12. Aldosterone and Mineralocorticoid Receptors_ Renal and Extrarenal Roles",
+      "asset_png_count": 9,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/12. Aldosterone and Mineralocorticoid Receptors_ Renal and Extrarenal Roles_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "d91618537e6c2adaa1b56623214664887109a59773fabbf0062c7055dd5db309"
+    },
+    {
+      "chapter_stem": "13. Disorders of Sodium Balance",
+      "asset_png_count": 11,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/13. Disorders of Sodium Balance_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "b15348bf2eba46c013c2eb77f66b7a7c9367e6f4da209d2ff01f8e32354b1b82"
+    },
+    {
+      "chapter_stem": "14. Disorders of Water Balance",
+      "asset_png_count": 24,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/14. Disorders of Water Balance_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "34eccc84b05b4bceea02cdcdc0f10d15fde7e3e7e3e7dee1961c232aa4b5c293"
+    },
+    {
+      "chapter_stem": "15. Disorders of Acid-Base Balance",
+      "asset_png_count": 28,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/15. Disorders of Acid-Base Balance_contact_sheet.pdf",
+      "page_count": 4,
+      "sha256": "6e650eb58b945343ee1b36731e73c9d858efbcde72573d3d85b8cdf353cf2db4"
+    },
+    {
+      "chapter_stem": "16. Disorders of Potassium Balance",
+      "asset_png_count": 19,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/16. Disorders of Potassium Balance_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "a90a85169b28ce40c707881e9173913a883c23b7ababa34be80876dbdeb34760"
+    },
+    {
+      "chapter_stem": "17. Disorders of Calcium, Magnesium, and Phosphate Balance",
+      "asset_png_count": 13,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/17. Disorders of Calcium, Magnesium, and Phosphate Balance_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "3a1f042857a69bd03e6ede0b6a0b7663d750b7f88f65b58977c0b6201652a4ab"
+    },
+    {
+      "chapter_stem": "18. Epidemiology of Kidney Disease",
+      "asset_png_count": 18,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/18. Epidemiology of Kidney Disease_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "eef3256310e4ed5e1e0949b6501d9813ac63be35cbc6354eefb59dee3245b725"
+    },
+    {
+      "chapter_stem": "19. Risk Prediction in Chronic Kidney DiseaseaaThe authors would like to thank Mackenzie Alexiuk for her invaluable editorial assistance throughout this chapter_",
+      "asset_png_count": 13,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/19. Risk Prediction in Chronic Kidney DiseaseaaThe authors would like to thank Mackenzie Alexiuk for her invaluable editorial assistance throughout this chapter__contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "98dbb9dbd43763e030c951b079785d8414c6affb8786365113a4f0a749ed6610"
+    },
+    {
+      "chapter_stem": "20. Early Life Origins of Hypertension and Chronic Kidney Disease",
+      "asset_png_count": 33,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/20. Early Life Origins of Hypertension and Chronic Kidney Disease_contact_sheet.pdf",
+      "page_count": 4,
+      "sha256": "2ec9946ebaa42098f33d459542f21fe579fc1c5ac4b4703de532da150e110d3b"
+    },
+    {
+      "chapter_stem": "21. The Physiology and Pathophysiology of the Kidneys in Aging",
+      "asset_png_count": 10,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/21. The Physiology and Pathophysiology of the Kidneys in Aging_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "0d48022dbffbe8e9a82e56e72820df691daedd62d19b4eec45d1bb5c53c08ab8"
+    },
+    {
+      "chapter_stem": "22. Sex and Gender in Kidney Health and Disease",
+      "asset_png_count": 7,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/22. Sex and Gender in Kidney Health and Disease_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "a89941ac1721ed650feb63e066e8e53939d9b88ffb0d652bc108ee8eff3147bb"
+    },
+    {
+      "chapter_stem": "23. Laboratory Assessment of Kidney Disease_ Glomerular Filtration Rate, Proteinuria, and Urinalysis",
+      "asset_png_count": 17,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/23. Laboratory Assessment of Kidney Disease_ Glomerular Filtration Rate, Proteinuria, and Urinalysis_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "7cd272fb99112cc4439737bfd805256f1c677429ef7184d512e1c615aec4cbcb"
+    },
+    {
+      "chapter_stem": "24. Diagnostic Kidney Imaging",
+      "asset_png_count": 99,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/24. Diagnostic Kidney Imaging_contact_sheet.pdf",
+      "page_count": 11,
+      "sha256": "7ffad1f68b3c44177431697d0e7a4800e1ebfc257786863c02f79661d9a1761e"
+    },
+    {
+      "chapter_stem": "25. The Renal Biopsy",
+      "asset_png_count": 9,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/25. The Renal Biopsy_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "0b5ff15e4a9855d1477c7abd4c5758e75c44e5de3580139053d3efa48a121341"
+    },
+    {
+      "chapter_stem": "26. Point-of-Care Ultrasound",
+      "asset_png_count": 23,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/26. Point-of-Care Ultrasound_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "98dd38ed4acd51828958e3998c6b35517f0b42f4265dd8e62f4b2562eae6e325"
+    },
+    {
+      "chapter_stem": "27. Pathophysiology of Acute Kidney Injury",
+      "asset_png_count": 13,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/27. Pathophysiology of Acute Kidney Injury_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "0ad8b9d272ec50b2fe4411f62ea96e1913e69f5eedd4807e55268b827fb4cf26"
+    },
+    {
+      "chapter_stem": "28. Prevention and Management of Acute Kidney Injury",
+      "asset_png_count": 27,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/28. Prevention and Management of Acute Kidney Injury_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "48c80d751f01168852a71b418b03ff5deeb064811f67b1d6b1b987f46c1e73a1"
+    },
+    {
+      "chapter_stem": "29. Pathophysiology of Proteinuria",
+      "asset_png_count": 13,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/29. Pathophysiology of Proteinuria_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "6ad545f2b8bb6e1245242e923c06a0f3a906d1109f2a7ac0ca77e3be9ed295db"
+    },
+    {
+      "chapter_stem": "30. Nephrotic Syndrome_ Primary and Secondary",
+      "asset_png_count": 29,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/30. Nephrotic Syndrome_ Primary and Secondary_contact_sheet.pdf",
+      "page_count": 4,
+      "sha256": "045023c1557bfb1fc4118b1e9b6eb6a9f2e4ed293f453655e86f6d61065217e2"
+    },
+    {
+      "chapter_stem": "31. Lupus Nephritis and Other Kidney Manifestations of Systemic Inflammatory and Autoimmune Diseases",
+      "asset_png_count": 15,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/31. Lupus Nephritis and Other Kidney Manifestations of Systemic Inflammatory and Autoimmune Diseases_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "67fc3511138eb8bf1fa34848140282990e76210a72257f152b06348de261ae61"
+    },
+    {
+      "chapter_stem": "32. Antineutrophil Cytoplasmic AntibodyAssociated Vasculitis and Antiglomerular Basement Membrane Disease",
+      "asset_png_count": 13,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/32. Antineutrophil Cytoplasmic AntibodyAssociated Vasculitis and Antiglomerular Basement Membrane Disease_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "78bfde91726c964a762c23037dda4de333b68cf906c1591979a6dd65bb14e5e1"
+    },
+    {
+      "chapter_stem": "33. IgA Nephropathy and IgA Vasculitis",
+      "asset_png_count": 16,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/33. IgA Nephropathy and IgA Vasculitis_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "de97a643e51c2ef19530839eac60a51207a1cf6eaa5408df5db736a90064dbc0"
+    },
+    {
+      "chapter_stem": "34. Infection-Related Glomerulonephritis",
+      "asset_png_count": 12,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/34. Infection-Related Glomerulonephritis_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "ff68054cb01473a56a8c208f735374993ab2e24b94a9bc6b0009572c793afa41"
+    },
+    {
+      "chapter_stem": "35. Kidney Lesions Associated With Dysproteinemias",
+      "asset_png_count": 3,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/35. Kidney Lesions Associated With Dysproteinemias_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "bdcb04fba8d22e548e923cf70e617c9c9fbd6e3b1cd4aab757c72b1d7c1ea3be"
+    },
+    {
+      "chapter_stem": "36. Complement-Mediated Kidney Diseases",
+      "asset_png_count": 11,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/36. Complement-Mediated Kidney Diseases_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "55b29c1b407a57203b16a95ef462f7c4372be33f9fd0e614ef4d63b9befc140a"
+    },
+    {
+      "chapter_stem": "37. Tubulointerstitial Diseases",
+      "asset_png_count": 9,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/37. Tubulointerstitial Diseases_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "a085f687e22b4be8eac4fdf76529859b196274c82be205a834d3d011760cec85"
+    },
+    {
+      "chapter_stem": "38. Urinary Tract Infection in Adults",
+      "asset_png_count": 10,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/38. Urinary Tract Infection in Adults_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "6a8f7608cf803e57fc7a9441539c1ac746cb290e61777d7f349b3e732f6bafbf"
+    },
+    {
+      "chapter_stem": "39. Urinary Tract Obstruction",
+      "asset_png_count": 15,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/39. Urinary Tract Obstruction_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "55ff53f51efb022369ad48a4ac0ee78f1398bb6ff34dcc7f0c5c5da9e1aea0cb"
+    },
+    {
+      "chapter_stem": "40. Nephrolithiasis",
+      "asset_png_count": 24,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/40. Nephrolithiasis_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "2b2b361ff07c31b070839d39fca5f14a7a18ecada809f4b8de176083b50a2325"
+    },
+    {
+      "chapter_stem": "41. Diabetic Kidney Disease",
+      "asset_png_count": 27,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/41. Diabetic Kidney Disease_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "aa76a6990475b2eec8f4865c98eb3c8ac45dbe1e7befc0f98a388d3778759752"
+    },
+    {
+      "chapter_stem": "42. Cardiovascular Disease in Persons With Chronic Kidney Disease",
+      "asset_png_count": 13,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/42. Cardiovascular Disease in Persons With Chronic Kidney Disease_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "b9383b4c7002d1def2b09cbde3344ac923529d666a616c37f1186a7393668537"
+    },
+    {
+      "chapter_stem": "43. Kidney Cancer",
+      "asset_png_count": 6,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/43. Kidney Cancer_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "ae57f589144d6a78dd8d5923d0cf65093947440590c367c0115aa6b13096c777"
+    },
+    {
+      "chapter_stem": "44. Genetics of Kidney Disease",
+      "asset_png_count": 14,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/44. Genetics of Kidney Disease_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "ec5a84de46ffaeb0de8ffeb64e194efa3fbd7fa938d4e26bba4c25c572964142"
+    },
+    {
+      "chapter_stem": "45. Cystic Kidney Diseases",
+      "asset_png_count": 42,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/45. Cystic Kidney Diseases_contact_sheet.pdf",
+      "page_count": 5,
+      "sha256": "d9b7cc91cd568c09b7396bb5d83b54df1994583509ad35b52dac78b7418bd812"
+    },
+    {
+      "chapter_stem": "46. Primary and Secondary Hypertension",
+      "asset_png_count": 18,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/46. Primary and Secondary Hypertension_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "581623587283dc142874f010d95382c4116e069f584a829ade5757e6be598532"
+    },
+    {
+      "chapter_stem": "47. Renovascular Hypertension and Ischemic Nephropathy",
+      "asset_png_count": 41,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/47. Renovascular Hypertension and Ischemic Nephropathy_contact_sheet.pdf",
+      "page_count": 5,
+      "sha256": "8d88fdd90a077d2517f3eff58cc91cd0bcac4aa4c8d20d1aa840bcb2888c3ef2"
+    },
+    {
+      "chapter_stem": "48. Antihypertensive Therapy",
+      "asset_png_count": 36,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/48. Antihypertensive Therapy_contact_sheet.pdf",
+      "page_count": 4,
+      "sha256": "24a648043dd9e614a972bd6dfbf5c9459b07eaab80f6c9786b4a3c32e6439793"
+    },
+    {
+      "chapter_stem": "49. Diuretics",
+      "asset_png_count": 23,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/49. Diuretics_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "be18026c38ae35edbc8f5db16d74cc21f4a1365bdaf1cdf5720bc5ba6bcf89aa"
+    },
+    {
+      "chapter_stem": "50. Mechanisms of Progression in Chronic Kidney Disease",
+      "asset_png_count": 13,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/50. Mechanisms of Progression in Chronic Kidney Disease_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "56abdc2411ea839254a36f8255bbe3bedb54314799b6731685636f9a92d25fb0"
+    },
+    {
+      "chapter_stem": "51. The Pathophysiology of Uremia",
+      "asset_png_count": 6,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/51. The Pathophysiology of Uremia_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "687d02a05b3a256235cde2c5414954ca34da8ceca3fada77ddc892ff19dc69f1"
+    },
+    {
+      "chapter_stem": "52. Chronic Kidney DiseaseMineral Bone Disorder",
+      "asset_png_count": 22,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/52. Chronic Kidney DiseaseMineral Bone Disorder_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "ff364dbbb2a16c25bf19b24411acd7d3a9d6f97c3eaf8e32dc293a6e88940a86"
+    },
+    {
+      "chapter_stem": "53. Hematologic Aspects of Kidney Disease",
+      "asset_png_count": 8,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/53. Hematologic Aspects of Kidney Disease_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "0a4444fa996320bcaa185f857945061ed059e8648c03b64f263debb0ef562d99"
+    },
+    {
+      "chapter_stem": "54. Classification and Management of Chronic Kidney Disease",
+      "asset_png_count": 18,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/54. Classification and Management of Chronic Kidney Disease_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "783514d62a7819908c7e2ed4d358b74a514c04535eea2bdad32baa3c01131144"
+    },
+    {
+      "chapter_stem": "55. Dietary Approaches to Kidney Diseases",
+      "asset_png_count": 10,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/55. Dietary Approaches to Kidney Diseases_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "9417c0a3829e2fdd1c42b114b140c025fd60664cd87f3c90d792446c5abba088"
+    },
+    {
+      "chapter_stem": "56. Drug Dosing Considerations in Patients With Acute Kidney Injury and Chronic Kidney Disease",
+      "asset_png_count": 18,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/56. Drug Dosing Considerations in Patients With Acute Kidney Injury and Chronic Kidney Disease_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "89ae90c565f5f0dcb8889682da038b011927deb6dc01a32a94ffc088e2d046cc"
+    },
+    {
+      "chapter_stem": "57. Onconephrology_ Kidney Disease and Cancer",
+      "asset_png_count": 19,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/57. Onconephrology_ Kidney Disease and Cancer_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "554f3ddf2169664325c16f591aa619d7d6cba7c2622c2057ea31a2fd6751a767"
+    },
+    {
+      "chapter_stem": "58. Pregnancy and Kidney Disease",
+      "asset_png_count": 24,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/58. Pregnancy and Kidney Disease_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "55e2652f1c884ca21fb6d1803d3643b75c4cb21f7a4908725740d62d7ff668e6"
+    },
+    {
+      "chapter_stem": "59. Infectious Diseases and the Kidney",
+      "asset_png_count": 13,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/59. Infectious Diseases and the Kidney_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "e245ba85e5c1ecad35d9cdab62d0b05aa175123ef45731a60082caa45e9d72ac"
+    },
+    {
+      "chapter_stem": "60. Care of the Older Adult With Chronic Kidney Disease",
+      "asset_png_count": 15,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/60. Care of the Older Adult With Chronic Kidney Disease_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "3e6177d585264138b66fb35119ea184289ee3c4e15bae03a0c9da76f81a54d30"
+    },
+    {
+      "chapter_stem": "61. Kidney Supportive Care in Advanced Chronic Kidney Disease",
+      "asset_png_count": 17,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/61. Kidney Supportive Care in Advanced Chronic Kidney Disease_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "ee952666e890e953679f1474d044af1da04db98acb3584f86550444f88a564fa"
+    },
+    {
+      "chapter_stem": "62. Hemodialysis",
+      "asset_png_count": 41,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/62. Hemodialysis_contact_sheet.pdf",
+      "page_count": 5,
+      "sha256": "0c6db782a98ad44626e0ad4403fb12c9f0f17eb7b2a750b8cb711d1d23820e52"
+    },
+    {
+      "chapter_stem": "63. Peritoneal Dialysis",
+      "asset_png_count": 7,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/63. Peritoneal Dialysis_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "c05f6cc74102b120d73e202a076c0bfb94de16f2b8dde0d7a0fb61ef13121326"
+    },
+    {
+      "chapter_stem": "64. Critical Care Nephrology",
+      "asset_png_count": 9,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/64. Critical Care Nephrology_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "4dfed69f092c04c833313688fa8d678cbebd16e0c01a957ccd6e61ff7b943cc7"
+    },
+    {
+      "chapter_stem": "65. Therapeutic Plasma Exchange and Other Extracorporeal Treatments in Management of Kidney and Related Diseases",
+      "asset_png_count": 7,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/65. Therapeutic Plasma Exchange and Other Extracorporeal Treatments in Management of Kidney and Related Diseases_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "6de2a18e0458cc6d1d24727bd56aa68b4ce06408c0888094209d4f8464a577b0"
+    },
+    {
+      "chapter_stem": "66. Enhanced Elimination of Poisons",
+      "asset_png_count": 12,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/66. Enhanced Elimination of Poisons_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "d05952676ac0413d9d6fd1ad58a5ff7a88552af0f412d6c4b6b4a500abf19cb9"
+    },
+    {
+      "chapter_stem": "67. Interventional Nephrology_ Managing Dialysis Access and Kidney Biopsy",
+      "asset_png_count": 60,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/67. Interventional Nephrology_ Managing Dialysis Access and Kidney Biopsy_contact_sheet.pdf",
+      "page_count": 7,
+      "sha256": "f250a3a504b03d3800e4e6d338da8f239100f86879bffeef65dc98804f3c0c9a"
+    },
+    {
+      "chapter_stem": "68. The Immunobiology of Transplantation",
+      "asset_png_count": 13,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/68. The Immunobiology of Transplantation_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "cba6d553adb3ad2bde510bd9bd081c06eeef36eeba89bef08b5156b7229a3d27"
+    },
+    {
+      "chapter_stem": "69. Clinical Management of the Adult Kidney Transplant Recipient",
+      "asset_png_count": 26,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/69. Clinical Management of the Adult Kidney Transplant Recipient_contact_sheet.pdf",
+      "page_count": 3,
+      "sha256": "d96930287bb0d500264260193601aae54db22ff1c4511e5189b10f3f260abf63"
+    },
+    {
+      "chapter_stem": "70. Considerations in Living Kidney Donation",
+      "asset_png_count": 13,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/70. Considerations in Living Kidney Donation_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "6034f9bf25c7d16621049405feb48e0f416514e62b589f6dc1cc9edaa2f00ca5"
+    },
+    {
+      "chapter_stem": "71. Childhood Kidney Disease",
+      "asset_png_count": 39,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/71. Childhood Kidney Disease_contact_sheet.pdf",
+      "page_count": 5,
+      "sha256": "a9541c78e8c6601fd81fa78c447643be29bb832487082e9f89fe39a535fe853e"
+    },
+    {
+      "chapter_stem": "72. Kidney Replacement Therapy (Dialysis and Transplantation) in Children",
+      "asset_png_count": 18,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/72. Kidney Replacement Therapy (Dialysis and Transplantation) in Children_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "14ad584dc6eadd7c86aa576266cb572b054e860cec644a86b3cccee7c963b01b"
+    },
+    {
+      "chapter_stem": "73. Global Challenges and Progress in Kidney Health",
+      "asset_png_count": 31,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/73. Global Challenges and Progress in Kidney Health_contact_sheet.pdf",
+      "page_count": 4,
+      "sha256": "ef5c4b6708fc156cdaf3510bad2b9974f6c3607620531024ed183eb04c8ab231"
+    },
+    {
+      "chapter_stem": "74. Global Considerations in Kidney Disease_ Latin America",
+      "asset_png_count": 10,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/74. Global Considerations in Kidney Disease_ Latin America_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "2d3abff558eb78a1f6f075d2b357750cadfa332763ca472c88ec4daab37d31b1"
+    },
+    {
+      "chapter_stem": "75. Global Considerations in Kidney Disease_ Africa",
+      "asset_png_count": 13,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/75. Global Considerations in Kidney Disease_ Africa_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "0dac40a64e40d909c54f262350e83637fe248e10bd93078e5eab01711379f1e1"
+    },
+    {
+      "chapter_stem": "76. Global Considerations in Kidney Disease_ Near and Middle East",
+      "asset_png_count": 8,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/76. Global Considerations in Kidney Disease_ Near and Middle East_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "51c69b4d91f96948e7b3b7076ca3576689c08cc7ad50a8806c81819270f1239d"
+    },
+    {
+      "chapter_stem": "77. Global Considerations in Kidney Disease_ Indian Subcontinent",
+      "asset_png_count": 6,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/77. Global Considerations in Kidney Disease_ Indian Subcontinent_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "36505c9e5f21a093ca18061f16a6cd307389cb6f5cbc72f3392e7e76fc909d7f"
+    },
+    {
+      "chapter_stem": "78. Global Considerations in Kidney Disease_ The Far East",
+      "asset_png_count": 7,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/78. Global Considerations in Kidney Disease_ The Far East_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "2cabe16fcd3cfda6489d02908a044bb276cbcb7d333298b69f7ccd7a5e148cd1"
+    },
+    {
+      "chapter_stem": "79. Global Considerations in Kidney Disease_ The Pacific Islands and Islands of the Caribbean",
+      "asset_png_count": 9,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/79. Global Considerations in Kidney Disease_ The Pacific Islands and Islands of the Caribbean_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "45db4ecd081f2d6576e388e385cfcae4bb6ff703fcbd5807cc3585c2090bb6d5"
+    },
+    {
+      "chapter_stem": "80. Ethical Dilemmas Facing Nephrology",
+      "asset_png_count": 4,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/80. Ethical Dilemmas Facing Nephrology_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "b061af5686d55239b87bb46b9dba991c379c53634460de6607e391c3aab76cd1"
+    },
+    {
+      "chapter_stem": "81. Health Disparities in Nephrology",
+      "asset_png_count": 4,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/81. Health Disparities in Nephrology_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "79db7275166a090501b530855b844ba5f13dc5ad62d8af6bfde4f4e912fd8a5a"
+    },
+    {
+      "chapter_stem": "82. Disaster Nephrology",
+      "asset_png_count": 14,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/82. Disaster Nephrology_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "8efa4927493b4e8d9aab244cb0c195729b06e268f160f9bcad135ec6b676c968"
+    },
+    {
+      "chapter_stem": "83. Chronic Kidney Disease of Uncertain Etiology",
+      "asset_png_count": 14,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/83. Chronic Kidney Disease of Uncertain Etiology_contact_sheet.pdf",
+      "page_count": 2,
+      "sha256": "34c91f03ec4dbea9939aa0d6dc59b04ee46246e7471eb101e2da11ac42d63dd5"
+    },
+    {
+      "chapter_stem": "84. Stem Cells, Kidney Regeneration, and Gene and Cell Therapy in Nephrology",
+      "asset_png_count": 2,
+      "contact_sheet": "/Users/yuan/Projects/PDF/Outputs/2026 Brenner 12e/_contact_sheets/84. Stem Cells, Kidney Regeneration, and Gene and Cell Therapy in Nephrology_contact_sheet.pdf",
+      "page_count": 1,
+      "sha256": "a7a794011144348db079f56b680c53f0998a3dfd6d0a964c9bb7acbd1e7406d4"
+    }
+  ]
+}

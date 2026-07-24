@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 67.8  Primary Graft Patency After Elective Angioplasty Reference  No. of Procedures  Primary Patency at:    3 Months  6 Months  12 Months    Beathard, 199278  536  79  61  38    Kanterman, 1995101  90    63  41    Safa, 199680  90  70  47  16    Turmel-Rodrigues, 2000102  98  85  53  29    Lilly, 200177  330  71  51  28 |

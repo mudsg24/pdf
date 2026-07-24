@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 7.2 Factors Altering the Reabsorption of Calcium in the Kidney Calcium Reabsorption Increased By  Calcium Reabsorption Decreased By    1,25-dihydroxyvitamin D  Aminoglycosides    Amiloride  Androgens    Calcitonin  Calcimimetics    Estrogen  Calcineurin inhibitors    Fibroblast growth factor 23 Klotho  Hypercalcemia    Hypocalcemia  Insulin/glucose    Metabolic alkalosis  Loop diuretics    Phosphate loading  Metabolic acidosis    PTH  Phosphate depletion    PTH-related peptide  Volume expansion    Thiazides      Volume contraction |

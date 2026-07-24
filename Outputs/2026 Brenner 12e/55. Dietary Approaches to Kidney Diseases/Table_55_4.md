@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 55.4  Dietary Approaches to Reduce the Risk for Progression of Established Chronic Kidney Disease (CKD) Strategy  Tactic    Emphasize an overall diet that minimizes net endogenous acid production  Promote base-producing fruits and vegetables as toleratedMinimize animal-based foodsMinimize NaCl (“salt”)Minimize NaCl (“salt”) intake    Emphasize electrolyte intake that lowers risk for CKD progression    Emphasize an overall diet that yields a gut microbiome which promotes kidney health  Promote plant-based foods as toleratedMinimize animal-based foods, particularly red meat |

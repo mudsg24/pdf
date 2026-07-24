@@ -1,0 +1,1 @@
+Fig. 26.16 Stroke volume is the product of the cross-sectional area of left ventricular outflow tract (LVOT) and velocity time integral (VTI). LVOT area is derived from the LVOT diameter in zoomed parasternal view using the formula πr2, and LVOT VTI is obtained by tracing the envelope of the pulsed wave Doppler spectrum of systolic flow in the apical five-chamber view.

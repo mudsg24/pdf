@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 15.7 Proximal Renal Tubular Acidosis Isolated Pure Bicarbonate Wasting (Unassociated With Fanconi Syndrome) Primary    Inherited autosomal recessive with ocular abnormalities (missense mutations of SLC4A4)    Autosomal dominant with short stature (mutation of SLC9A3/NHE3)    Carbonic anhydrase deficiency, inhibition, or alteration    Drugs: acetazolamide, topiramate, sulfanilamide, mafenide acetate    Carbonic anhydrase II deficiency with osteopetrosis (mixed proximal and distal RTA -type 3) |

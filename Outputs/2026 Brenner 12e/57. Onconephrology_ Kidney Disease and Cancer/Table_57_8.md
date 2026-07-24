@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 57.8 Dosing Guidelines for Use of Bisphosphonates in Treatment of Malignancy-Associated Hypercalcemia Bisphosphonate  Dosing Guidelines  Interval Between Doses    Pamidronate  CrCl >60 mL/min: 90 mg IV administered over 2-3 hoursCrCl, 30-60 mL/min: 60-90 mg IV administered over 2-4 hoursCrCl < 30 mL/min: 60-90 mg IV administered over 4-6 hours  Every3-4weeks    Zoledronate  CrCl >60 mL/min: 4 mg IV over 15 minutesCrCl, 50-60 mL/min: 3.5 mg IV over 15 minutesCrCl, 40-49 mL/min: 3.3 mg IV over 15 minutesCrCl 30-49 mL/min: 3 mg IV over 15 minutesCrCl <30 mL/min: not recommended  Every3-4weeks |

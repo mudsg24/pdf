@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 15.5  Causes of Respiratory Acid-Base Disorders Alkalosis Central nervous system stimulation    Pain    Anxiety    Psychosis    Fever    Cerebrovascular accident    Meningitis    Encephalitis    Tumor    Trauma    Hypoxemia or tissue hypoxia    High-altitude acclimatization    Pneumonia, pulmonary edema    Aspiration    Severe anemia    Drugs or hormones    Pregnancy (progesterone)    Salicylates    Nikethamide    Stimulation of chest receptors    Hemothorax    Flail chest    Cardiac failure    Pulmonary embolism    Miscellaneous    Septicemia    Hepatic failure    Mechanical hyperventilation    Heat exposure    Recovery from metabolic acidosis |

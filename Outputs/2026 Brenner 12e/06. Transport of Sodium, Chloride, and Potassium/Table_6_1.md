@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 6.1  Effect of High-K<sup>+</sup> Diet, Aldosterone, and/or Nacl Restriction on Small-Conductance Channel Density in the Rat Cortical Collecting Duct Parameter  K+ Channel Density ( \mu m^{2} )  Plasma Aldosterone (ng/dL)  Plasma K (mmol/L)    Control  0.41  15  3.68    High-K+ diet, 6h  1.51  36  NM    High-K+ diet, 48h  2.13  98  4.37    Low-Na+ diet, 7 days  0.48  1260  NM    Aldosterone infusion, 48h  0.44  550  2.44    Aldosterone + high-K+ diet  0.32  521  3.80 NM, Not measured. Modified from Palmer LG, Frindt G: Regulation of apical K channels in rat cortical collecting tubule during changes in dietary K intake. Am J Physiol 277:F805-F812, 1999. |

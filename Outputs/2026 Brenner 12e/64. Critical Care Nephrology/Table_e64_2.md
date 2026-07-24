@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| eTable 64.2 Factors to Consider When Deliberating Timing of Kidney Replacement Therapy (KRT) Initiation for Acute Kidney Injury (AKI) Patients in the Intensive Care Unit (ICU) Illness Severity and Trajectory AKI severity and trendFluid balance and symptoms of fluid overloadSeverity of electrolyte and acid-base disordersPresence of relevant nonrenal organ dysfunction impacted by AKI and/or fluid overloadAnticipated need for enhanced metabolic support (e.g., rhabdomyolysis or tumor lysis syndrome) |

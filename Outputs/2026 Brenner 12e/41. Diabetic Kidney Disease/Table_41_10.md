@@ -1,0 +1,3 @@
+| Table Text (OCR) |
+| :--- |
+| Table 41.10  Moderate- and High-Intensity Statin Therapy<sup>641</sup> Moderate intensity (lowers LDL by 30%-49%)  High intensity (lowers LDL by ≥50%)    Atorvastatin 10-20 mgRosuvastatin 5-10 mgSimvastatin 20-40 mgPravastatin 40-80 mgLovastatin 40 mgFluvastatin XL 80 mgPitavastatin 1-4 mg  Atorvastatin 40-80 mgRosuvastatin 20-40 mg All dosages are once-daily dosing. XL, Extended release. |
