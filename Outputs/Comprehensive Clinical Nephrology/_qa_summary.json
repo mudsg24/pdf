@@ -1,0 +1,22 @@
+{
+  "edition": "ccn",
+  "expected_count": 33,
+  "finding_count": 33,
+  "produced_count": 33,
+  "complete": true,
+  "status_counts": {
+    "needs_review": 33
+  },
+  "pairing_warnings": [],
+  "preflight": {
+    "python": "3.13.9",
+    "python_executable": "/Users/yuan/Projects/PDF/image_table_box_extractor_for_brenner/.venv/bin/python3",
+    "mineru_executable": null,
+    "mineru_version": null,
+    "pymupdf_version": "PyMuPDF 1.28.0: Python bindings for the MuPDF 1.29.0 library.",
+    "relevant_env": {},
+    "warnings": [
+      "mineru executable not found on PATH"
+    ]
+  }
+}

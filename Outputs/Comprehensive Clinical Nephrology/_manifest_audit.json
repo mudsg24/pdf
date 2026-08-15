@@ -1,0 +1,456 @@
+{
+  "chapters": [
+    {
+      "chapter_stem": "005. Point of Care Ultrasound in Nephrology",
+      "source_pdf": "/Users/yuan/Projects/PDF/Inputs/Comprehensive Clinical Nephrology/005. Point of Care Ultrasound in Nephrology.pdf",
+      "source_md": "/Users/yuan/Projects/PDF/image_table_box_extractor_for_brenner/MinerU cache Comprehensive Clinical Nephrology/005. Point of Care Ultrasound in Nephrology/hybrid_auto/005. Point of Care Ultrasound in Nephrology.md",
+      "counts": {
+        "Figure": 14,
+        "Table": 2
+      },
+      "total": 16,
+      "assets": [
+        {
+          "asset_id": "Fig_5_1",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.1",
+          "normalized_label": "Fig. 5.1",
+          "caption": "Common sonographic applications and focused questions encountered in nephrology practice. (Created with Biorender.com.)",
+          "page_hints": [
+            2
+          ],
+          "md_line": 74,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_2",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.2",
+          "normalized_label": "Fig. 5.2",
+          "caption": "(A) Grayscale image of a normal kidney. (B) M-mode image of the inferior vena cava. Tracing represents movement of the structure over time along the cursor (dotted line). (C) Color Doppler image of a normal transplanted kidney. (D) Pulsed wave Doppler image of renal artery. Note the Doppler line, which is like the M-mode cursor but with a small opening called sample volume, which should be placed in the region of interest to measure the flow. (Created with Biorender.com.)",
+          "page_hints": [
+            2
+          ],
+          "md_line": 77,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_3",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.3",
+          "normalized_label": "Fig. 5.3",
+          "caption": "Curvilinear (A), phased array (B), and linear (C) transducers illustrating their respective fields of view. (Created with Biorender.com.)",
+          "page_hints": [
+            3
+          ],
+          "md_line": 80,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_4",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.4",
+          "normalized_label": "Fig. 5.4",
+          "caption": "Orientation to an Ultrasound Image. The green arrow denotes direction of the probe orientation marker. The right kidney is shown here, but the principles remain the same for any organ being imaged. (Created with Biorender.com.)",
+          "page_hints": [
+            4
+          ],
+          "md_line": 105,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_5",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.5",
+          "normalized_label": "Fig. 5.5",
+          "caption": "Longitudinal (A) and Transverse (B) Views of a Normal Kidney. The green arrow denotes direction of the probe orientation marker during image acquisition. The asterisk denotes the medullary pyramid. In the transverse image, the arrowhead indicates renal vein (use color Doppler to differentiate from a hydroureter). C, Cortex; F, sinus fat; L, liver. (Created with Biorender.com.)",
+          "page_hints": [
+            5
+          ],
+          "md_line": 124,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_6",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.6",
+          "normalized_label": "Fig. 5.6",
+          "caption": "Mild (A), moderate (B), and severe (C) hydronephrosis.",
+          "page_hints": [
+            5
+          ],
+          "md_line": 127,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_7",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.7",
+          "normalized_label": "Fig. 5.7",
+          "caption": "(A) Grayscale image of the kidney demonstrating an anechoic area mimicking mild hydronephrosis. (B) Color Doppler image of the same kidney demonstrating blood flow suggestive of vasculature (arteriovenous malformation in this case). (C–D) Longitudinal and transverse images of kidney demonstrating a large parapelvic cyst mimicking hydronephrosis.",
+          "page_hints": [
+            6
+          ],
+          "md_line": 140,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_8",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.8",
+          "normalized_label": "Fig. 5.8",
+          "caption": "(A) Normal urinary bladder ultrasound, transverse plane. (B) Decompressed bladder with Foley catheter. (C) Bladder filled with anechoic urine despite having a Foley catheter indicative of obstructed catheter. (D) Misplaced Foley catheter balloon in prostatic urethra; asterisk indicates prostate gland. (E) Enlarged prostate gland (arrow) compressing the bladder. (F) Bladder stone (arrow). Note the acoustic shadowing (asterisk) and surrounding debris (arrowhead). F, Fluid-filled balloon of the catheter.",
+          "page_hints": [
+            7
+          ],
+          "md_line": 161,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_9",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.9",
+          "normalized_label": "Fig. 5.9",
+          "caption": "Standard Views of Focused Cardiac Ultrasound. Left, Transducer position to acquire these views. Green arrows denote direction of the transducer orientation marker. Right, Sonographic images of parasternal long axis (A), parasternal short axis (B; arrow indicates papillary muscle), and apical (C) and subcostal (D) four-chamber views. Ao, Aorta; AV, aortic valve; DAo, descending thoracic aorta; LA, left atrium; LV, left ventricle; MV, mitral valve; RA, right atrium; RV, right ventricle; RVOT, right ventricular outflow tract; TV, tricuspid valve. (Created with Biorender.com.)",
+          "page_hints": [
+            7
+          ],
+          "md_line": 164,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_10",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.10",
+          "normalized_label": "Fig. 5.10",
+          "caption": "Subcostal (A) and parasternal short axis (B) views demonstrating pericardial effusion (arrowhead). (C) Schematic of normal parasternal long axis view. (D) Parasternal long axis view demonstrating a small pericardial effusion (arrowhead) anterior to the descending aorta (arrow) and a left pleural effusion (asterisk) posterior to it. (C, Created with Biorender.com.)",
+          "page_hints": [
+            9
+          ],
+          "md_line": 205,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_11",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.11",
+          "normalized_label": "Fig. 5.11",
+          "caption": "Apical four-chamber (A) and parasternal short axis (B) views obtained from a patient with severe pulmonary hypertension. Note severe enlargement of the right ventricle (larger than left ventricle in apical view) and interventricular septal flattening with D-sign on short axis. Arrowhead points to hypertrophied moderator band in the right ventricle. (C) Components of stroke volume assessment. Velocity time integral (VTI) is obtained by tracing the pulsed wave Doppler envelope of the left ventricular outflow tract (LVOT) in apical five-chamber view. Cross sectional area of the LVOT is obtained by measuring its diameter (d) at the base of the aortic valve in midsystole and using the formula for area of a circle, $\\pi r^{2}$ (where r = radius, or diameter divided by 2). (Created with Biorender.com.)",
+          "page_hints": [
+            10
+          ],
+          "md_line": 218,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_12",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.12",
+          "normalized_label": "Fig. 5.12",
+          "caption": "Examples of Lung and Pleural Ultrasound. Normal ultrasound (A-line pattern) using a linear transducer (A) and a curvilinear transducer (B). B-lines shown using a linear transducer (C) and a curvilinear transducer (D). Note that B-lines move with respiration (see Video 5.4). Examples of lung consolidation (also referred often as the C-pattern) showing a heterogeneous tissue-like appearance (E–F). Pleural effusion of the right lower thorax region (G) and to the left lower thorax region (H).",
+          "page_hints": [
+            12
+          ],
+          "md_line": 251,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_13",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.13",
+          "normalized_label": "Fig. 5.13",
+          "caption": "Proposed Approach to Acute Dyspnea Using Lung Ultrasound Based on the Bedside Lung Ultrasound in Emergency (BLUE) Protocol. $^{4}$ Three zones on each side are assessed: the upper point (1), the lower point (2), and the posterolateral point (3). The original BLUE protocol also includes assessment of lower extremity veins to detect deep venous thrombosis suggestive of pulmonary embolism. ARDS, Acute respiratory distress syndrome; COPD, chronic obstructive pulmonary disease.",
+          "page_hints": [
+            13
+          ],
+          "md_line": 268,
+          "discovery_reason": "middle_json:image_caption;markdown:line_start_caption",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_5_14",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 5.14",
+          "normalized_label": "Fig. 5.14",
+          "caption": "Examples of Normal and Abnormal Venous Doppler Waveforms. (A) Color Doppler image showing the site of intrarenal Doppler assessment. (B) Normal intrarenal Doppler showing a normal arterial resistive index (above the baseline) and a continuous venous signal during the cardiac cycle (below the baseline). (C) Abnormal intrarenal Doppler showing both a high resistive index and discontinued venous signal only present in diastole (indicated by letter D). (D) Color Doppler image showing the right hepatic vein. (E) Normal hepatic vein Doppler with dominant systolic component. (F) Abnormal hepatic vein flow with reverse systolic component and only D-wave below the baseline. (G) Color Doppler image showing the main portal vein. (H) Normal portal vein Doppler showing minimal (<30%) variation in velocities during the cardiac cycle. (I) Abnormal portal vein Doppler with pulsatility ( $\\geq$ 50% variation) during the cardiac cycle.",
+          "page_hints": [
+            15
+          ],
+          "md_line": 305,
+          "discovery_reason": "middle_json:image_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Table_5_1",
+          "asset_type": "Table",
+          "raw_label": "TABLE 5.1",
+          "normalized_label": "Table 5.1",
+          "caption": "Differential Diagnosis of B-Line Artifacts on Lung Ultrasound",
+          "page_hints": [
+            14
+          ],
+          "md_line": 280,
+          "discovery_reason": "middle_json:table_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Table_5_2",
+          "asset_type": "Table",
+          "raw_label": "TABLE 5.2",
+          "normalized_label": "Table 5.2",
+          "caption": "Characteristic Point-of-Care Ultrasound Findings in Major Types of Shock",
+          "page_hints": [
+            15
+          ],
+          "md_line": 307,
+          "discovery_reason": "middle_json:table_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        }
+      ]
+    },
+    {
+      "chapter_stem": "045. Pregnancy With Preexisting Kidney Disease",
+      "source_pdf": "/Users/yuan/Projects/PDF/Inputs/Comprehensive Clinical Nephrology/045. Pregnancy With Preexisting Kidney Disease.pdf",
+      "source_md": "/Users/yuan/Projects/PDF/image_table_box_extractor_for_brenner/MinerU cache Comprehensive Clinical Nephrology/045. Pregnancy With Preexisting Kidney Disease/hybrid_auto/045. Pregnancy With Preexisting Kidney Disease.md",
+      "counts": {
+        "Box": 9,
+        "Table": 1
+      },
+      "total": 10,
+      "assets": [
+        {
+          "asset_id": "Box_45_1",
+          "asset_type": "Box",
+          "raw_label": "BOX 45.1",
+          "normalized_label": "Box 45.1",
+          "caption": "Maternal Kidney Outcomes According to Prepregnancy CKD Stage",
+          "page_hints": [],
+          "md_line": 43,
+          "discovery_reason": "markdown:heading",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Box_45_2",
+          "asset_type": "Box",
+          "raw_label": "BOX 45.2",
+          "normalized_label": "Box 45.2",
+          "caption": "Fetal Outcomes According to Maternal Prepregnancy CKD Stage $^{9}$",
+          "page_hints": [],
+          "md_line": 66,
+          "discovery_reason": "markdown:heading",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Box_45_3",
+          "asset_type": "Box",
+          "raw_label": "BOX 45.3",
+          "normalized_label": "Box 45.3",
+          "caption": "Principles of Antenatal Care With CKD $^{40}$",
+          "page_hints": [],
+          "md_line": 87,
+          "discovery_reason": "markdown:heading",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Box_45_4",
+          "asset_type": "Box",
+          "raw_label": "BOX 45.4",
+          "normalized_label": "Box 45.4",
+          "caption": "Prepregnancy Counseling for Women With Chronic Kidney Disease",
+          "page_hints": [],
+          "md_line": 102,
+          "discovery_reason": "markdown:heading",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Box_45_5",
+          "asset_type": "Box",
+          "raw_label": "BOX 45.5",
+          "normalized_label": "Box 45.5",
+          "caption": "Indications for Delivery in Women With Preeclampsia and Chronic Kidney Disease",
+          "page_hints": [],
+          "md_line": 179,
+          "discovery_reason": "markdown:heading",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Box_45_6",
+          "asset_type": "Box",
+          "raw_label": "BOX 45.6",
+          "normalized_label": "Box 45.6",
+          "caption": "Managing Hemodialysis During Pregnancy $^{49}$",
+          "page_hints": [],
+          "md_line": 272,
+          "discovery_reason": "markdown:heading",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Box_45_7",
+          "asset_type": "Box",
+          "raw_label": "BOX 45.7",
+          "normalized_label": "Box 45.7",
+          "caption": "Maternal and Fetal Outcomes in Kidney Transplant Pregnancies",
+          "page_hints": [],
+          "md_line": 358,
+          "discovery_reason": "markdown:heading",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Box_45_8",
+          "asset_type": "Box",
+          "raw_label": "BOX 45.8",
+          "normalized_label": "Box 45.8",
+          "caption": "Management of Kidney Transplant Patients During Pregnancy",
+          "page_hints": [],
+          "md_line": 392,
+          "discovery_reason": "markdown:heading",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Box_45_9",
+          "asset_type": "Box",
+          "raw_label": "BOX 45.9",
+          "normalized_label": "Box 45.9",
+          "caption": "Managing Women With Preexisting Kidney Disease During Pregnancy",
+          "page_hints": [],
+          "md_line": 442,
+          "discovery_reason": "markdown:heading",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Table_45_1",
+          "asset_type": "Table",
+          "raw_label": "TABLE 45.1",
+          "normalized_label": "Table 45.1",
+          "caption": "Diagnostic Criteria for Preeclampsia",
+          "page_hints": [
+            4
+          ],
+          "md_line": 159,
+          "discovery_reason": "middle_json:table_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        }
+      ]
+    },
+    {
+      "chapter_stem": "073. Epidemiology and Prognostic Impact of Acute Kidney Injury and Acute Kidney Disease",
+      "source_pdf": "/Users/yuan/Projects/PDF/Inputs/Comprehensive Clinical Nephrology/073. Epidemiology and Prognostic Impact of Acute Kidney Injury and Acute Kidney Disease.pdf",
+      "source_md": "/Users/yuan/Projects/PDF/image_table_box_extractor_for_brenner/MinerU cache Comprehensive Clinical Nephrology/073. Epidemiology and Prognostic Impact of Acute Kidney Injury and Acute Kidney Disease/hybrid_auto/073. Epidemiology and Prognostic Impact of Acute Kidney Injury and Acute Kidney Disease.md",
+      "counts": {
+        "Box": 2,
+        "Figure": 4,
+        "Table": 1
+      },
+      "total": 7,
+      "assets": [
+        {
+          "asset_id": "Box_73_1",
+          "asset_type": "Box",
+          "raw_label": "BOX 73.1",
+          "normalized_label": "Box 73.1",
+          "caption": "Patient-Specific Risk Factors for Acute Kidney Injury",
+          "page_hints": [],
+          "md_line": 78,
+          "discovery_reason": "markdown:heading",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Box_73_2",
+          "asset_type": "Box",
+          "raw_label": "BOX 73.2",
+          "normalized_label": "Box 73.2",
+          "caption": "Risk Factors for Chronic Kidney Disease After Acute Kidney Injury",
+          "page_hints": [],
+          "md_line": 150,
+          "discovery_reason": "markdown:heading",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_73_1",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 73.1",
+          "normalized_label": "Fig. 73.1",
+          "caption": "Hypothetical Trajectories of Acute Kidney Disease (AKD). AKD follows on from acute kidney injury (AKI) in those patients who do not fully recover within 7 days. The trajectory of AKD can take many forms, largely depending on the severity of the initial AKI episode. Here, a series of hypothetical scenarios representing typical trajectories of the AKI-AKD continuum are depicted. Stage 3 AKI might slowly improve to stage 2 AKI and then progress to AKD (1). Stage 1 AKI might progress to stage 3 AKI, then improve rapidly to stage 1 AKI before progressing to stage 1 AKD (2). An episode of persistent AKI (>48 hr) might be followed by a period of sustained reversal, then a second episode of AKI leading to AKD (3). Stage 2 AKI might rapidly reverse (4). Subacute AKD might occur wherein the first 7 days are marked with slowly worsening kidney function that does not technically meet the criteria for AKI, and progress to stage 3 AKD (5). This trajectory can be seen in patients treated with chronic nephrotoxic medications (e.g., aminoglycosides). (From Chawla LS et al. Acute kidney disease and renal recovery: consensus report of the Acute Disease Quality Initiative [ADQI] 16 Workgroup. Nat Rev Nephrology. 2017;13[4]:241–257.)",
+          "page_hints": [
+            2
+          ],
+          "md_line": 53,
+          "discovery_reason": "middle_json:chart_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_73_2",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 73.2",
+          "normalized_label": "Fig. 73.2",
+          "caption": "Relationships of AKI, AKD, CKD, and the absence of kidney disease according to KDIGO definitions. AKD, Acute kidney disease; AKI, acute kidney injury; CKD, chronic kidney disease; GFR, glomerular filtration rate; KDIGO, Kidney Disease: Improving Global Outcomes; NKD, no kidney disease; SCr, serum creatinine. (From Lam-eire NH, Levin A, Kellum JA et al. Haromizing acute and chronic kidney disease definition and classification: report of a Kidney Disease: Improving Global Outcomes [KDIGO] Consensus Conference. Kidney Int. 2012;100[3]:516–526.)",
+          "page_hints": [
+            3
+          ],
+          "md_line": 76,
+          "discovery_reason": "middle_json:chart_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_73_3",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 73.3",
+          "normalized_label": "Fig. 73.3",
+          "caption": "Hazard ratio (HR) of acute kidney injury for people with and without diabetes according to baseline estimated glomerular filtration rate. eGFR, Estimated glomerular filtration rate.",
+          "page_hints": [
+            4
+          ],
+          "md_line": 124,
+          "discovery_reason": "middle_json:chart_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Fig_73_4",
+          "asset_type": "Figure",
+          "raw_label": "Fig. 73.4",
+          "normalized_label": "Fig. 73.4",
+          "caption": "Hazard ratio (HR) of acute kidney injury for people with and without diabetes according to the ratio of urine albumin to creatinine. UACR, Urine albumin/creatinine ratio.",
+          "page_hints": [
+            4
+          ],
+          "md_line": 142,
+          "discovery_reason": "middle_json:chart_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        },
+        {
+          "asset_id": "Table_73_1",
+          "asset_type": "Table",
+          "raw_label": "TABLE 73.1",
+          "normalized_label": "Table 73.1",
+          "caption": "Recent Consensus Definitions of Acute Kidney Injury",
+          "page_hints": [
+            2
+          ],
+          "md_line": 33,
+          "discovery_reason": "middle_json:table_caption;markdown:structural_neighbor",
+          "normalization_repairs": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "Box": 11,
+    "Figure": 18,
+    "Table": 4
+  },
+  "warnings": [],
+  "ambiguities": [],
+  "unresolved_count": 0
+}
