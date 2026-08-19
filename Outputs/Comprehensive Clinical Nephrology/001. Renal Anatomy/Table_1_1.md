@@ -1,0 +1,4 @@
+| Table Text (OCR) |
+| :--- |
+| TABLE 1.1 Subdivisions of the Nephron and Collecting Duct System |
+| Section Subsections Nephron Renal corpuscle Glomerulus: term used most frequently to refer to entire renal corpuscleBowman's capsule Proximal tubule Convoluted partStraight part (pars recta) or thick descending limb of Henle loop Intermediate tubule Descending part or thin descending limb of Henle loopAscending part or thin ascending limb of Henle loop Distal tubule Straight part or thick ascending limb of Henle loop: subdivided into medullary and cortical parts; the cortical part contains the macula densa in its terminal portionConvoluted part Collecting Duct System Connecting tubule Includes the arcades in most species Collecting duct Cortical collecting ductOuter medullary collecting duct: subdivided into an outer stripe and an inner stripe portionInner medullary collecting duct: subdivided into basal, middle, and papillary portions |
