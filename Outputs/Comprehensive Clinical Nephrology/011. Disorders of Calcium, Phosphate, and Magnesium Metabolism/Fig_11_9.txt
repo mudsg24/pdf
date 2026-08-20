@@ -1,0 +1,1 @@
+Fig. 11.9 Reabsorption in the Loop of Henle. Transport of $Na^{+}$ , $K^{+}$ , $2Cl^{-}$ into the cell via NKCC2 drives paracellular reabsorption of calcium and magnesium through a claudin 16-claudin 19 complex. Stimulation of the calcium-sensing receptor on the basolateral cell surface, such as by hypercalcemia, inhibits calcium and magnesium reabsorption.

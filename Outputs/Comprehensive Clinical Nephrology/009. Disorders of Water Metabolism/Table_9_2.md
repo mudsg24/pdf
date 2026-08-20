@@ -1,0 +1,8 @@
+| Table Text (OCR) |
+| :--- |
+| TABLE 9.2 Drugs Associated With Hyponatremia ^{a} |
+| Vasopressin Analogs Drugs That Potentiate Renal Action of Vasopressin Desmopressin (DDAVP) Chlorpropamide Oxytocin CyclophosphamideNonsteroidal anti-inflammatory drugs (NSAIDs)Acetaminophen Drugs That Enhance Vasopressin Release Drugs That Cause Hyponatremia by Unknown Mechanisms Chlorpropamide Haloperidol Clofibrate Fluphenazine Carbamazepine-oxcarbazepine Amitriptyline Vincristine Thioridazine Nicotine Fluoxetine Narcotics Methamphetamine (MDMA, “ecstasy”) Antipsychotics/antidepressants (SSRIs) Intravenous immunoglobulin (IVIG) Ifosfamide |
+| Terms in italics are the most common causes. |
+| ^{a} Not including diuretics. |
+| MDMA, 3,4-Methylenedioxymethamphetamine; SSRIs, selective serotonin reuptake inhibitors. |
+| From Liamis G, Elisaf M. Hyponatremia induced by drugs. In: Simon E, ed. Hyponatremia: Springer; 2013:111–126. |
