@@ -1,7 +1,112 @@
 | Table Text (OCR) |
 | :--- |
-| TABLE 2.1 Physiologic and Pharmacologic Influences on Glomerular Hemodynamics |
-| ARTERIOLAR RESISTANCE Net Ultrafiltration Afferent Efferent Renal Blood Flow Pressure K_f GFR Renal sympathetic nerves ↑↑ ↑ ↓ ↓ ↓ ↓ Epinephrine ↑ ↑ ↓ → ? ↓ Adenosine ↑ → ↓ ↓ ? ↓ Cyclosporine ↑ → ↓ ↓ ? ↓ NSAIDs ↑↑ ↑ ↓ ↓ ? ↓ Angiotensin II ↑ ↑↑ ↓ ↑ ↓ ↓→ Endothelin-1 ↑ ↑↑ ↓ ↑ ↓ ↓ High-protein diet ↓ → ↑ ↑ → ↑ Nitric oxide ↓ ↓ ↑ ? ↑ ↑ (?) ANP (high dose) ↓ → ↑ ↑ ↑ ↑ PGE_2/PGI_2 ↓ ↓ (?) ↑ ↑ ? ↑ Calcium channel blockers ↓ → ↑ ↑ ? ↑ ACE inhibitors, ARBs ↓ ↓↓ ↑ ↓ ↑ ? ^\mathrm{a} |
-| The overall effect on GFR will depend on renal blood flow, net ultrafiltration pressure, and the ultrafiltration coefficient ( K_{f} ), which is controlled by mesangial cell contraction and relaxation. The effects shown are those seen when the agents are applied (or inhibited) in isolation; the actual changes that occur are dose dependent and are modulated by other agents. |
-| ^{a} In clinical practice, GFR is usually either decreased or unaffected. |
-| ACE, Angiotensin-converting enzyme; ARBs, angiotensin receptor blockers; ANP, atrial natriuretic peptide; GFR, glomerular filtration rate; NSAIDs, nonsteroidal anti-inflammatory drugs; PGE_{2}/PGI_{2} , prostaglandins E_{2} and I_{2} . |
+| TABLE 2.1 |
+| Physiologic and Pharmacologic Influences on Glomerular Hemodynamics |
+| ARTERIOLAR RESISTANCE |
+| Renal Blood Flow |
+| Net Ultrafiltration |
+| Pressure |
+| Kf |
+| GFR |
+| Afferent |
+| Efferent |
+| Renal sympathetic nerves |
+| ↑↑ |
+| ↑ |
+| ↓ |
+| ↓ |
+| ↓ |
+| ↓ |
+| Epinephrine |
+| ↑ |
+| ↑ |
+| ↓ |
+| → |
+| ? |
+| ↓ |
+| Adenosine |
+| ↑ |
+| → |
+| ↓ |
+| ↓ |
+| ? |
+| ↓ |
+| Cyclosporine |
+| ↑ |
+| → |
+| ↓ |
+| ↓ |
+| ? |
+| ↓ |
+| NSAIDs |
+| ↑↑ |
+| ↑ |
+| ↓ |
+| ↓ |
+| ? |
+| ↓ |
+| Angiotensin II |
+| ↑ |
+| ↑↑ |
+| ↓ |
+| ↑ |
+| ↓ |
+| ↓→ |
+| Endothelin-1 |
+| ↑ |
+| ↑↑ |
+| ↓ |
+| ↑ |
+| ↓ |
+| ↓ |
+| High-protein diet |
+| ↓ |
+| → |
+| ↑ |
+| ↑ |
+| → |
+| ↑ |
+| Nitric oxide |
+| ↓ |
+| ↓ |
+| ↑ |
+| ? |
+| ↑ |
+| ↑ (?) |
+| ANP (high dose) |
+| ↓ |
+| → |
+| ↑ |
+| ↑ |
+| ↑ |
+| ↑ |
+| PGE2/PGI2 |
+| ↓ |
+| ↓ (?) |
+| ↑ |
+| ↑ |
+| ? |
+| ↑ |
+| Calcium channel blockers |
+| ↓ |
+| → |
+| ↑ |
+| ↑ |
+| ? |
+| ↑ |
+| ACE inhibitors, ARBs |
+| ↓ |
+| ↓↓ |
+| ↑ |
+| ↓ |
+| ↑ |
+| ?a |
+| The overall effect on GFR will depend on renal blood flow, net ultrafiltration pressure, and the ultrafiltration coefficient (Kf), which is controlled by |
+| mesangial cell contraction and relaxation. The effects shown are those seen when the agents are applied (or inhibited) in isolation; the actual changes |
+| that occur are dose dependent and are modulated by other agents. |
+| The overall effect on GFR will depend on renal blood flow, net ultrafiltration pressure, and the ultrafiltration coefficient (Kf), which is controlled by |
+| mesangial cell contraction and relaxation. The effects shown are those seen when the agents are applied (or inhibited) in isolation; the actual changes |
+| that occur are dose dependent and are modulated by other agents. |
+| aIn clinical practice, GFR is usually either decreased or unaffected. |
+| ACE, Angiotensin-converting enzyme; ARBs, angiotensin receptor blockers; ANP, atrial natriuretic peptide; GFR, glomerular filtration rate; NSAIDs, |
+| nonsteroidal anti-inflammatory drugs; PGE2/PGI2, prostaglandins E2 and I2. |

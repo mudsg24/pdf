@@ -1,5 +1,58 @@
 | Table Text (OCR) |
 | :--- |
-| TABLE 4.4 Main Urinary Profiles |
-| Kidney Disease Hallmark Associated Findings AKI with ATN (proteinuria: absent to +) RTECsEpithelial castsGranular casts Variable according to cause of ATN (e.g.,high number of dysmorphic erythrocytes inactive proliferative GN; myoglobin casts inrhabdomyolysis; uric acid crystals in acute uratenephropathy) Acute interstitial nephritis (proteinuria: absent to +) LeukocytesIsomorphic erythrocytes RTECsLeukocyte castsErythrocyte casts Active proliferative glomerulonephritis (proteinuria: + to ++++) Dysmorphic erythrocytes (moderate to high number)Erythrocyte/hemoglobin casts Leukocytes (low to moderate number)RTECsEpithelial, hyaline, hyaline-granular, granular, waxy,leukocytic casts Nephrotic syndrome (proteinuria: ++++) Fat particlesHigh number of casts (fat, hyaline, hyaline-granular,granular epithelial) Renal tubular epithelial cellsDysmorphic erythrocytes (absent or low-to-moderatenumber) Urinary tract infection (proteinuria: absent) BacteriaLeukocytes Isomorphic erythrocytesTransitional epithelial cellsTriple phosphate crystals (for infections caused byurease-producing bacteria)Epithelial ± leukocyte casts (in pyelonephritis) Polyomavirus BK infection (proteinuria: absent) Decoy cells Decoy cell casts (in BK virus nephropathy)Macrophages Urologic diseases (proteinuria: absent) Isomorphic erythrocytes (low to high number)LeukocytesTransitional cells (deep, superficial, atypical) Crystals (urolithiasis)Atypical/malignant transitional cell (neoplasia ofexcretory urinary system) |
+| TABLE 4.4 |
+| Main Urinary Profiles |
+| Kidney Disease |
+| Hallmark |
+| Associated Findings |
+| AKI with ATN (proteinuria: absent to +) |
+| RTECs |
+| Epithelial casts |
+| Granular casts |
+| Variable according to cause of ATN (e.g., |
+| high number of dysmorphic erythrocytes in |
+| active proliferative GN; myoglobin casts in |
+| rhabdomyolysis; uric acid crystals in acute urate |
+| nephropathy) |
+| Acute interstitial nephritis (proteinuria: absent |
+| to +) |
+| Leukocytes |
+| Isomorphic erythrocytes |
+| RTECs |
+| Leukocyte casts |
+| Erythrocyte casts |
+| Active proliferative glomerulonephritis |
+| (proteinuria: + to ++++) |
+| Dysmorphic erythrocytes (moderate to high number) |
+| Erythrocyte/hemoglobin casts |
+| Leukocytes (low to moderate number) |
+| RTECs |
+| Epithelial, hyaline, hyaline-granular, granular, waxy, |
+| leukocytic casts |
+| Nephrotic syndrome (proteinuria: ++++) |
+| Fat particles |
+| High number of casts (fat, hyaline, hyaline-granular, |
+| granular epithelial) |
+| Renal tubular epithelial cells |
+| Dysmorphic erythrocytes (absent or low-to-moderate |
+| number) |
+| Urinary tract infection (proteinuria: absent) |
+| Bacteria |
+| Leukocytes |
+| Isomorphic erythrocytes |
+| Transitional epithelial cells |
+| Triple phosphate crystals (for infections caused by |
+| urease-producing bacteria) |
+| Epithelial ± leukocyte casts (in pyelonephritis) |
+| Polyomavirus BK infection (proteinuria: absent) |
+| Decoy cells |
+| Decoy cell casts (in BK virus nephropathy) |
+| Macrophages |
+| Urologic diseases (proteinuria: absent) |
+| Isomorphic erythrocytes (low to high number) |
+| Leukocytes |
+| Transitional cells (deep, superficial, atypical) |
+| Crystals (urolithiasis) |
+| Atypical/malignant transitional cell (neoplasia of |
+| excretory urinary system) |
 | AKI, Acute kidney injury; ATN, acute tubular necrosis; GN, glomerulonephritis; RTEC, renal tubular epithelial cell. |

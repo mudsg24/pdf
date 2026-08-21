@@ -1,5 +1,54 @@
 | Table Text (OCR) |
 | :--- |
-| TABLE 9.8 Acquired Nephrogenic Diabetes Insipidus: Causes and Mechanisms |
-| Disease State Defect in Medullary Interstitial Tonicity Defect in cAMP Generation Downregulation of Aquaporin 2 Other Chronic kidney disease Yes Yes Yes Downregulation of V_2 receptor message Hypokalemia Yes Yes Yes — Hypercalcemia Yes Yes — — Sickle cell disease Yes — — — Protein malnutrition Yes — Yes — Demeclocycline therapy — Yes — — Lithium therapy — Yes Yes — Pregnancy — — — Placental secretion of vasopressinase |
+| TABLE 9.8 |
+| Acquired Nephrogenic Diabetes Insipidus: Causes and Mechanisms |
+| Disease State |
+| Defect in Medullary |
+| Interstitial Tonicity |
+| Defect in cAMP |
+| Generation |
+| Downregulation of |
+| Aquaporin 2 |
+| Other |
+| Chronic kidney disease |
+| Yes |
+| Yes |
+| Yes |
+| Downregulation of V2 receptor |
+| message |
+| Hypokalemia |
+| Yes |
+| Yes |
+| Yes |
+| — |
+| Hypercalcemia |
+| Yes |
+| Yes |
+| — |
+| — |
+| Sickle cell disease |
+| Yes |
+| — |
+| — |
+| — |
+| Protein malnutrition |
+| Yes |
+| — |
+| Yes |
+| — |
+| Demeclocycline therapy |
+| — |
+| Yes |
+| — |
+| — |
+| Lithium therapy |
+| — |
+| Yes |
+| Yes |
+| — |
+| Pregnancy |
+| — |
+| — |
+| — |
+| Placental secretion of vasopressinase |
 | cAMP, Cyclic adenosine monophosphate. |

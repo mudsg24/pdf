@@ -1,1 +1,1 @@
-Fig. 6.26 Diffusion Tensor Imaging (DTI) Permits Imaging of Eigen- vectors of Relative Diffusion Through Tissues. This image shows a kid- ney DTI with visualization of the diffusion through the medullary tubules.
+Fig. 6.26 Diffusion Tensor Imaging (DTI) Permits Imaging of Eigenvectors of Relative Diffusion Through Tissues. This image shows a kidney DTI with visualization of the diffusion through the medullary tubules.

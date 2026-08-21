@@ -1,1 +1,1 @@
-BOX 73.1 Patient-Specific Risk Factors for Acute Kidney Injury - Age - Sex (male) • Chronic kidney disease - Proteinuria - Diabetes - Congestive heart failure - Sepsis - Volume depletion - Chronic liver disease - Hyperuricemia
+BOX 73.1 Patient-Specific Risk Factors for Acute Kidney Injury • Age • Sex (male) • Chronic kidney disease • Proteinuria • Diabetes • Congestive heart failure • Sepsis • Volume depletion • Chronic liver disease • Hyperuricemia

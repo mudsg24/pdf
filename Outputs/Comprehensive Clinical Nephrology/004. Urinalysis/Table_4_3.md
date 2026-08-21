@@ -1,5 +1,47 @@
 | Table Text (OCR) |
 | :--- |
-| TABLE 4.3 Types of Casts and Their Main Clinical Associations |
-| Cast Main Clinical Associations Hyaline Normal individual; kidney disease Hyaline-granular Normal subject; kidney disease Granular Kidney disease; AKI associated with ATN Waxy Kidney disease with possible functional impairment Fat Marked proteinuria, usually but not invariably in the nephrotic range Erythrocyte Glomerular hematuria, most frequently because of active proliferative GN; AIN Leukocyte AIN; acute pyelonephritis; active proliferative GN Containing renal tubular epithelial cell (so-called epithelial casts) AKI associated with ATN; active proliferative GN; nonproliferative GN associated with heavy proteinuria; AIN Hemoglobin Glomerular hematuria, most frequently because of active proliferative GN; hemoglobinuria caused by intravascular hemolysis Myoglobin AKI because of rhabdomyolysis Bilirubin Jaundice caused by increased direct bilirubin Bacterial, fungal Bacterial or fungal kidney infections Crystalline Crystalline nephropathies Mixed According to components present in the cast |
-| AIN, Acute interstitial nephritis; AKI, acute kidney injury; ATN, acute tubular necrosis; GN, glomerulonephritis. |
+| TABLE 4.3 |
+| Types of Casts and Their Main |
+| Clinical Associations |
+| Cast |
+| Main Clinical Associations |
+| Hyaline |
+| Normal individual; kidney disease |
+| Hyaline-granular |
+| Normal subject; kidney disease |
+| Granular |
+| Kidney disease; AKI associated with ATN |
+| Waxy |
+| Kidney disease with possible functional |
+| impairment |
+| Fat |
+| Marked proteinuria, usually but not invariably in |
+| the nephrotic range |
+| Erythrocyte |
+| Glomerular hematuria, most frequently because |
+| of active proliferative GN; AIN |
+| Leukocyte |
+| AIN; acute pyelonephritis; active proliferative GN |
+| Containing renal |
+| tubular epithelial |
+| cell (so-called |
+| epithelial casts) |
+| AKI associated with ATN; active proliferative |
+| GN; nonproliferative GN associated with heavy |
+| proteinuria; AIN |
+| Hemoglobin |
+| Glomerular hematuria, most frequently because |
+| of active proliferative GN; hemoglobinuria |
+| caused by intravascular hemolysis |
+| Myoglobin |
+| AKI because of rhabdomyolysis |
+| Bilirubin |
+| Jaundice caused by increased direct bilirubin |
+| Bacterial, fungal |
+| Bacterial or fungal kidney infections |
+| Crystalline |
+| Crystalline nephropathies |
+| Mixed |
+| According to components present in the cast |
+| AIN, Acute interstitial nephritis; AKI, acute kidney injury; ATN, acute |
+| tubular necrosis; GN, glomerulonephritis. |
