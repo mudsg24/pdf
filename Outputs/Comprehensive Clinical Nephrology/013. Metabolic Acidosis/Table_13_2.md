@@ -1,0 +1,10 @@
+| Therapy | Route | Usual Dose per Unit | Comments |
+| :--- | :--- | :--- | :--- |
+| Sodium bicarbonate tablet | PO | 650 mg = 8 mmol | May cause gastric gas |
+| Sodium bicarbonate | IV | 50 mmol in 50 mL | Hypertonic, may cause hypernatremia |
+| 5% Dextrose with water with NaHCO3 | IV | 150 mmol/L | Useful for simultaneous intravascular volume expansion and alkali administration |
+| Potassium citrate (tablet) | PO | 5 and 10 mmol per tablet | Useful for simultaneous K and alkali therapy |
+| Citric acid/potassium citrate/sodium citrate (liquid) | PO | 1 mmol of Na+ and K+ and 2 mmol of citrate per milliliter | Avoid concomitant aluminum-containing medications such as antacids and sucralfate 1 mmol citrate equivalent to 3 mmol HCO3 |
+| Potassium citrate (liquid) | PO | 2 mmol of K+ and 2 mmol of citrate per milliliter | Avoid concomitant aluminum-containing medications |
+
+IV, intravenous; PO, oral.
