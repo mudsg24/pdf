@@ -1,1 +1,15 @@
-BOX 7.2 Contraindications to Kidney Biopsy Kidney Status Multiple cysts Solitary kidney Acute pyelonephritis Perinephric abscess Kidney neoplasm Patient Status Uncontrolled bleeding diathesis Uncontrolled blood pressure Uremia Obesity Uncooperative patient Most contraindications are relative rather than absolute. Clinical circumstances that necessitate urgent kidney biopsy may be overridden, except for uncontrolled bleeding diathesis.
+**Kidney Status**
+*   Multiple cysts
+*   Solitary kidney
+*   Acute pyelonephritis
+*   Perinephric abscess
+*   Kidney neoplasm
+
+**Patient Status**
+*   Uncontrolled bleeding diathesis
+*   Uncontrolled blood pressure
+*   Uremia
+*   Obesity
+*   Uncooperative patient
+
+Most contraindications are relative rather than absolute. Clinical circumstances that necessitate urgent kidney biopsy may be overridden, except for uncontrolled bleeding diathesis.

@@ -1,20 +1,7 @@
-| Table Text (OCR) |
-| :--- |
-| TABLE 73.1 |
-| Recent Consensus Definitions of Acute Kidney Injury |
-| Definitions |
-| Serum Creatinine Criteria |
-| Urine Output Criteria |
-| RIFLE (2003) |
-| Increase in serum creatinine × 1.5 or decrease in GFR by 25% within 48hr |
-| Urine volume <0.5 mL/kg/hr for 6hr |
-| AKIN (2007) |
-| Increase in serum creatinine × 1.5 or by ≥0.3mg/dL (≥26.5μmol/L) within 48hr |
-| Urine volume <0.5 mL/kg/hr for 6hr |
-| KDIGO (2012) |
-| Increase in serum creatinine by ≥0.3mg/dL (≥26.5μmol/L) within 48hr |
-| Increase in serum creatinine to ≥1.5 times baseline, which is known or presumed to |
-| have occurred within the prior 7 days |
-| Severity staging after initial criteria met |
-| Urine volume <0.5 mL/kg/hr for 6hr |
-| GFR, Glomerular filtration rate. |
+| Definitions | Serum Creatinine Criteria | Urine Output Criteria |
+| :--- | :--- | :--- |
+| RIFLE (2003) | Increase in serum creatinine × 1.5 or decrease in GFR by 25% within 48 hr | Urine volume <0.5 mL/kg/hr for 6 hr |
+| ΑΚΙΝ (2007) | Increase in serum creatinine × 1.5 or by ≥0.3 mg/dL (≥26.5 µmol/L) within 48 hr | Urine volume <0.5 mL/kg/hr for 6 hr |
+| KDIGO (2012) | Increase in serum creatinine by ≥0.3 mg/dL (≥26.5 µmol/L) within 48 hr<br>Increase in serum creatinine to ≥1.5 times baseline, which is known or presumed to have occurred within the prior 7 days<br>Severity staging after initial criteria met | Urine volume <0.5 mL/kg/hr for 6 hr |
+
+GFR, Glomerular filtration rate.

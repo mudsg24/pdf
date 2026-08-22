@@ -1,57 +1,23 @@
-| Table Text (OCR) |
-| :--- |
-| TABLE 9.3 |
-| Causes of Syndrome of Inappropriate Antidiuretic Hormone Secretion |
-| Carcinomas |
-| Pulmonary Disorders |
-| Nervous System Disorders |
-| Other |
-| Bronchogenic carcinoma |
-| Carcinoma of duodenum |
-| Carcinoma of pancreas |
-| Thymoma |
-| Carcinoma of stomach |
-| Lymphoma |
-| Ewing sarcoma |
-| Carcinoma of bladder |
-| Carcinoma of prostate |
-| Oropharyngeal tumor |
-| Carcinoma of ureter |
-| Viral pneumonia |
-| Bacterial pneumonia |
-| Pulmonary abscess |
-| Tuberculosis |
-| Aspergillosis |
-| Positive-pressure ventilation |
-| Asthma |
-| Pneumothorax |
-| Mesothelioma |
-| Cystic fibrosis |
-| Encephalitis (viral, bacterial) |
-| Meningitis (viral, bacterial, tuberculous, fungal) |
-| Head trauma |
-| Brain abscess |
-| Brain tumors |
-| Guillain-Barré syndrome |
-| Acute intermittent porphyria |
-| Subarachnoid hemorrhage or subdural hematoma |
-| Cerebellar and cerebral atrophy |
-| Cavernous sinus thrombosis |
-| Neonatal hypoxia |
-| Hydrocephalus |
-| Shy-Drager syndrome |
-| Rocky Mountain spotted fever |
-| Delirium tremens |
-| Cerebrovascular accident (stroke; cerebral |
-| thrombosis or hemorrhage) |
-| Acute psychosis |
-| Peripheral neuropathy |
-| Multiple sclerosis |
-| Human immunodeficiency virus (HIV) |
-| infection; acquired immunodeficiency |
-| syndrome (AIDS) |
-| Idiopathic (elderly) |
-| Prolonged exercise |
-| Terms in italics are the most common causes. |
-| From Thurman JM, Berl T. Therapy of dysnatremic disorders. In: Wilcox CS, ed. Therapy in Nephrology and Hypertension. 3rd ed. Saunders; |
-| 2008:337–352. |
+| Carcinomas | Pulmonary Disorders | Nervous System Disorders | Other |
+| :--- | :--- | :--- | :--- |
+| Bronchogenic carcinoma | Viral pneumonia | Encephalitis (viral, bacterial) | Human immunodeficiency virus (HIV) |
+| Carcinoma of duodenum | Bacterial pneumonia | Meningitis (viral, bacterial, tuberculous, fungal) | infection; acquired immunodeficiency |
+| Carcinoma of pancreas | Pulmonary abscess | Head trauma | syndrome (AIDS) |
+| Thymoma | Tuberculosis | Brain abscess | Idiopathic (elderly) |
+| Carcinoma of stomach | Aspergillosis | Brain tumors | Prolonged exercise |
+| Lymphoma | Positive-pressure ventilation | Guillain-Barré syndrome | |
+| Ewing sarcoma | Asthma | Acute intermittent porphyria | |
+| Carcinoma of bladder | Pneumothorax | Subarachnoid hemorrhage or subdural hematoma | |
+| Carcinoma of prostate | Mesothelioma | Cerebellar and cerebral atrophy | |
+| Oropharyngeal tumor | Cystic fibrosis | Cavernous sinus thrombosis | |
+| Carcinoma of ureter | | Neonatal hypoxia | |
+| | | Hydrocephalus | |
+| | | Shy-Drager syndrome | |
+| | | Rocky Mountain spotted fever | |
+| | | Delirium tremens | |
+| | | Cerebrovascular accident (stroke; cerebral thrombosis or hemorrhage) | |
+| | | Acute psychosis | |
+| | | Peripheral neuropathy | |
+| | | Multiple sclerosis | |
+*Terms in italics are the most common causes.*
+*From Thurman JM, Berl T. Therapy of dysnatremic disorders. In: Wilcox CS, ed. Therapy in Nephrology and Hypertension. 3rd ed. Saunders; 2008:337-352.*

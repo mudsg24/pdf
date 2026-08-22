@@ -1,33 +1,9 @@
-| Table Text (OCR) |
-| :--- |
-| TABLE 8.1 |
-| Homeostatic Mechanisms in |
-| Extracellular Fluid Volume |
-| Afferent (Sensing) |
-| Efferent (Effector) |
-| Cardiopulmonary receptors |
-| •Atrial |
-| •Ventricular |
-| •Pulmonary |
-| High-pressure baroreceptors |
-| •Carotid |
-| •Aortic |
-| •Kidney |
-| •Pressure sensorsa |
-| •Glomerular afferent |
-| •Juxtaglomerular apparatus |
-| Central nervous system receptors |
-| Hepatic receptors |
-| Renin-angiotensin-aldosterone system |
-| Prostaglandins |
-| Arginine vasopressin |
-| Natriuretic peptides |
-| •Atrial |
-| •Brain |
-| •C-type |
-| Other hormones |
-| •Nitric oxide |
-| •Endothelin |
-| •Kallikrein-kinin system |
-| aPressure sensors are unspecified receptors contributing to pressure |
-| natriuresis. |
+| Afferent (Sensing) | Efferent (Effector) |
+| :--- | :--- |
+| Cardiopulmonary receptors<br>• Atrial<br>• Ventricular<br>• Pulmonary | Renin-angiotensin-aldosterone system |
+| High-pressure baroreceptors<br>• Carotid<br>• Aortic<br>• Kidney<br>  • Pressure sensorsa<br>  • Glomerular afferent<br>  • Juxtaglomerular apparatus | Prostaglandins |
+| Central nervous system receptors | Arginine vasopressin |
+| Hepatic receptors | Natriuretic peptides<br>• Atrial<br>• Brain<br>• C-type |
+| | Other hormones<br>• Nitric oxide<br>• Endothelin<br>• Kallikrein-kinin system |
+
+aPressure sensors are unspecified receptors contributing to pressure natriuresis.

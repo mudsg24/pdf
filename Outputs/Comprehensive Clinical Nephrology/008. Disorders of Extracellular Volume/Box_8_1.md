@@ -1,1 +1,18 @@
-BOX 8.1 Clinical Evaluation of Extracellular Fluid Volume Depletion Mild to Moderate Volume Loss • Thirst • Delay in capillary refill • Postural dizziness, weakness • Dry mucous membranes and axillae • Cool, clammy extremities and collapsed peripheral veins • Tachypnea • Tachycardia with pulse rate >100 beats/min or postural pulse increment of 30 beats/min or more • Postural hypotension (systolic blood pressure decrease >20 mm Hg on standing) • Low jugular venous pulse • Oliguria Severe Volume Loss and Hypovolemic Shock • Depressed mental status (or loss of consciousness) • Peripheral cyanosis • Reduced skin turgor (in young patients) • Marked tachycardia, low pulse volume • Supine hypotension (systolic blood pressure <100 mm Hg)
+**Mild to Moderate Volume Loss**
+* Thirst
+* Delay in capillary refill
+* Postural dizziness, weakness
+* Dry mucous membranes and axillae
+* Cool, clammy extremities and collapsed peripheral veins
+* Tachypnea
+* Tachycardia with pulse rate >100 beats/min or postural pulse increment of 30 beats/min or more
+* Postural hypotension (systolic blood pressure decrease >20 mm Hg on standing)
+* Low jugular venous pulse
+* Oliguria
+
+**Severe Volume Loss and Hypovolemic Shock**
+* Depressed mental status (or loss of consciousness)
+* Peripheral cyanosis
+* Reduced skin turgor (in young patients)
+* Marked tachycardia, low pulse volume
+* Supine hypotension (systolic blood pressure <100 mm Hg)

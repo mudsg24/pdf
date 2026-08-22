@@ -1,53 +1,10 @@
-| Table Text (OCR) |
-| :--- |
-| TABLE 9.5 |
-| Treatment of Patients With Chronic Asymptomatic Hyponatremia |
-| Treatment |
-| Mechanism of Action |
-| Dose |
-| Advantages |
-| Limitations |
-| Fluid restriction |
-| Decreases availability of free |
-| water |
-| Variable |
-| Effective and inexpensive; not |
-| complicated |
-| Noncompliance |
-| Pharmacologic Inhibition of Vasopressin Action |
-| Lithium |
-| Inhibits kidney’s response to |
-| vasopressin |
-| 900–1200mg/day |
-| Unrestricted water intake |
-| Polyuria, narrow therapeutic |
-| range, neurotoxicity |
-| Demeclocycline |
-| Inhibits kidney’s response to |
-| vasopressin |
-| 300–600mg twice daily |
-| Effective; unrestricted water |
-| intake |
-| Neurotoxicity, polyuria, |
-| photosensitivity, nephrotoxicity |
-| V2 receptor antagonist |
-| Antagonizes vasopressin |
-| action |
-| — |
-| Addresses underlying |
-| mechanisms |
-| Limited clinical experience |
-| Increased Solute (Salt) Intake |
-| With furosemide |
-| Increases free water clearance |
-| Titrate to optimal dose; |
-| coadminister 2–3g NaCl |
-| Effective |
-| Ototoxicity, K+ depletion |
-| With urea |
-| Osmotic diuresis |
-| 30–60g/day |
-| Effective; unrestricted water |
-| intake |
-| Polyuria, unpalatable, |
-| gastrointestinal symptoms |
+| Treatment | Mechanism of Action | Dose | Advantages | Limitations |
+| :--- | :--- | :--- | :--- | :--- |
+| Fluid restriction | Decreases availability of free water | Variable | Effective and inexpensive; not complicated | Noncompliance |
+| **Pharmacologic Inhibition of Vasopressin Action** | | | | |
+| Lithium | Inhibits kidney's response to vasopressin | 900-1200 mg/day | Unrestricted water intake | Polyuria, narrow therapeutic range, neurotoxicity |
+| Demeclocycline | Inhibits kidney's response to vasopressin | 300-600 mg twice daily | Effective; unrestricted water intake | Neurotoxicity, polyuria, photosensitivity, nephrotoxicity |
+| V2 receptor antagonist | Antagonizes vasopressin action | — | Addresses underlying mechanisms | Limited clinical experience |
+| **Increased Solute (Salt) Intake** | | | | |
+| With furosemide | Increases free water clearance | Titrate to optimal dose; coadminister 2-3 g NaCl | Effective | Ototoxicity, K+ depletion |
+| With urea | Osmotic diuresis | 30-60 g/day | Effective; unrestricted water intake | Polyuria, unpalatable, gastrointestinal symptoms |

@@ -1,0 +1,14 @@
+| Disease | Associations | Serologic Tests |
+| :--- | :--- | :--- |
+| Goodpasture Syndrome | Lung hemorrhage | Anti-glomerular basement membrane antibody (occasionally ANCA present) |
+| Vasculitis | | |
+| Granulomatosis with polyangiitis | Upper and lower respiratory tract involvement | Mostly PR3 ANCA |
+| Microscopic polyangiitis | Multisystem involvement | Mostly MPO ANCA |
+| Pauci-immune crescentic glomerulonephritis | Renal involvement only | MPO or PR3 ANCA |
+| Immune Complex Disease | | |
+| Systemic lupus erythematosus | Other multisystem features of lupus | Antinuclear antibody, anti-double-stranded DNA antibody, C3↓, C4↓ |
+| Poststreptococcal glomerulonephritis | Pharyngitis, impetigo | Antistreptolysin titer, streptozyme antibody, C3↓, C4 normal |
+| IgA nephropathy; IgA vasculitis (HSP) | Characteristic rash + abdominal pain in IgA vasculitis | Serum IgA ↑ (30%), C3 and C4 normal |
+| Endocarditis | Cardiac murmur; other systemic features of bacteremia | Blood cultures, ANCA (occasionally), C3↓, C4 normal |
+Note the overlap between these diseases and those in Table 16.5. A number of glomerular diseases may present with either nephritic syndrome or RPGN.
+ANCA, Antineutrophil cytoplasmic antibody; HSP, Henoch-Schönlein purpura; IgA, immunoglobulin A; MPO, myeloperoxidase; PR3, proteinase 3; RPGN, rapidly progressive glomerulonephritis.

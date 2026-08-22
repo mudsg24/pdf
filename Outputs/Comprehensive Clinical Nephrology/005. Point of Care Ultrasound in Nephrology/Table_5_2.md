@@ -1,78 +1,8 @@
-| Table Text (OCR) |
-| :--- |
-| TABLE 5.2 |
-| Characteristic Point-of-Care Ultrasound Findings in Major Types of Shock |
-| Type of Shock |
-| Hypovolemic |
-| Cardiogenic |
-| Obstructive |
-| Distributive |
-| Hemodynamic |
-| mechanism |
-| Volume depletion |
-| Pump failure |
-| Obstruction of pump function |
-| (e.g., pulmonary embolism, |
-| pericardial effusion) |
-| Vasodilation leading to improper |
-| distribution of cardiac output |
-| resulting in impaired organ perfusion |
-| Lung ultrasound |
-| A-lines |
-| Diffuse B-lines |
-| Pleural effusions |
-| A-lines |
-| Focal B-lines may be seen in |
-| lung infarction |
-| A-lines |
-| Pleural line irregularities with diffuse |
-| B-lines in ARDS |
-| Consolidation in pneumonia |
-| FoCUS including |
-| IVC |
-| Hyperdynamic LV |
-| (increased ejection) |
-| Decreased stroke volume |
-| (exit) |
-| Small, collapsible IVC (entry) |
-| Decreased LV ejection |
-| Decreased cardiac output (exit) |
-| Plethoric IVC (entry) |
-| Chamber enlargement in some |
-| cases (altered equality) |
-| Pericardial effusion |
-| Dilated RV in pulmonary |
-| embolism (altered equality) |
-| Decreased cardiac output (exit) |
-| Plethoric IVC (entry) |
-| Hyperdynamic LV (increased ejection) |
-| with increased cardiac output (exit) |
-| Decreased LV function in septic |
-| cardiomyopathy |
-| IVC variable (entry) |
-| Venous Doppler |
-| Hepatic: S > D |
-| Portal: continuous |
-| Intrarenal: continuous |
-| Hepatic: S < D, possible S reversal |
-| Portal: pulsatile, possible |
-| systolic flow reversal |
-| Intrarenal: Pulsatile, possible |
-| systolic flow reversal |
-| Variable depending on the |
-| etiology |
-| Similar to hypovolemic if volume |
-| depleted |
-| Similar to cardiogenic if excessively |
-| volume resuscitated or |
-| cardiomyopathy |
-| Others |
-| Intraperitoneal free fluid |
-| in case of hemorrhage |
-| Ascites |
-| Bowel wall edema |
-| Deep vein thrombosis in case |
-| of pulmonary embolism |
-| Source of sepsis (e.g., cholecystitis, |
-| pyonephrosis) |
-| ARDS, Acute respiratory stress syndrome; FoCUS, focused cardiac ultrasound; IVC, inferior vena cava; LV, left ventricle; RV, right ventricle; S, systolic wave; D, diastolic wave. |
+| Type of Shock | Hypovolemic | Cardiogenic | Obstructive | Distributive |
+| :--- | :--- | :--- | :--- | :--- |
+| **Hemodynamic mechanism** | Volume depletion | Pump failure | Obstruction of pump function (e.g., pulmonary embolism, pericardial effusion) | Vasodilation leading to improper distribution of cardiac output resulting in impaired organ perfusion |
+| **Lung ultrasound** | A-lines | Diffuse B-lines, Pleural effusions | A-lines, Focal B-lines may be seen in lung infarction | A-lines, Pleural line irregularities with diffuse B-lines in ARDS, Consolidation in pneumonia |
+| **FoCUS including IVC** | Hyperdynamic LV (increased ejection), Decreased stroke volume (exit), Small, collapsible IVC (entry) | Decreased LV ejection, Decreased cardiac output (exit), Plethoric IVC (entry), Chamber enlargement in some cases (altered equality) | Pericardial effusion, Dilated RV in pulmonary embolism (altered equality), Decreased cardiac output (exit), Plethoric IVC (entry) | Hyperdynamic LV (increased ejection) with increased cardiac output (exit), Decreased LV function in septic cardiomyopathy, IVC variable (entry) |
+| **Venous Doppler** | Hepatic: S > D, Portal: continuous, Intrarenal: continuous | Hepatic: S < D, possible S reversal, Portal: pulsatile, possible systolic flow reversal, Intrarenal: Pulsatile, possible systolic flow reversal | Variable depending on the etiology | Similar to hypovolemic if volume depleted, Similar to cardiogenic if excessively volume resuscitated or cardiomyopathy |
+| **Others** | Intraperitoneal free fluid in case of hemorrhage | Ascites, Bowel wall edema | Deep vein thrombosis in case of pulmonary embolism | Source of sepsis (e.g., cholecystitis, pyonephrosis) |
+*ARDS, Acute respiratory stress syndrome; FoCUS, focused cardiac ultrasound; IVC, inferior vena cava; LV, left ventricle; RV, right ventricle; S, systolic wave; D, diastolic wave.*

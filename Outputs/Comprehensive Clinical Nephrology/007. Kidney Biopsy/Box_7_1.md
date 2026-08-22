@@ -1,1 +1,25 @@
-BOX 7.1 Indications for Kidney Biopsy Nephrotic Syndrome • Routinely indicated in adults • In prepubertal children, indicated only if clinical features atypical of minimal change disease are present Acute Kidney Injury • Indicated if obstruction, reduced kidney perfusion, and acute tubular necrosis have been ruled out Systemic Disease With Kidney Dysfunction • Indicated in patients with small-vessel vasculitis, anti–glomerular basement membrane disease, and systemic lupus • Indicated in patients with diabetes only if atypical features present Nonnephrotic Proteinuria • May be indicated if proteinuria is >1 g/24 h Isolated Microscopic Hematuria • Indicated only in unusual circumstances Unexplained Chronic Kidney Disease • May be diagnostic (e.g., identify immunoglobulin A nephropathy even in “end-stage kidney”) Familial Kidney Disease • Biopsy of one affected member may give diagnosis and minimize further investigation of family members Kidney Transplant Dysfunction • Indicated if ureteral obstruction, urinary sepsis, renal artery stenosis, and toxic calcineurin inhibitor levels are not present
+**Nephrotic Syndrome**
+*   Routinely indicated in adults
+*   In prepubertal children, indicated only if clinical features atypical of minimal change disease are present
+
+**Acute Kidney Injury**
+*   Indicated if obstruction, reduced kidney perfusion, and acute tubular necrosis have been ruled out
+
+**Systemic Disease With Kidney Dysfunction**
+*   Indicated in patients with small-vessel vasculitis, anti-glomerular basement membrane disease, and systemic lupus
+*   Indicated in patients with diabetes only if atypical features present
+
+**Nonnephrotic Proteinuria**
+*   May be indicated if proteinuria is >1 g/24 h
+
+**Isolated Microscopic Hematuria**
+*   Indicated only in unusual circumstances
+
+**Unexplained Chronic Kidney Disease**
+*   May be diagnostic (e.g., identify immunoglobulin A nephropathy even in "end-stage kidney")
+
+**Familial Kidney Disease**
+*   Biopsy of one affected member may give diagnosis and minimize further investigation of family members
+
+**Kidney Transplant Dysfunction**
+*   Indicated if ureteral obstruction, urinary sepsis, renal artery stenosis, and toxic calcineurin inhibitor levels are not present

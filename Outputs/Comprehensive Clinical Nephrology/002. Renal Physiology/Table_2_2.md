@@ -1,54 +1,22 @@
-| Table Text (OCR) |
-| :--- |
-| TABLE 2.2 |
-| Genetic Defects in Transport |
-| Proteins Resulting in Renal Diseasea |
-| Transporter |
-| Consequence of Mutation |
-| Proximal Tubule |
-| Apical Na+-cystine cotransporter |
-| Cystinuria |
-| Apical Na+-glucose cotransporter |
-| (SGLT2) |
-| Renal glycosuria |
-| Basolateral Na+-HCO3 |
-| cotransporter |
-| Proximal renal tubular acidosis |
-| Intracellular H+-Cl exchanger |
-| (CIC5) |
-| Dent disease |
-| Thick Ascending Limb |
-| Apical Na+-K+-2Cl cotransporter |
-| Bartter syndrome type 1 |
-| Apical K+ channel |
-| Bartter syndrome type 2 |
-| Basolateral Cl channel |
-| Bartter syndrome type 3 |
-| Basolateral Cl channel accessory |
-| protein |
-| Bartter syndrome type 4 |
-| Distal Convoluted Tubule |
-| Apical Na+-Cl cotransporter |
-| Gitelman syndrome |
-| Collecting Duct |
-| Apical Na+ channel (principal |
-| cells) |
-| Overexpression: Liddle syndrome |
-| Underexpression: |
-| pseudohypoaldosteronism type 1b |
-| Aquaporin 2 channel (principal |
-| cells) |
-| Nephrogenic diabetes insipidus |
-| Basolateral Cl /HCO3 exchanger |
-| (intercalated cells) |
-| Distal renal tubular acidosis |
-| Apical H+-ATPase (intercalated |
-| cells) |
-| Distal renal tubular acidosis (with or |
-| without deafness) |
-| aFor more detailed coverage of these clinical conditions, see Chapter |
-| 49 |
-| ATP, Adenosine triphosphate. |
-| aFor more detailed coverage of these clinical conditions, see Chapter |
-| 49 |
-| ATP, Adenosine triphosphate. |
+| Transporter | Consequence of Mutation |
+| :--- | :--- |
+| **Proximal Tubule** | |
+| Apical Na<sup>+</sup>-cystine cotransporter | Cystinuria |
+| Apical Na<sup>+</sup>-glucose cotransporter (SGLT2) | Renal glycosuria |
+| Basolateral Na<sup>+</sup>-HCO<sub>3</sub><sup>-</sup> cotransporter | Proximal renal tubular acidosis |
+| Intracellular H<sup>+</sup>-Cl<sup>-</sup> exchanger (ClC5) | Dent disease |
+| **Thick Ascending Limb** | |
+| Apical Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter | Bartter syndrome type 1 |
+| Apical K<sup>+</sup> channel | Bartter syndrome type 2 |
+| Basolateral Cl<sup>-</sup> channel | Bartter syndrome type 3 |
+| Basolateral Cl<sup>-</sup> channel accessory protein | Bartter syndrome type 4 |
+| **Distal Convoluted Tubule** | |
+| Apical Na<sup>+</sup>-Cl<sup>-</sup> cotransporter | Gitelman syndrome |
+| **Collecting Duct** | |
+| Apical Na<sup>+</sup> channel (principal cells) | Overexpression: Liddle syndrome<br>Underexpression: pseudohypoaldosteronism type 1b |
+| Aquaporin 2 channel (principal cells) | Nephrogenic diabetes insipidus |
+| Basolateral Cl<sup>-</sup>/HCO<sub>3</sub><sup>-</sup> exchanger (intercalated cells) | Distal renal tubular acidosis |
+| Apical H<sup>+</sup>-ATPase (intercalated cells) | Distal renal tubular acidosis (with or without deafness) |
+
+<sup>a</sup>For more detailed coverage of these clinical conditions, see Chapter 49.
+ATP, Adenosine triphosphate.

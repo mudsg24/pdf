@@ -1,0 +1,7 @@
+| Cryoglobulin Type | Immunoglobulin Class | Associated Diseases |
+| :--- | :--- | :--- |
+| I. Monoclonal immunoglobulins | M > G > A > BJP | Myeloma, CLL, Waldenström macroglobulinemia |
+| II. Mixed cryoglobulins with monoclonal immunoglobulins | M/G » G/G | Infection (hepatitis C), Sjögren syndrome, CLL, lymphoma |
+| III. Mixed polyclonal immunoglobulins | M/G | Infection (hepatitis B/C), SLE, RA, vasculitis, neoplasia |
+
+BJP, Bence Jones protein (light chains); CLL, chronic lymphocytic leukemia; RA, rheumatoid arthritis; SLE, systemic lupus erythematosus.
