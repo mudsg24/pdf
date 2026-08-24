@@ -1,0 +1,16 @@
+| | Active Metabolite | Consequence |
+| :--- | :--- | :--- |
+| Allopurinol | Oxypurinol | Nil |
+| Cefotaxime | Desacetyl cefotaxime | |
+| Glyburide | 4-trans-Hydroxyglibenclamide | Hypoglycemia |
+| | 3-cis-Hydroxyglibenclamide | |
+| Morphine | Morphine-6-glucuronide | CNS side effects |
+| Tramadol | O-Desmethyltramadol | CNS side effects |
+| Venlafaxine | O-Desmethylvenlafaxine | CNS and cardiovascular side effects |
+| | **Toxic Metabolite** | **Consequence** |
+| Dapsone | Monoacetylated metabolite | |
+| Meperidine (pethidine) | Normeperidine (norpethidine) | CNS (seizures) |
+| Nitroprusside | Thiocyanate | Cyanide toxicity |
+| Procainamide | N-Acetylprocainamide (NAPA) | Arrhythmia |
+| Propoxyphene | Norpropoxyphene | Cardiac toxicity |
+*CNS, Central nervous system.*

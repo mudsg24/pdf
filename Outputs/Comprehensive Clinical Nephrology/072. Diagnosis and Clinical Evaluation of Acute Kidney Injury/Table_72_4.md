@@ -1,0 +1,10 @@
+| Traumaa | Increased Exertion | Genetic Defects | Infections | Body Temperature Changes | Drug or Toxin Exposure | Metabolic and Electrolyte Disorders |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Crush injury | Seizure | Disorders of glycolysis or gluconeogenesis | Influenza A and B | Heat stroke | Lipid-lowering drugs | Hypokalemia |
+| Prolonged immobilization | Alcohol withdrawal | Disorders of lipid metabolism | Coxsackievirus | Neuroleptic malignant syndrome | Alcohola | Hypophosphatemia |
+| Limb compression from loss of consciousness | Strenuous exercise | Mitochondrial disorders | Epstein-Barr virus | Hypothermia | Quetiapine | Hypocalcemia |
+| | | | Streptococcus pyogenes | Malignant hyperthermia | Cocainea | Nonketotic hyperosmotic conditions |
+| | | | Pyomyositis (Staphylococcus aureus) | | Heroina | Diabetic ketoacidosis |
+| | | | Clostridioides | | | |
+
+aMost commonly associated with acute kidney injury.

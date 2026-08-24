@@ -1,0 +1,20 @@
+Category,Drug,Dose,Adjustment Based on Level of Kidney Function
+**ACE inhibitors**,Benazepril,10-80 mg once daily,eGFR≥30 mL/min: no dosage adjustment needed eGFR <30 mL/min: reduce initial dose to 5 mg PO once daily
+,Captopril,12.5 mg to 50 mg 2-3 times/ day (up to 450 mg/day),eGFR 10-50 mL/min: administer 75% of normal dose every 12-18 hours
+,Enalapril,5 mg once daily,"eGFR≤30 mL/min: in adult patients, reduce initial dose to 2.5 mg PO once daily"
+,Fosinopril,10-80 mg once daily,No dosage adjustment necessary
+,Lisinopril,10-40 mg once daily,eGFR 10-30 mL/min: reduce initial recommended dose by 50% for adults (maximum: 40 mg/ day) eGFR <10 mL/min: reduce initial dosage to 2.5 mg PO once daily
+,Perindopril,2-8 mg once daily,Not recommended when eGFR <30 mL/min
+,Quinapril,10-80 mg once daily,eGFR 61-89 mL/min: start at 10 mg once daily eGFR 30-60 mL/min: start at 5 mg once daily eGFR 10-29 mL/min: start at 2.5 mg once daily
+,Ramipril,2.5-20 mg once daily,Administer 25% of normal dose when eGFR <40 mL/min
+,Trandolapril,1-4 mg once daily,eGFR <30 mL/min: reduce initial dose to 0.5 mg/day
+**ARBs**,Azilsartan,20-80 mg once daily,Dose adjustment not required in patients with mild to severe kidney impairment or kidney failure
+,Candesartan,8-32 mg once daily,Use with caution in patients with eGFR <30 mL/min
+,Irbesartan,75-300 mg once daily,No dosage adjustment necessary
+,Losartan,50-100 mg once daily,No dosage adjustment necessary
+,Olmesartan,20-40 mg once daily,No initial dosage adjustment recommended for patients with moderate to significant reduction in kidney function kidney impairment (eGFR <40 mL/min)
+,Telmisartan,40-80 mg once daily,No dosage adjustment necessary
+,Valsartan,80-320 mg once daily,Use with caution in eGFR <30 mL/min
+**SGLT2 inhibitors^a**,Canagliflozin,100-300 mg once daily,No dose adjustment if eGFR >60 mL/min/1.73 m² 100 mg daily if eGFR 30-59 mL/min/1.73 m² Avoid initiation with eGFR <30 mL/min/1.73 m² Discontinue when initiating dialysis
+,Dapagliflozin,5-10 mg once daily,Initiate at 10 mg/day if eGFR≥20 mL/min/1.73 m² Avoid initiation with eGFR <25 mL/min/1.73 m² Discontinue when initiating dialysis
+,Empagliflozin,10-25 mg once daily,Initiate at 10 mg/day for eGFR≥20 mL/min/1.73 m² Avoid initiation with eGFR <20 mL/min/1.73 m²^a

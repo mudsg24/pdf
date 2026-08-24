@@ -1,0 +1,28 @@
+| Feature | Symptom, Sign, or Historical Clue | Potential Diagnosis |
+| :--- | :--- | :--- |
+| Occupational history | Exposure to heavy metals (e.g., batteries, alloys) | Lead or cadmium nephropathy |
+| Alcohol | History of moonshine ingestion | Lead nephropathy |
+| Social history | Country of origin | Balkan nephropathy |
+| Past history | Systemic lupus erythematosus | Disease-associated chronic interstitial nephritis |
+| | Sjögren syndrome | |
+| | Sarcoidosis | |
+| | Inflammatory bowel disease | |
+| | Autoimmune pancreatitis | |
+| | Chronic pain syndrome | Analgesic nephropathy |
+| | Gouty attack | Lead nephropathy |
+| Medication | Prescribed | Drug-induced chronic interstitial nephritis |
+| | OTC (NSAIDs, PPIs) | Analgesic |
+| | Herbal | Aristolochic acid-associated nephropathy |
+| | Indinavir | Crystal nephropathy |
+| Physical examination | Dry eyes | Sjögren syndrome |
+| | Uveitis | TINU syndrome |
+| Laboratory examination | Hyperuricemia | Chronic uric acid nephropathy |
+| | Hypokalemia | Hypokalemic nephropathy |
+| | Hypercalcemia | Hypercalcemic nephropathy |
+| | High serum IgG4 levels | IgG4-related sclerosing disease |
+| Radiologic examination | Decreased volume, bumpy contours, and papillary calcification on CT | Analgesic nephropathy |
+| | Microcysts on MRI or ultrasound | Lithium nephropathy |
+| | Nephrocalcinosis on CT | Hypercalcemic nephropathy |
+
+CT, Computed tomography; IgG, immunoglobulin G; MRI, magnetic resonance imaging; NSAIDs, nonsteroidal antiinflammatory drugs; OTC, over the counter; PPIs, proton pump inhibitors; TINU, tubulointerstitial nephritis and uveitis.
+Modified from Beck LH Jr, Salant DJ. Glomerular and tubulointerstitial diseases. Prim Care. 2008;35:265-296.

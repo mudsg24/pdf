@@ -1,0 +1,12 @@
+| | |
+| :--- | :--- |
+| Before and hours after HSCT | Tumor lysis syndrome from conditioning regimen (rare) |
+| | Systemic toxicity from conditioning regimen (e.g., volume depletion [common]) |
+| | DMSO toxicity from hemolysis, acidosis, and pigment nephropathy (rare) |
+| Days to weeks after HSCT | Prerenal AKI from volume depletion, AKI from neutropenic sepsis and drug toxicity (common) |
+| | AKI related to engraftment syndrome (rare) |
+| Weeks to months after HSCT | AKI from sepsis, volume depletion, drug and radiocontrast toxicity (common) |
+| | AKI from sinusoidal obstruction syndrome of the liver, GVHD, thrombotic microangiopathy, and BK virus nephropathy (rare) |
+| Months to years after HSCT | CKD from previous AKIs, continuous use of calcineurin inhibitors especially with GVHD, and from preexisting cancer, such as myeloma (common) |
+
+AKI, Acute kidney injury; CKD, chronic kidney disease; DMSO, dimethyl sulfoxide; GVHD, graft-versus-host disease; HSCT, hemopoietic stem cell transplantation.

@@ -1,0 +1,7 @@
+| Stage | Serum Creatinine | Urine Output |
+| :--- | :--- | :--- |
+| 1 | 1.5-1.9x baseline or ≥0.3mg/dL (≥29 µmol/L) increase | <0.5 mL/kg/h for 6-12h |
+| 2 | 2.0-2.9 x baseline | <0.5 mL/kg/h for≥12h |
+| 3 | 3.0 x baseline or Increase in serum creatinine to ≥4.0 mg/dL (≥352 µmol/L) or Initiation of kidney replacement therapy or In patients younger than 18 yr, decrease in estimated glomerular filtration rate <35 mL/min/1.73 m² | <0.3 mL/kg/h for ≥24h or Anuria for ≥12h |
+
+From the Kidney Disease Improving Global Outcomes (KDIGO) Working Group. KDIGO clinical practice guideline for acute kidney injury. Kidney Int Suppl. 2012;2(1):1-138.

@@ -1,0 +1,27 @@
+Drug,Level of Evidence,Results,Comments
+Dopamine,RCTs,No effect on kidney function,
+Fenoldopam,Small RCTs,No effect on kidney function,Further studies required
+,One meta-analysis,Beneficial effect on kidney function,
+Norepinephrine vs. vasopressin,RCT in septic shock,Tendency toward less kidney replacement therapy with vasopressin,Further studies required
+Loop diuretics,RCTs and meta-analysis,No effect on kidney function,
+Nesiritide,RCTs in cardiac surgery,Decreased incidence of AKI,Further studies required
+,,Controversial effect on kidney replacement therapy requirement,
+N-Acetylcysteine,RCTs and meta-analysis,No effect in CI-AKI,
+Allopurinol,Observational studies and small pilot studies,Possible beneficial effect on kidney function,Further studies required
+Statins,RCTs in perioperative period (cardiac surgery),No effect on kidney function,Patients not receiving statins who need this drug for other indications may receive statins before their angiography
+,RCTs in CI-AKI,Possible beneficial effect on kidney function,
+Insulin,Meta-analyses,Controversial effect,KDIGO recommends targeting blood glucose 110-149 mg/dL (6.1-8.3 mmol/L)
+Calcium channel blockers,RCT in peritransplant period,No effect on kidney function,Further studies required
+Levosimendan,RCT in cardiac surgery,No effect on need for kidney replacement therapy,
+Adenosine antagonists,RCTs,Controversial effect on kidney function,Further studies required
+Alpha-melanocyte-stimulating hormone analog (ABT-719),Phase IIb study in cardiac surgery,No effect on kidney function,
+Alpha-2 adrenergic agonist (dexmedetomidine),Meta-analysis in cardiac surgery,Might decrease AKI,
+,Small RCT in aortic surgery,Decreased incidence of AKI,
+Antioxidative enzyme heme oxygenase-1,Small phase III trial,Trend toward lower levels of the urinary AKI biomarkers,Ongoing phase III in kidney transplantation (NCT03646344)
+Propofol,RCTs,Controversial results on kidney function,"Current RCTs in kidney transplantation (NCT02727296), after nephrectomy (NCT04474600), orthopedic surgery (NCT03336801)"
+Small interfering RNA targeting p53,Phase II RCT in cardiac surgery,Beneficial effect on kidney function,Phase III trial ongoing in cardiac surgery (NCT03510897)
+Peroxisome proliferator-activated receptor,Phase I clinical trials,,Phase II RCT in cardiac surgery (NCT03941483)
+Nicotinamide riboside and pterostilbene,Phase I clinical trials,,Phase II RCT in complex aortic surgery (NCT04342975)
+Hepatocyte growth factor (HGF)-like peptide (ANG-3777),,,Phase II RCT in cardiac surgery (NCT02771509)
+THR-184a,Phase II RCT,No effect on kidney function,
+Mesenchymal stem cells,Phase I clinical trial,Decreased incidence of AKI,Further studies required

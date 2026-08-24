@@ -1,0 +1,8 @@
+| Bosniak Class | Features on Imaging | Comment | Management |
+| :--- | :--- | :--- | :--- |
+| Class I: simple benign cyst | Round or oval<br>Uniform density <20 HU<br>Unilocular<br>No perceptible wall<br>No contrast enhancement | Majority of asymptomatic cystic lesions | No further intervention required |
+| Class II: benign cyst | One or two nonenhancing septa<br>Calcifications in the wall or septum<br>Hyperdense lesions (50-90 HU, resulting from the presence of blood, protein, or colloid) <3 cm<br>No contrast enhancement | | No further intervention required |
+| Class II F: probable benign cyst | Multiple hairline septa<br>"Perceived" enhancement<br>Nodular calcification<br>Hyperdense lesions >3 cm | "Perceived" enhancement resulting from contrast within capillaries of septa | Surveillance with CT scans every 6-12 months |
+| Class III: indeterminate cystic lesions | One or more of the following:<br>Thick, irregular borders<br>Irregular calcifications<br>Thickened or enhancing septa<br>Multilocular form<br>Uniform wall thickening<br>Small nonenhancing nodules | About 40% are neoplastic<br>Magnetic resonance imaging may improve characterization | Surgical exploration |
+| Class IV: presumed malignant cystic masses | Appear malignant<br>Heterogeneous cysts<br>Shaggy, thickened walls or enhancing nodules | Appearances result from necrosis and liquefaction of a solid tumor or a tumor growing in the wall | Surgical exploration |
+All patients with symptomatic kidney masses should be referred for urologic assessment. aApproach to kidney mass found incidentally by ultrasound or CT scanning. CT, Computed tomography; HU, Hounsfield units. Data from Israel GM, Bosniak MA. An update of the Bosniak renal cyst classification system. Urology. 2005;66:84-88.

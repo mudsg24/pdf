@@ -1,0 +1,12 @@
+| Age | Percentage With VUR |
+| :--- | :--- |
+| 2-3 days | 57 |
+| 3-6 days | 51 |
+| 2-6 months | 60 |
+| 7-12 months | 35 |
+| 1-4 years | 50 |
+| 5-9 years | 35 |
+| 10-14 years | 14 |
+| 14 years | 10 |
+| Adult | 5 |
+*VUR, Vesicoureteral reflux.*

@@ -1,0 +1,15 @@
+Study,Treatment,Vasoconstrictor Dose,Patients^a,Reversal of HRS^b (%),Survival at 3 Months (%),Survival at 6 Months (%)
+"Solanki et al., 2003",Terlipressin + albumin,1 mg/12 h,12 (0),42^c,NA,NA
+,Placebo,,12 (0),0,0,0
+"Sanyal et al., 2008",Terlipressin + albumin,1-2 mg/6 h,56 (0),34^b,NA,43
+,Placebo,,56 (0),13,NA,38
+"Neri et al., 2008",Terlipressin + albumin,0.5-1 mg/8 h,26 (0),80^b,54^b,42
+,Albumin,,26 (0),19,19,15
+"Martín-Llahí et al., 2008",Terlipressin + albumin,1-2 mg/4 h,23 (6),39^b,26,NA
+,Albumin,,23 (5),4,17,NA
+"Alessandria et al., 2007",Terlipressin + albumin,1-2 mg/4 h,12 (7),83,67,67
+,Norepinephrine + albumin,0.1-0.7 µg/kg/min,10 (6),70,70,70
+"Sharma et al., 2008",Terlipressin + albumin,0.5-2 mg/6 h,20 (0),50,NA,NA
+,Norepinephrine + albumin,0.5-3 mg/h,20 (0),50,NA,NA
+"Wong et al., 2021",Terlipressin + albumin,1-2 mg/6 h,199 (0),39,49,NA
+,Albumin,,101(0),18,55,NA

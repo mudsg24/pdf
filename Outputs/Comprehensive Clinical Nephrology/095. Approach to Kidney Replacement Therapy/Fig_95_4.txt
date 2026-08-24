@@ -1,0 +1,1 @@
+Fig. 95.4 Predicted Probability of Kidney Failure for Two Patient Profiles Using the 8-Variable Kidney Failure Risk Equation. The Kidney Failure Risk Equation uses eight common variables to estimate the 2- and 5-year risk of kidney failure.

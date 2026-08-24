@@ -1,0 +1,13 @@
+| Drug | Effect of Food |
+| :--- | :--- |
+| Captopril | Decreases serum drug levels |
+| Bisphosphonates (oral) | Significantly reduce drug absorption |
+| Cinacalcet | Significantly increases drug absorption |
+| Iron (oral) | Decreases absorption |
+| Ketoconazole or itraconazole | Increase absorption with reduced pH |
+| Sirolimus | High-fat meals increase absorption |
+| Tacrolimus | Reduces drug absorption |
+| Bisphosphonates (oral) | Calcium-containing binders significantly reduce absorption |
+| Fluoroquinolones | Reduction in absorption |
+| Tetracycline | Reduction in absorption |
+| Thyroid hormones | Reduction in absorption |

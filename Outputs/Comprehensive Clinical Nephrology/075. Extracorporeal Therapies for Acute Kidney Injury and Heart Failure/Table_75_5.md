@@ -1,0 +1,15 @@
+| Mechanism of Clearance | Therapy | Remarks |
+| :--- | :--- | :--- |
+| Filtration-based clearance | HVHF | Convective clearance |
+| | High cutoff membranes | Clearance by filtration via larger pore size |
+| | Plasmapheresis | Clearance by plasma exchange |
+| Adsorption-based techniques | AN69ST | Cytokine adsorption |
+| | Cytosorb | Cytokine adsorption |
+| | Depura D2000 | Cytokine adsorption |
+| | HA 330 | Cytokine adsorption |
+| | oXiris | Endotoxin and cytokine adsorption |
+| | Seraph100 | Pathogen adsorption |
+| | Polymyxin B-based adsorption membranes | Adsorption of endotoxin |
+| Combination techniques | CPFA | Combined filtration and adsorption |
+CPFA, Coupled plasma filtration with adsorption; HA, hemadsorption; HVHF, high-volume hemofiltration.
+

@@ -1,0 +1,8 @@
+| Stage of Kidney Disease | Total Cholesterol | High-Density Lipoproteins | Low-Density Lipoproteins | Triglycerides |
+| :--- | :--- | :--- | :--- | :--- |
+| Nephrotic syndrome | ↑↑↑ | ↓ | ↑↑ | ↑ |
+| Chronic kidney disease | No change | ↓ | No change^a | ↑↑ |
+| Hemodialysis | No change | ↓ | No change^a | ↑↑ |
+| Peritoneal dialysis | ↑ | ↓ | ↑ | ↑ |
+| Transplantation | ↑↑ | No change | ↑ | ↑ |
+*^aComposition altered.*

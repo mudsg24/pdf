@@ -1,0 +1,17 @@
+| Drug | Level of Evidence | Results | Comments |
+| :--- | :--- | :--- | :--- |
+| Dopamine | RCTs | No effect on mortality or kidney function | |
+| Fenoldopam | Small RCTs | No effect on mortality or kidney function | Further studies required |
+| | One meta-analysis | Beneficial effect on mortality and need for dialysis | |
+| Norepinephrine | Prospective observational studies | Possible beneficial effect on kidney function | Further studies required |
+| Angiotensin II | Post hoc analysis from one RCT including patients with vasodilatory shock on dialysis | Decreased dialysis-dependence at 7 days | Further studies required; one RCT in hepatorenal syndrome (NCT04048707) |
+| Loop diuretics | RCTs and meta-analyses | No effect on kidney function | |
+| Atrial natriuretic peptide | RCTs | Possible beneficial effect on survival and kidney function | Further studies required |
+| B-type natriuretic peptide | RCT in acute heart failure | No effect on kidney function | |
+| Levosimendan | Meta-analysis in critically ill patients at risk or with AKI | Decreased need for dialysis | Ongoing phase 4 trial in cardiac surgery (LEVOAKI, NCT02531724) |
+| Mesenchymal stem cells | Animal models and human studies | Beneficial effect on kidney function in animal models but no effect in one human RCT | Ongoing phase II studies (NCT04194671, NCT03015623). Study NCT03015623 showed that mesenchymal stem cells can trigger a phenotypic switch from tissue injury to repair, but the study was not powered for clinical efficacy. |
+| Alkaline phosphatase | Small phase II RCT | No effect on kidney function in sepsis | Further studies required; ongoing phase III trial (NCT04411472) |
+| CD28 receptor antagonist (AB 103 Reltecimod) | Phase III RCT in necrotizing soft tissue infections | Improved organ dysfunction | Further studies required; ongoing phase II trial in peritonitis or necrotizing soft tissue infections (NCT03403751) |
+| Hepatocyte growth factor (HGF)-like peptide (ANG-3777) | | | Phase III trial in kidney transplants with delayed graft function (NCT02474667) |
+
+AKI, Acute kidney injury; RCT, randomized controlled trial.

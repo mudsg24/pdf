@@ -1,0 +1,15 @@
+Parameter,Formula,Definitions
+Transmembrane pressure (TMP),TMP = (PF + Pᵣ)/2 - Pₑ,"P<sub>F</sub> = Prefilter pressure, Pᵣ = Return pressure, Pₑ = Effluent pressure"
+Membrane ultrafiltration coefficient (KUF),KUF = QUF / (TMP x A),"Q<sub>UF</sub> = Ultrafiltration flow rate, A = Membrane surface area"
+Filter ultrafiltration coefficient (DKUF),DKUF = KUF X A,
+Ultrafiltration rate (QUF),QUF = DKUF X TMP,
+Sieving coefficient (SC),SC = CUF / ((Cpi + Cpo)/2),"CUF = Solute concentration in UF, Cpi = Plasma solute concentrations at the inlet, Cpo = Plasma solute concentrations at the outlet"
+Filtration fraction (FF),FF = QUF / Qp,Qₚ = Plasma flow rate
+Convective flux (J<sub>c</sub>),Jc = (QUFO / A) × Cpi x SC,
+Solute diffusive flux (J<sub>d</sub>),Jd = - D (dc/dx),"D = Diffusivity coefficientdc = Concentration gradient (dc = C1 - C2), dx = Distance between compartments"
+Diffusivity coefficient (D),D = kBT / 6πμR,"kB = Boltzmann constant, T = Absolute temperature, μ = Viscosity of the medium, R = Effective radius of the molecules"
+Rejection coefficient,RC=1-SC,
+CVVH postdilution,K = QUF SC×60/body weight,
+CVVH predilution,K= QUFXSC X/ [QBW (QBW + Q)] × 60/body weight,"QBW = Blood water flow rate, QR = Replacement fluid rate"
+CVVHD,K = Qd + Sd,"Q<sub>d</sub> = Dialysate rate, Sd = Saturation coefficient"
+CVVHDF,K= (QUF+Qd) × Sd,

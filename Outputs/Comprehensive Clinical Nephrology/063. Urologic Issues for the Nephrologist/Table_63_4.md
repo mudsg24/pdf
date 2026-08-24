@@ -1,0 +1,8 @@
+| | Median Survival (wk) | 5-Year Survival Rate (%) |
+| :--- | :--- | :--- |
+| Group I: primary untreated malignancy | 27 | 10 |
+| Group II: recurrent malignancy with further treatment | 20 | 20 |
+| Group III: recurrent malignancy with no further treatment | 6.5 | None survived >1 year |
+| Group IV: benign disease as a result of previous treatment | Not stated | 64 |
+| Overall | 26 | 22 |
+aOutcome in 77 patients undergoing percutaneous nephrostomy for obstructive uropathy secondary to pelvic malignant disease. Data from Lau MW, Temperley DE, Mehta S, et al. Urinary tract obstruction and nephrostomy drainage in pelvic malignant disease. Br J Urol. 1995;76:565-569.

@@ -1,0 +1,37 @@
+Drugs Significantly Cleared by Hemodialysis That Require Administration After Dialysis or a Supplement After Dialysis,Drugs Not Significantly Cleared by Hemodialysis and That Do Not Require Administration After Dialysis or a Supplement After Dialysis or That Must Be Administered at Specific Times Independent of Hemodialysis
+**Analgesics**,**Anemia**
+Morphine 6-glucuronide (in toxicity),Erythropoietins
+"Aspirin, high dose (contraindicated)",Iron
+**Antibiotics**,**Analgesics**
+"Aminoglycosides (Amikacin, Gentamicin, Tobramycin)","Paracetamol, Fentanyl, Oxycodone, NSAIDs"
+"Cephalosporins (Cefotaxime, Cefazolin, Ceftazidime)",**Antibiotics**
+"Carbapenems (Imipenem, Meropenem)",Penicillins (Flucloxacillin)
+Metronidazole,Fluoroquinolones (Moxifloxacin)
+"Penicillins (Amoxicillin, Ticarcillin, Piperacillin)","Rifamycins (Rifampin, Rifabutin)"
+Fluoroquinolones (Ciprofloxacin),Glycopeptides (Vancomycin (oral administration))
+"Glycopeptides (Vancomycin (high-flux dialyzers), Teicoplanin)","Tetracyclines (Tetracycline, Doxycycline, Minocycline)"
+"Miscellaneous antibiotics (Ethambutol, Cotrimoxazole)",**Antifungals**
+**Antifungal**,"Amphotericin, Voriconazole, Ketoconazole, Itraconazole"
+Fluconazole,**Antiviral**
+**Antivirals**,Amphotericin
+"Acyclovir, Cidofovir, Famciclovir, Foscarnet, Ganciclovir, Ribavirin, Valganciclovir, Zidovudine",**Antiepileptic**
+**Antineoplastics**,Carbamazepine
+"Cyclophosphamide, Methotrexate",**Cardiovascular Agents**
+**Anticoagulant**,"Amiodarone, Perhexiline, Nitrates"
+"Lepirudin, Dabigatran (in overdose)",**Anticoagulants**
+**Antiepileptics**,"Heparin, Warfarin, LMWH, Rivaroxaban, Apixaban"
+"Gabapentin, Pregabalin, Levetiracetam",**Antiplatelet Drugs**
+**Cardiovascular Agent**,"Low-dose aspirin, Clopidogrel, Dipyridamole"
+Sotalol,**Immunosuppressants**
+**Antidiabetic**,"Azathioprine, Cyclosporine and tacrolimus, Mycophenolate, Prednisolone"
+Metformin (in overdose),"Sirolimus and everolimus, T cell-depleting antibodies, Rituximab, Anti-CD25 antibodies"
+**Vitamins**,**Antidiabetics**
+"Water-soluble B, C, and folate",Sulfonylureas
+**Psychotropic**,**Musculoskeletal Agents**
+Lithium,Bisphosphonates
+,**Antiepileptics**
+,"Sodium valproate, Carbamazepine"
+,**Antidepressants**
+,SSRIs (administer in morning)
+,**Vitamins**
+,"Fat-soluble vitamins A, D, E, K"

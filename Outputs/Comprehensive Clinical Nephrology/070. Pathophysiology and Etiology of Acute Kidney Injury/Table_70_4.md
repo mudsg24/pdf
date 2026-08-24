@@ -1,0 +1,14 @@
+| | |
+| :--- | :--- |
+| **Prerenal** | Nausea and vomiting, hypercalcemia, cardiomyopathy secondary to chemotherapy |
+| **Vascular** | Thrombotic microangiopathy (adenocarcinoma of stomach; cancer of the breast, prostate, lung, or pancreas; radiation nephropathy), renal vein thrombosis secondary to hypercoagulability, DIC (acute promyelocytic leukemia) |
+| **Glomerular** | Rapidly progressive glomerulonephritis |
+| **Acute tubular necrosis** | Sepsis and antibiotic nephrotoxicity |
+| **Malignant infiltration** | Lymphoma, acute lymphoblastic leukemia |
+| **Intraluminal obstruction** | Tumor lysis syndrome, myeloma cast nephropathy |
+| **Postrenal obstruction** | Transitional cell carcinoma ureters and bladder, prostatic obstruction, extrinsic ureteral compression (tumor, nodes, retroperitoneal fibrosis) |
+| **Chemotherapeutic Agents** | |
+| *Tubular toxicity* | Cisplatin, ifosfamide, plicamycin (mithramycin), imatinib, pemetrexed, pentostatin, high-dose bisphosphonates |
+| *Thrombotic microangiopathy* | Mitomycin C, gemcitabine, cisplatin, CNIs, anti-VEGF therapies |
+| *Other mechanisms* | Capillary leak syndrome (IL-2 therapy), AIN (interferon α, check point inhibitors, lenalidomide), intraluminal obstruction (methotrexate) |
+AIN, Acute interstitial nephritis; AKI, acute kidney injury; CNI, calcineurin inhibitor; DIC, disseminated intravascular coagulation; IL-2, interleukin-2; VEGF, vascular endothelial growth factor.

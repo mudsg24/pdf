@@ -1,0 +1,10 @@
+| Grade of VUR | I | II | III | IV | V |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <1 yr without UTI | Consider CAP | Consider CAP | CAP | CAP | CAP |
+| <1 yr with UTI | CAP | CAP | CAP | CAP | CAP |
+| >1 yr without BBD or UTI | Consider CAP | Consider CAP | Consider CAP | Possible surgery | Possible surgery |
+| >1 yr without BBD and UTI | CAP/possible surgery | CAP/possible surgery | CAP/possible surgery | CAP/possible surgery | CAP/possible surgery |
+| >1 yr with BBD and without UTI | Treat BBD/CAP | Treat BBD/CAP | Treat BBD/CAP/possible surgery when BBD improved | Treat BBD/CAP/possible surgery when BBD improved | Treat BBD/CAP/possible surgery when BBD improved |
+| >1 yr with BBD and UTI | Treat BBD/CAP/change CAP | Treat BBD/CAP/change CAP | Treat BBD/CAP/change CAP/possible surgery when BBD improved | Treat BBD/CAP/change CAP/possible surgery when BBD improved | Treat BBD/CAP/change CAP/possible surgery when BBD improved |
+*BBD, Bladder/bowel dysfunction; CAP, continuous antibiotic prophylaxis; possible surgery, injectable materials or reimplantation for lower grades and reimplantation for higher grades.*
+*Modified from American Urological Association. Vesicoureteral reflux. https://www.auanet.org/guidelines-and-quality/guidelines/vesicoureteral-reflux-guideline.*

@@ -1,0 +1,36 @@
+Drug Class,Renal Excretion,Most Frequent Adverse Kidney Events,EVIDENCE FOR DOSE REDUCTION in CKD,,
+,,,**Mild/Moderatea**,**Severeb**,**Dialysis**
+**VEGF/VEGFR-Targeting Agents**,,,,,
+Bevacizumab,No,"Hypertension, proteinuria",No,No,No
+Aflibercept,No,"Hypertension, proteinuria",No,No,No
+Sunitinib,16%,"Hypertension, proteinuria",No,No,No
+Pazopanib,<4%,"Hypertension, proteinuria",No,No,No
+Axitinib,23%,"Hypertension, proteinuria",No,No,No
+**Other Multikinase Inhibitors**,,,,,
+Sorafenib,19%,"Hypertension, proteinuria, hypophosphatemia",No,No,No
+Regorafenib,19%,"Hypertension, proteinuria, electrolyte disorders",No,No,No
+Vandetanib,25%,"Hypertension, proteinuria, AKI",No,Yes,No
+Imatinib,13%,"More renoprotective effects, AKI described",No,No,No
+**mTOR Inhibitors**,,,,,
+Everolimus,2%,"Proteinuria, AKI, electrolyte disorders",No,No; suspend if AKI,No
+Temsirolimus,4.6%,"Proteinuria, AKI, electrolyte disorders",No,No; suspend if AKI,No
+**EGFR Inhibitors**,,,,,
+Gefitinib,<4%,Electrolyte disorders,No,No,No
+Erlotinib,<9%,Electrolyte disorders,No,No,No
+Afatinib,<5%,Electrolyte disorders,No,No,No
+Cetuximab,No,"Hypomagnesemia, other electrolyte disorders",No,No,No
+Panitumumab,No,"Hypomagnesemia, other electrolyte disorders",No,No,No
+**B-RAF Inhibitors ± MEK Inhibitors**,,,,,
+Vemurafenib,1%,AKI (tubular necrosis?),No,No,Possible (risk for arrhythmia)
+Dabrafenib,23%,Hypophosphatemia (granulomatous nephritis?),No,No,No
+Trametinib,<20%,"Hypertension, hyponatremia (with dabrafenib)",No,No,No
+**ERBB2-Targeting Agents**,,,,,
+Trastuzumab,No,"Hypertension, AKI (with cisplatin)",No,No,No
+Pertuzumab,No,No issues,No,No,No
+Lapatinib,2%,No issues,No,No,No
+Trastuzumab emtansine,<5%,Hypokalemia,No,No,No
+**Antibodies Against CTLA-4**,,,,,
+Ipilimumab,No,"Autoimmune nephritis, (potential drug reaction with eosinophilia and systemic symptom syndrome)",No,No,No
+**Other Agents**,,,,,
+Crizotinib,No,"Reduction of eGFR (tubular necrosis?), renal cysts","Possible, with caution","Possible, with caution",No
+Catumaxomab,No,No issues,No,No,No

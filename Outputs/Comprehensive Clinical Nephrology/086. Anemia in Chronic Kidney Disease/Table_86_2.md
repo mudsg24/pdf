@@ -1,0 +1,9 @@
+| Test | Recommended Range |
+| :--- | :--- |
+| Serum ferritin | CKD: 100–500 μg/L<br>Hemodialysis: 200–500 μg/L |
+| Transferrin saturation | 20%–40% |
+| Hypochromic red cells | <10% |
+| Reticulocyte hemoglobin content | >29 pg/cell |
+| Serum transferrin receptor | Not established |
+| Erythrocyte zinc protoporphyrin | Not established |
+

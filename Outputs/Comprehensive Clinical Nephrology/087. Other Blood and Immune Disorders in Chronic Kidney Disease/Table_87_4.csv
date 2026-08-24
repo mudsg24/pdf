@@ -1,0 +1,11 @@
+,Dabigatran,Apixaban,Edoxaban,Rivaroxaban
+**Bioavailability**,3%-7%,50%,62%,"66% without food, almost 100% with food"
+**Prodrug**,Yes,No,No,No
+"**Clearance nonrenal/renal, percent of absorbed dosea**",20%/80%,73%/27%,50%/50%,65%/35%
+**Liver metabolism: CYP3A4 involved**,No,"Yes (elimination, moderate contribution~25%)",Minimal (<4% of elimination),Yes (hepatic elimination ~18%)
+**Absorption with food**,No effect,No effect,6%-22% more; minimal effect on exposure,+39% more
+**Intake with food recommended?**,No,No,No,Mandatory
+**Absorption with H2B/PPI**,-12%-30% (not clinically relevant),No effect,No effect,No effect
+**Dose if Asian ethnicity**,+25%,No effect,No effect,No effect
+**GI tolerability**,Dyspepsia 5%-10%,No problem,No problem,No problem
+**Elimination half-life**,12-17 h,12 h,10-14 h,"5-9 h (young), 11-13 h (elderly)"
