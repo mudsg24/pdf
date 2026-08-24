@@ -1,0 +1,10 @@
+| Trial | Study Design | Study Arms | No. of Patients | Results |
+| :--- | :--- | :--- | :--- | :--- |
+| Koch et al. | Prospective, randomized | Target MBP <110 or 110-130 mm Hg | 42 | No significant differences in early neurologic deterioration, hematoma and edema growth, and clinical outcome. |
+| INTERACT | Prospective, randomized, blinded endpoint assessment | Target SBP <140 or <180 mm Hg | 404 | No significant difference in hematoma growth between the two tiers after adjustment for baseline hematoma volume and time to CT scan. |
+| INTERACT 2 | Prospective, randomized, blinded endpoint assessment | Target SBP <140 or <180 mm Hg | 2839 | No significant reduction in the rate of primary outcome of death or severe disability with intensive lowering of BP. Improved functional outcomes with lower BP target on ordinal analysis of modified Rankin Scale score. |
+| ATACH | Prospective, Phase I dose-escalation | Target SBP 110-140 or 140-170 or 170-200 mm Hg | 60 | Observed proportions of neurologic deterioration and serious adverse events below the prespecified safety thresholds; 3-month mortality rate lower than expected in all tiers. |
+| ATACH 2 | Prospective, randomized, multicenter, open-label trial | Target SBP 110-140 or 140-179 mm Hg | 1000 | BP reduction to a target SBP of 110-139 mm Hg did not result in a lower rate of death or disability than a target of 140-179 mm Hg. The rate of renal adverse events within 7 days after randomization was significantly higher in the group with the lower BP target. |
+| Prehospital transdermal glyceryl trinitrate in patients with ultra-acute presumed stroke (RIGHT-2) | Prospective, multicentric, paramedic-delivered, ambulance-based, randomized, sham-controlled, blinded end-point | Transdermal nitroglycerin versus sham dressing | 1149 (597 with ischemic stroke, 145 with cerebral hemorrhage, 109 with transient ischemic attack, 297 with a nonstroke mimic) | Nitroglycerin did not lead to an improved outcome at 90 days. |
+
+BP, Blood pressure; CT, computed tomography; MAP, mean arterial blood pressure; SBP, systolic BP.

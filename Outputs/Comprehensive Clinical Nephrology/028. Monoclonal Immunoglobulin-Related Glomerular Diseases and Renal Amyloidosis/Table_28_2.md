@@ -1,0 +1,21 @@
+| Type | Acquired or Hereditary | Underlying Disorder | Precursor Protein | Organ Involvement: Kidneys | Organ Involvement: Heart | Organ Involvement: Liver | Organ Involvement: PN (AN) | Organ Involvement: Other | Treatment |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| AL, AH | Acquired | Plasma cell clone (usually MGR(C)S) | Monoclonal Ig LC, Monoclonal Ig heavy chain | +++ | +++ | ++ | +(+) | Soft tissue, GI | Chemotherapy ± anti-CD38 Mab, HDM/ASCT |
+| AA | Acquired | Chronic inflammatory disorders (infections, chronic arthritis, FMF, other periodic fever syndromes) | SAA | +++ | ± (late) | + (late) | — | GI, adrenal glands, thyroid | Suppression of inflammation, Anti-TNF and anti-IL1 agents, Colchicine |
+| ATTR | Acquired | Aging | Wild-type TTR | — | +++ | — | — | Carpal tunnel syndrome | Supportive treatment of heart failure, Tafamidis |
+| ATTR | Hereditary | Mutations in TTR gene | TTR variant | + | ++ | — | +++(+++) | Eye | Supportive treatment of heart failure, Tafamidis, RNA interference, Liver transplantation (in selected patients) |
+| Aβ2M | Acquired | Long-term dialysis | Wild-type Aβ2M | — | — | — | — | Arthropathy, Carpal tunnel | Efficient hemodialysis, renal transplant |
+| Aβ2M | Hereditary | Mutation in Aβ2M gene | Aβ2M variant | — | + | + | +(+) | GI, salivary glands, spleen, adrenal glands | Supportive |
+| ALECT2 | Acquired | Unknown | Wild-type Lect2 | +++ | — | ++ | — | — | Supportive |
+| Afib | Hereditary | Mutations in fibrinogen α chain gene | Fibrinogen Aα chain variant | +++ (glomerular) | — | ± | — | Spleen | Supportive, organ transplant |
+| Alys | Hereditary | Mutations in lysozyme gene | Lysozyme variant | + | — | ++ | — | GI, spleen, skin, salivary glands | Supportive |
+| AGel | Hereditary | Mutations in gelsolin gene | Gelsolin variant | ± | — | — | ++ cranial (-) | Eye, skin | Supportive |
+| AApoA1 | Hereditary | Mutations in apolipoprotein A1 gene | ApoA1 variant | ++ | + | ++ | ± (-) | Testis, larynx, skin, eye | Supportive, organ transplant |
+| AApoA2 | Hereditary | Mutations in apolipoprotein A2 gene | ApoA2 variant | +++ | — | — | — | — | Supportive |
+| AApoC2 | Hereditary | Mutations in apolipoprotein C2 gene | ApoC2 variant | +++ | — | — | — | — | Supportive |
+| AApoC3 | Hereditary | Mutations in apolipoprotein C3 gene | ApoC3 variant | +++ | — | + | — | GI, salivary glands, bronchial | Supportive |
+| ALm | Hereditary | Mutation in κ LC constant domain gene | Constant κ LC domain | +++ | + | + | — | GI, thyroid, pancreas | Supportive |
+
+AA, Amyloid A protein; AH, amyloid immunoglobulin heavy chain; AL, amyloid immunoglobulin light chain; AN, autonomic neuropathy; ASCT, autologous stem cell transplantation; ATTR, amyloid transthyretin; Aβ2M, amyloid β2-microglobulin; FMF, familial Mediterranean fever; GI, gastrointestinal; HDM, high-dose melphalan; IL, interleukin; LC, light chain; MGR(C)S, monoclonal gammopathy of renal (clinical) significance; PN, peripheral neuropathy; SAA, serum amyloid A protein; TNF, tumor necrosis factor; TTR, transthyretin.
+Modified from Wechalekar AD, Gillmore JD, Hawkins PN. Systemic amyloidosis. Lancet. 2016;387:2641–2654.
+

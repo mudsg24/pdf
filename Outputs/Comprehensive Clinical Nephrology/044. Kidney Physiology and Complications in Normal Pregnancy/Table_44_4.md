@@ -1,0 +1,34 @@
+| | |
+| :--- | :--- |
+| **Essential criteria** | >20 weeks' gestation and New hypertension: systolic BP ≥140 mm Hg or diastolic BP ≥90 mm Hg on two occasions |
+| **Additional criteria** | Proteinuria: |
+| | • uPCR >30 mg/mmol (≥0.3 mg/mg) |
+| | • >300 mg/24 h (not indicated if uPCR available) |
+| | • Dipstick >2+ (if other methods unavailable) |
+| | • uACR >8 mg/mmol (>70 mg/g) |
+| | Serum creatinine: |
+| | • An increase of serum creatinine to >1.0-1.1 mg/dL (>90-100 µmol/L)a |
+| | • Doubling of serum creatinine in pregnancy (even if new serum creatinine <1.1 mg/dL)a |
+| | Hematologic complications: |
+| | • Platelets <150 × 10⁹/La |
+| | • Hemolysis,a disseminated intravascular coagulationa |
+| | Liver complications: |
+| | • AST or ALT >40 U/L or double normal reference limita |
+| | • Epigastric/right upper quadrant pain (not attributable to alternate diagnosis)a |
+| | Neurologic complications: |
+| | • Eclampsiaa |
+| | • Altered mental statusa |
+| | • Blindness, persistent visual scotomataa |
+| | • Strokea |
+| | • Clonus |
+| | • New onset headache not attributable to alternate diagnosisa |
+| | Respiratory complications: |
+| | • Pulmonary edemaa |
+| | Uteroplacental dysfunction: |
+| | • Fetal growth restriction, abnormal umbilical artery |
+| | • Doppler waveform, stillbirth |
+
+Diagnosis requires one essential and one additional clinical feature for diagnosis.
+aSevere features.
+ALT, Serum alanine transferase; AST, serum aspartate transferase; BP, blood pressure; uACR, urinary albumin:creatinine ratio; uPCR, urinary protein:creatinine ratio.
+Modified from Brown MA, Magee LA, Kenny LC, et al; International Society for the Study of Hypertension in Pregnancy (ISSHP). Hypertensive disorders of pregnancy: ISSHP classification, diagnosis, and management recommendations for international practice. Hypertension. 2018;72:24–43; ACOG practice bulletin no. 202 summary: gestational hypertension and preeclampsia. Obstet Gynecol. 2019;133:211-214; and Wiles K, Chappell LC, Lightstone L, Bramham K. Updates in diagnosis and management of preeclampsia in women with CKD. Clin J Am Soc Nephrol. 2020;15:1371-1380.

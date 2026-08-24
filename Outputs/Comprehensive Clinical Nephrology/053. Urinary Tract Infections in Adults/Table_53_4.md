@@ -1,0 +1,16 @@
+| Drug | Dose (mg) | Frequency |
+| :--- | :--- | :--- |
+| **Continuous Prophylaxis** | | |
+| Nitrofurantoin | 50 or 100 | Daily |
+| TMP-SMX | 40/200 | Daily |
+| TMP-SMX | 40/200 | Three times weekly |
+| Trimethoprim | 100 | Daily |
+| Cefaclor | 250 | Daily |
+| Cefalexin (cephalexin) | 125 or 250 | Daily |
+| **Postcoital Prophylaxis** | | |
+| Nitrofurantoin | 50 or 100 | Single dose |
+| TMP-SMX | 40/200 | Single dose |
+| TMP-SMX | 80/400 | Single dose |
+| Cephalexin | 250 | Single dose |
+See text and Fig. 53.2 for management strategy.
+TMP-SMX, Trimethoprim-sulfamethoxazole.

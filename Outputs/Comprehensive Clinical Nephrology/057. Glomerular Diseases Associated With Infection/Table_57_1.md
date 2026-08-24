@@ -1,0 +1,11 @@
+| Mechanism | Representative Microorganism | Supportive Evidence |
+| :--- | :--- | :--- |
+| Circulating immune complexes | Streptococcus | Circulating antibodies against SPEB and NAPIr antigens |
+| In situ immune complex formation | Streptococcus | Identification of SPEB in subepithelial deposits in PSGN |
+| Nephritogenic antigen deposition with complement activation | Streptococcus | Glomerular deposition of NAPIr with plasmin activity |
+| Superantigen binding to APCs activates T cells and polyclonal B cells, inducing immunoglobulin production | Staphylococcus | Selective peripheral blood activation of TCR Vβ repertoire |
+| Direct kidney cell infection | HIV, parvovirus | Virus identification in glomerular epithelial cells |
+| Direct kidney cell injury | HBV | HBV induces mesangial cell proliferation and type IV collagen production in vitro |
+| Cryoglobulin production | HCV | IgM rheumatoid factor against the HCV E2 envelope protein |
+| Complement activation | Streptococcus | Low C3 levels, lectin deposits, serum antifactor B autoantibodies |
+APC, Antigen-presenting cell; HBV, hepatitis B virus; HCV, hepatitis C virus; HIV, human immunodeficiency virus; IgM, immunoglobulin M; NAPIr, nephritis-associated plasmin receptor; PSGN, poststreptococcal glomerulonephritis; SPEB, streptococcal pyrogenic exotoxin B.

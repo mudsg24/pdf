@@ -1,0 +1,13 @@
+| COR | LOE | Recommendations for Nonpharmacologic Intervention |
+| :-- | :-- | :--- |
+| 1 | A | Weight loss is recommended to reduce BP in adults with elevated BP or hypertension who are overweight or obese |
+| 1 | A | A heart-healthy diet, such as the DASH diet, that facilitates achieving a desirable weight is recommended for adults with elevated BP or hypertension |
+| 1 | A | Sodium reduction is recommended for adults with elevated BP or hypertension |
+| 1 | A | Potassium supplementation, preferably in dietary modification, is recommended for adults with elevated BP or hypertension unless contraindicated by the presence of CKD or use of drugs that reduce potassium excretion |
+| 1 | A | Increased physical activity with a structured exercise program is recommended for adults with elevated BP or hypertension |
+| 1 | A | Adult men and women with elevated BP or hypertension who currently consume alcohol should be advised to drink no more than two and one standard drinksa per day, respectively |
+| 1 | A | Complete cessation of smoking |
+
+aIn the United States, one standard drink contains roughly 14 g of pure alcohol, which is typically found in 360 mL (12 fl oz) of regular beer (usually about 5% alcohol), 150 mL (5 fl oz) of wine (usually about 12% alcohol), and 45 mL (1.5 fl oz) of distilled spirits (usually about 40% alcohol).
+BP, Blood pressure; CKD, chronic kidney disease; COR, class (strength) of recommendation; DASH, Dietary Approaches to Stop Hypertension; LOE, level of evidence.
+Modified from Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Hypertension. 2018;71(6):1269-1324.

@@ -1,0 +1,12 @@
+| Class | Definition | Urine Findings | Clinical Findings |
+| :--- | :--- | :--- | :--- |
+| I: Minimal mesangial LN | Normal glomeruli by LM but mesangial immune deposits by IF | Usually unremarkable | None relevant to kidney; excellent kidney prognosisa |
+| II: Mesangial proliferative LN | Mesangial hypercellularity (4 or more nuclei fully surrounded by matrix in the mesangial area excluding the hilar region) with mesangial immune deposits | Microscopic hematuria; proteinuria, if present, is usually low grade | Preserved kidney function; hypertension infrequent; excellent kidney prognosisa |
+| III: Focal LN | Segmental or global, active endocapillary or extracapillary, or inactive glomerulonephritis affecting <50% of glomeruli with mesangial and subendothelial immune deposits | Microscopic hematuria; proteinuria | Hypertension possible; kidney failure and nephrotic syndrome not unusual; variable kidney prognosis |
+| IV: Diffuse LN | Segmental or global active endocapillary or extracapillary, or inactive glomerulonephritis affecting ≥50% of glomeruli with mesangial and subendothelial immune deposits | Microscopic hematuria; proteinuria | Hypertension; kidney failure and nephrotic syndrome frequent; variable kidney prognosis |
+| V: Membranous LN | Glomerular basement membrane thickening with subepithelial and mesangial immune deposits; can occur alone or in combination with class III or IV | High-grade proteinuria; microscopic hematuria possible | Anti-PLA2R antibody negative; preserved kidney function; nephrotic syndrome common; kidney prognosis gooda |
+| VI: Advanced sclerosing LN | ≥90% of glomeruli globally sclerosed without residual disease activity | Microscopic hematuria; proteinuria not unusual | Kidney failure expected |
+
+aAs long as there is no transformation to a proliferative class.
+IF, Immunofluorescence microscopy; ISN/RPS, International Society of Nephrology/Renal Pathology Society; LM, light microscopy; LN, lupus nephritis.
+

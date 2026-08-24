@@ -1,0 +1,18 @@
+**24-Hour Urine Values**
+| | |
+| :--- | :--- |
+| Volume | >2-2.5L |
+| Calcium | <4 mg/kg (0.1 mmol/kg), ~300 mg (7.5 mmol) in men, ~250 mg (6.3 mmol) in women |
+| Oxalate | <40 mg (0.36 mmol) |
+| Uric acid | <750 mg (4.5 mmol) in women and <800 mg (4.7 mmol) in men (can be pH dependent) |
+| Citrate | >320 mg (17 mmol) |
+| Sodium | <2000 mg (87 mmol) |
+| Phosphorus | <1100 mg (35 mmol) |
+| Creatinine | >10mg/kg (88 µmol/kg) in women and >15 mg/ kg (132 µmol/kg) in men, if specimen is a complete collection |
+
+**Urine Supersaturation Values**
+| | |
+| :--- | :--- |
+| Calcium oxalate supersaturation | <5 |
+| Calcium phosphate supersaturation | 0.5-2 |
+| Uric acid supersaturation | 0-1 |

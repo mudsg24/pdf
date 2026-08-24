@@ -1,0 +1,29 @@
+,Inheritance,Gene,Protein,OMIM
+**Thick Ascending Limb**,,,,
+Bartter type 1,AR,SLC12A1,NKCC2,#600839
+Bartter type 2,AR,KCNJ1,ROMK,#600359
+Bartter type 3,AR,CLCNKB,CLC-Kb,#602023
+Bartter type 4a,AR,BSND,Barttin,#606412
+Bartter type 4b,Digenic,CLCNKA+CLCNKB,CLC-Ka+CLC-Kb,#602024
+Bartter type 5,XR,MAGED2,MAGED2,#601199
+Autosomal dominant hypocalcemia,AD,CaSR,Calcium-sensing receptor,#601198
+**Distal Convoluted Tubule**,,,,
+Gitelman syndrome,AR,SLC12A3,NCCT,#600968
+EAST/SeSAME syndrome,AR,KCNJ10,Kir4.1,#602028
+PHA type 2b,AD,WNK4,WNK4,#601844
+PHA type 2c,AD,WNK1,WNK1,#605232
+PHA type 2d,AD/AR,KLHL3,KLHL3,#614495
+PHA type 2e,AD,CUL3,CUL3,#614496
+**Collecting Duct**,,,,
+PHA type 1,AR,SCNN1A,ENaCα subunit,#600228
+PHA type 1,AR,SCNN1B,ENaCβ subunit,#600760
+PHA type 1,AR,SCNN1G,ENaCγ subunit,#600761
+PHA type 1A,AD,NR3C2,MR,#600983
+Liddle syndrome,AD,SCNN1B,ENaCβ subunit,#600760
+Liddle syndrome,AD,SCNN1G,ENaCγ subunit,#600761
+AME,AR,HSD11B2,11-β-HSD2,#614232
+GRA,AD,CYP11B1/CYP11B2,11-β-hydroxylase,#610613
+NDI,XLR,AVPR2,AVPR2,#300538
+NDI,AR/AD,AQP2,AQP-2,#107777
+NSIAD,XLR,AVPR2,V2R,#300538
+NSIAD,AD,GNAS,G-α s,

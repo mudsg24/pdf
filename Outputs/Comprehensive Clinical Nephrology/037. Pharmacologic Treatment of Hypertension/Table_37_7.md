@@ -1,0 +1,14 @@
+| Pharmacologic Therapy | CONTRAINDICATIONS | |
+| :--- | :--- | :--- |
+| | **Compelling** | **Possible** |
+| Thiazide diuretics | Gout | Metabolic syndrome, Glucose intolerance, Pregnancy |
+| β-Blockers | AV block (grade 2 or 3) | Peripheral artery disease, Metabolic syndrome, Glucose intolerance, Athletes, physically active patients, COPD, Asthma (use cardioselective β-blocker) |
+| Calcium antagonists (dihydropyridines) | | Tachyarrhythmias, Heart failure |
+| Calcium antagonists (verapamil, diltiazem) | AV block (grade 2 or 3), Heart failure, β-Blocker therapy | |
+| ACE inhibitors | Pregnancy, Angioneurotic edema, Hyperkalemia, Bilateral renal artery stenosis | |
+| ARBs | Pregnancy, Hyperkalemia, Bilateral renal artery stenosis | |
+| Diuretics (antialdosterone) | Hyperkalemia | CKD stages 4 and 5a |
+| Direct renin inhibitors | Pregnancy, Hyperkalemia, Bilateral renal artery stenosis | |
+
+aUse only low doses and with extreme caution with respect to potassium levels in patients with advanced CKD.
+ACE, Angiotensin-converting enzyme; ARB, angiotensin receptor blocker; AV, atrioventricular; BP, blood pressure; CKD, chronic kidney disease; COPD, chronic obstructive pulmonary disease.

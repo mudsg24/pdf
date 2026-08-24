@@ -1,0 +1,17 @@
+| Therapy | Dosing | Efficacy |
+| :--- | :--- | :--- |
+| **Immunosuppressives** | | |
+| Prednisone | 200 mg tapered to 60 mg/day, then 5 mg reduction per wk | Probably effective in addition to plasma exchange in patients with TTP and anti-ADAMST13 autoantibodies or in aHUS with anti-factor H autoantibodies and in forms associated with autoimmune diseases. Lack of evidence from controlled trials in immune-mediated HUS or TTP. |
+| Prednisolone | 200 mg, tapered to 60 mg/day, then 5 mg reduction per wk | |
+| Immunoglobulins | 400 mg/kg/day | |
+| CD20 cell depleting antibody (rituximab) | 375 mg/m²/wk up to CD20 and/or CD19 cell depletion | Effective in treatment or prevention of TTP associated with immune-mediated ADAMTS13 deficiency resistant to or relapsing after immunosuppressive therapy. |
+| **Fresh frozen plasma** | | |
+| Exchange | 1-2 plasma volumes/day | First-line therapy in TTP. Unproven efficacy in childhood STEC-HUS. Possibly effective in aHUS if eculizumab is not available. |
+| Infusion | 20-30 mL/kg followed by 10-20 mL/kg/day | To be considered if plasma exchange is not available. |
+| Cryosupernatant | See plasma infusion/exchanges | To replace whole plasma in case of resistance to plasma infusion or sensitization. |
+| Solvent-detergent-treated plasma | See plasma infusion/exchanges | To limit the risk for infections. |
+| Caplacizumab | 10-11 mg IV loading dose, then 10-11 mg SC daily combined with plasma exchange and immunosuppression | Reported efficacy in acquired TTP. |
+| Liver-kidney transplant | Perioperative plasma infusion/exchange and eculizumab | To prevent CFH-associated HUS recurrence posttransplant; about 20% mortality risk. |
+| Complement inhibition (eculizumab) | 900 mg/wk for the first 4 wk. 1200 mg every 14 days up to 6 mo in adults and children with body weight >40 kg. In smaller children the dose is adjusted on the basis of body weight. | First-line therapy in primary aHUS. |
+
+aHUS, Atypical hemolytic uremic syndrome (HUS); CFH, complement factor H; IV, intravenous; SC, subcutaneous; STEC-HUS, Shiga toxin-producing Escherichia coli-associated HUS; TTP, thrombotic thrombocytopenic purpura.

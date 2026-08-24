@@ -1,0 +1,11 @@
+| Drug | Dose (mg) | Interval | Comment |
+| :--- | :--- | :--- | :--- |
+| Fluoroquinolones | | | Preferred for empiric treatment; avoid if possible in pregnancy, nursing mothers, or persons younger than 18 years of age. |
+| Ciprofloxacin | 500 | q12h | |
+| Ciprofloxacin extended release | 1000 | q24h | |
+| Levofloxacin | 250-750 | q24h | |
+| Trimethoprim-sulfamethoxazole | 160/800 | q12h | Use only when the causative pathogen is known to be susceptible. If used in pregnancy (not approved use), avoid in first trimester. |
+| Cefpodoxime proxetil | 200 | q12h | Data are sparse; use only when the causative pathogen is known to be susceptible. |
+| Amoxicillin-clavulanate | 500/125-875/125 | q12h | Use only when the causative pathogen is known to be susceptible or in addition to a broad-spectrum agent when empiric coverage against enterococci is desirable. |
+aA long-acting parenteral antibiotic should be given concomitantly if there are concerns about drug resistance.
+bDuration depends on clinical setting (see text and Fig. 53.5).

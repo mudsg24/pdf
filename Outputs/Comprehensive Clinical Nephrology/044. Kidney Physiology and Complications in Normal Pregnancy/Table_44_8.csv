@@ -1,0 +1,19 @@
+Gestation,Diagnosis,Clinical Features
+Early,Hyperemesis gravidarum,"Nausea, vomiting, ptyalism"
+,Septic abortion/miscarriage,"Abdominal pain, vaginal bleeding, hypotension"
+,Acute retention,Retroflexed uterus
+Mid-late,Preeclampsia/HELLP,New-onset hypertension after 20 weeks' gestation plus evidence of maternal endothelial dysfunction and/or uteroplacental dysfunction
+,Ureteral obstruction,"Increased risk if single kidney (including transplant), autonomic neuropathy, polyhydramnios, multiple pregnancy, obstructed labor"
+,Placental abruption,"Vaginal bleeding, abdominal pain, uterine tenderness"
+,AFLP,"Vomiting, polydipsia, jaundice, elevated transaminases, hypoglycemia"
+,Microangiopathic hemolytic anemia (TTP/HUS),"Hemolysis and end organ damage including kidney failure, neurologic symptoms, heart disease"
+Peripartum,Chorioamnionitis,"Tachycardia, fever, uterine tenderness, abnormal lochia, prolonged rupture of membranes"
+,Postpartum hemorrhage,Hemodynamic instability
+,Ureteric injury,"Operative delivery, fever, leucocytosis, pain, persistent ileus"
+,NSAIDs,"Hyperkalemia, exacerbation of hypertension, fluid retention"
+Any,Urosepsis,"Dysuria, back or flank pain, renal angle tenderness, hypotension"
+,Lupus nephritis,"Proteinuria ± hematuria, malaise, joint pain, hair loss, rash, pancytopenia"
+,Glomerulonephritis,uPCR >30 mg/mmol or uACR >8 mg/mmol before 20 weeks warrants nephrology referral
+,Interstitial nephritis,"New drug exposure including antibiotics, NSAID, proton pump inhibitors, H₂ antagonists; systemic signs can include rash and fever"
+,Kidney stone disease,Renal colic; increased risk of AKI if single kidney
+,Intravascular volume depletion,"Sepsis, vomiting, cardiac failure, DKA"

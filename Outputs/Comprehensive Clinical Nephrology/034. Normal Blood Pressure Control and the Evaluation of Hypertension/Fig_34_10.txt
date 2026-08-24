@@ -1,0 +1,1 @@
+Fig. 34.10 Algorithm for diagnosis of hypertension using clinic, home, and/or ambulatory monitoring of blood pressure (BP).

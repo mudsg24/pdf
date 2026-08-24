@@ -1,0 +1,16 @@
+Age (y),Criteria,PPV,NPV
+**Original Ravine's PKD1 Diagnostic Criteria**,,,
+15-29,"≥2 cysts, unilateral or bilateral",99,88
+30-39,≥2 cysts in each kidney,100,88
+40-59,≥2 cysts in each kidney,100,95
+≥60,≥4 cysts in each kidney,100,100
+**Revised Unified Diagnostic Criteria**,,,
+15-29,"≥3 cysts, unilateral or bilateral",100,86
+30-39,"≥3 cysts, unilateral or bilateral",100,86
+40-59,≥2 cysts in each kidney,100,95
+≥60,≥4 cysts in each kidney,100,100
+**Revised Diagnostic Criteria (when diagnosis needs to be excluded)**,,,
+15-29,≥1 cyst,97,91
+30-39,≥1 cyst,94,98
+40-59,≥2 cysts,97,100
+≥60,≥3 cysts in each kidney,100,100

@@ -1,0 +1,24 @@
+| Advantages | Disadvantages |
+| :--- | :--- |
+| **Acute Ischemic Stroke** | |
+| Might lower mortality | BP decreases on its own |
+| Might decrease stroke progression | No proven benefit |
+| Might decrease hemorrhagic transformation (especially after tPA) | Ongoing ischemia around infarct (ischemic penumbra) |
+| Might decrease cerebral edema formation | Altered autoregulation from chronic hypertension, ischemia |
+| Might be helpful for systemic reasons (e.g., associated myocardial ischemia) | Large-vessel stenosis might have resulted in reduction of perfusion |
+| Patients likely to be more compliant with antihypertensive use if treatment initiated in hospital | Chance of propagating thrombus |
+| | Anecdotal case reports and trial results demonstrating deterioration with BP decrease |
+| | Principle of "do no harm" (primum non nocere) |
+| **Acute Intracerebral Hemorrhage** | |
+| Might lower mortality | BP decreases on its own |
+| Might decrease hematoma expansion | No proven benefit |
+| Might decrease cerebral edema formation | Possible zone of ischemia around intracerebral hematoma |
+| Might be helpful for systemic reasons (e.g., associated myocardial ischemia) | Chronically hypertensive patients require higher CPP because of shift in autoregulatory curve |
+| Patients likely to be more compliant with antihypertensive use if treatment initiated in hospital | ICP may be elevated, and lowering BP reduces what could be marginal CPP |
+| | Principle of "do no harm" (primum non nocere) |
+| **Aneurysmal Subarachnoid Hemorrhage** | |
+| Might decrease rebleeding rate | No proven benefit |
+| Might help if there is cardiac ischemia (stunned myocardium) | ICP may be elevated, and lowering BP reduces what could be marginal CPP |
+| | Might lead to cerebral ischemia in presence of vasospasm |
+
+BP, Blood pressure; CPP, cerebral perfusion pressure; ICP, intracranial pressure; tPA, tissue plasminogen activator.

@@ -1,0 +1,8 @@
+| Patient Factors | Secondary Causes of Resistant Hypertension | Concomitant Medications That May Raise BP | Causes of "Pseudoresistant Hypertension" |
+| :--- | :--- | :--- | :--- |
+| **Demographics**<br>Older age, especially >75 y<br>Obesity<br>Women > men<br>More common in Blacks<br>Excess dietary sodium<br>High baseline BP and chronicity of uncontrolled hypertension | **Common causes**<br>Primary hyperaldosteronism (Conn adenoma)<br>Atherosclerotic renovascular disease<br>Sleep apnea<br>CKD | **Prescription**<br>Oral contraceptives<br>NSAIDs<br>Sympathomimetics (e.g., decongestants in cold remedies)<br>Cyclosporine<br>Erythropoietin<br>Corticosteroids (e.g., prednisone, hydrocortisone) | **Poor patient adherence to medications**<br>Check BP response to directly observed medication |
+| **Concomitant Disease**<br>Target organ damage: LVH or CKD<br>Diabetes<br>Atherosclerotic vascular disease<br>Aortic stiffening | **Uncommon Causes**<br>Pheochromocytoma<br>Aortic coarctation<br>Cushing disease<br>Hyperparathyroidism | **Nonprescription**<br>Drug abuse (e.g., cocaine, amphetamines)<br>Excess licorice ingestion<br>Herbal remedies (e.g., ephedra, also known as ma huang) | **Errors in BP Measurement**<br>Including BP cuff too small for arm circumference<br>**White coat hypertension**<br>Check BP with ABPM or home BP measurements |
+
+ABPM, Ambulatory blood pressure monitoring; BP, blood pressure; CKD, chronic kidney disease; LVH, left ventricular hypertrophy; NSAIDs, nonsteroidal antiinflammatory drugs.
+Modified from Williams B. Resistant hypertension: an unmet treatment need. Lancet. 2009;374:1396–1398.
+

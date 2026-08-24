@@ -1,0 +1,14 @@
+Clinical Condition(s),Threshold (mmHg),Goal (mmHg)
+**General**,,
+Clinical CVD or 10-year ASCVD risk ≥10%,≥130/80,<130/80
+No clinical CVD and 10-year ASCVD risk <10%,≥140/90,<130/80
+"Older persons (≥65 years; noninstitutionalized, ambulatory, community-living adults)",≥130 systolic,<130 systolic
+**Specific Comorbidities**,,
+Diabetes mellitus,≥130/80,<130/80
+CKD,≥130/80,<130/80
+CKD after kidney transplantation,≥130/80,<130/80
+Heart failure,≥130/80,<130/80
+Stable ischemic heart disease,≥130/80,<130/80
+Secondary stroke prevention,≥140/80,<130/80
+Secondary stroke prevention (lacunar),≥130/80,<130/80
+Peripheral arterial disease,≥130/80,<130/80

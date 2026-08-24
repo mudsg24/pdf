@@ -1,0 +1,29 @@
+| Inheritance | Gene | Associated Phenotype |
+| :--- | :--- | :--- |
+| Autosomal recessive | CHRM3 | Prune-belly like syndrome |
+| | FRAS1 | Fraser syndrome, kidney agenesis |
+| | FREM1 | Bifid nose, kidney agenesis |
+| | FREM2 | Fraser syndrome, kidney agenesis |
+| | GFRA1 | Bilateral kidney agenesis |
+| | GRIP1 | Fraser syndrome, kidney agenesis |
+| | HPSE2 | Urofacial syndrome, neurogenic bladder |
+| | ITGA8 | Bilateral kidney agenesis |
+| | LRIG2 | Urofacial syndrome, neurogenic bladder |
+| | TRAP1 | VACTERL |
+| Autosomal dominant | BNC2 | Congenital lower urinary tract obstruction/PUV |
+| | EYA1 | Branchio-oto-renal syndrome |
+| | GATA3 | HDR syndrome |
+| | GLI3 | Pallister-Hall syndrome |
+| | GREB1L | Kidney agenesis |
+| | HNF1B | Kidney cysts and diabetes syndrome |
+| | PAX2 | Renal-coloboma syndrome, FSGS |
+| | PBX1 | Kidney hypodysplasia |
+| | RET | Kidney agenesis |
+| | SALL1 | Townes-Brocks syndrome, kidney hypodysplasia |
+| | SIX5 | Branchio-oto-renal syndrome |
+| | TBX18 | PUJO |
+| | ZMYM2 | Syndromic CAKUT |
+| X-linked recessive | ANOS1 | Kallmann syndrome, kidney agenesis |
+
+CAKUT, Congenital anomalies of the kidney and urinary tract; FSGS, focal segmental glomerulosclerosis; HDR, hypoparathyroidism, sensorineural deafness, and kidney disease; PUJO, pelvi-ureteral junction obstruction; PUV, posterior urethral valves; VACTERL, vertebral defects, anal atresia, cardiac defects, tracheo-esophageal fistula, renal (kidney) anomalies, and limb anomalies.
+

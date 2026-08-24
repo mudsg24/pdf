@@ -1,0 +1,14 @@
+| Manifestation | Prevalence (%) |
+| :--- | :--- |
+| Proteinuria | 100 |
+| Nephrotic syndrome | 45-65 |
+| **Hematuria** | |
+| Microscopic | 80 |
+| Gross | 1-2 |
+| Red blood cell casts | 10 |
+| Cellular casts | 30 |
+| Reduced kidney function | 40-80 |
+| Rapidly progressive glomerulonephritis | 10-20 |
+| Acute kidney injury | 1-2 |
+| Hypertension | 15-50 |
+| Hyperkalemia | 15 |

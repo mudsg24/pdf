@@ -1,0 +1,9 @@
+| Therapy | Recommendation |
+| :--- | :--- |
+| Prednisolone | 1 mg/kg/24 hr orally. Reduce at weekly intervals to achieve one-sixth of this dose by 8 wk. For a starting daily dose of 60 mg, use weekly reductions to 45, 30, 25, 20, and 15mg; then alternate weekly reductions to 12.5 and 10mg. Maintain this dose to 3 months; then taper to stop by 4 months. |
+| Cyclophosphamide | 3 mg/kg/24 h orally, rounded down to the nearest 50 mg. Patients >55 years receive a reduced dose of 2.5 mg/kg. Discontinue after 3 months. |
+| Plasma exchange | Daily exchange of 1 volume of plasma for 5% human albumin for 14 days or until the circulating antibody is suppressed. In the presence of pulmonary hemorrhage or within 48 hours of invasive procedure, 300-400 mL of fresh-frozen plasma is given at end of each treatment or according to coagulation tests. |
+| Monitoring | Daily blood count during plasma exchange and while antibody titer remains elevated. At least twice weekly during first month, weekly thereafter. If white blood cell count decreases to <3.5 × 109/L, stop cyclophosphamide until the count recovers. Resume at lower dose if cessation has been necessary. Baseline DLco, with further measurements as indicated. Daily coagulation tests during plasma exchange to monitor for significant depletion of clotting factors. Initially, daily checks of kidney and hepatic function and glucose. |
+| Prophylaxis against complications of treatment | Oral antifungal lozenges or rinse; proton pump inhibitor. Cotrimoxazole prophylaxis against Pneumocystis jirovecii. Avoid nonessential lines and catheters. |
+
+DLCO, Diffusing capacity of lung for carbon monoxide.

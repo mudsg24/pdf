@@ -1,0 +1,14 @@
+| Infection | Treatment | Other/Alternative Therapy |
+| :--- | :--- | :--- |
+| **Asymptomatic candiduria** | Urologic surgery | Treat a few days before and after the procedure with fluconazole 200-400 mg/day PO or amphotericin B deoxycholate 0.3-0.6 mg/kg/day IV |
+| | Low-birthweight infant | Treat as for disseminated candidiasis/candidemia with fluconazole 12 mg/kg/day |
+| | Neutropenic patient | Treat as for disseminated candidiasis/candidemia with an echinocandin |
+| **Cystitis** | Preferred: fluconazole 200 mg/day PO × 14 daysa | Alternatives include amphotericin B deoxycholate 0.3-0.6 mg/kg/day IV × 1-7 days or flucytosine 25 mg/kg q6h PO × 7-10 daysb |
+| **Pyelonephritis** | Preferred: fluconazole 200-400 mg/day PO × 14 days | Alternatives include amphotericin B deoxycholate 0.3-0.6 mg/kg/day IV × 1-7 days with or without flucytosine 25 mg/kg q6h PO or flucytosine 25 mg/kg q6h PO × 14 days |
+| **Kidney (hematogenous)** | Treat as for disseminated candidiasis/candidemia with an echinocandin or fluconazole | — |
+| **Fungus balls** | Surgical removal plus fluconazole 200-400 mg/day PO until resolved | Alternatives include surgical removal plus amphotericin B deoxycholate 0.3-0.6 mg/kg/day IV with/without flucytosine 25 mg/kg q6h PO Irrigation through nephrostomy tube with amphotericin B deoxycholate 25-50 mg in 200-500 mL sterile water |
+| **Prostatitis Epididymo-orchitis** | Surgical drainage plus fluconazole 400 mg/day PO until resolution noted on imaging studies | Alternatives include surgical drainage plus amphotericin B deoxycholate 0.3-0.6 mg/kg/day IV |
+
+aFluconazole dosage in kidney failure: creatinine clearance (CrCl) 20 to 50 mL/min, reduce dose by 50%; CrCl <20 mL/min, reduce dose by 75%.
+bFlucytosine dosage in kidney failure: CrCl 20 to 40 mL/min, reduce dose to 25 mg/kg q12h; CrCl <20 mL/min, reduce dose to 25 mg/kg q24h.
+IV, Intravenous; PO, orally; q6h, every 6 hours.

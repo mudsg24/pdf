@@ -1,0 +1,10 @@
+| | |
+| :--- | :--- |
+| **Genetic** | Family history Polymorphisms (adducin, endothelial nitric oxide synthase, angiotensinogen, β2-adrenoceptor, human G protein β3 subunit) |
+| **Congenital** | Low birthweight, low nephron number, maternal hypertension, maternal preeclampsia, maternal malnutrition |
+| **Physical** | Obesity, older age, African American, African Caribbean, some Bantu-speaking peoples in Africa, increased heart rate (>83 beats/min), increased emotional stress |
+| **Diet/toxin** | Increased sodium intake, low potassium intake, low dairy products intake, heavy alcohol intake, high intake of added sugars, low level lead or cadmium intoxication |
+| **Metabolica** | Elevated serum uric acid, insulin resistance, elevated hematocrit |
+| **Other** | Low socioeconomic status, urban versus rural residence |
+
+aLaboratory-based parameters.

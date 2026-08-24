@@ -1,0 +1,9 @@
+| | Factors Favoring | Factors Against |
+| :--- | :--- | :--- |
+| Pulmonary hemorrhage | Present | Absent |
+| Oliguria | Absent | Present |
+| Creatinine | <5.5 mg/dL (~500 μmol/L) | >5.5-6.5 mg/dL (~500-600 μmol/L) and ANCA negative |
+| Other factors | Creatinine >5.5-6.5 mg/dL (~500-600 µmol/L) but rapid and recent progression, ANCA positive, Glomerular damage less severe than expected, Crescents recent, nonfibrous, Early kidney transplantation desired | Severe damage on kidney biopsy, No desire for early kidney transplantation |
+| Associated disease | Absent | Unusually high risk from immunosuppression |
+
+ANCA, Antineutrophil cytoplasmic antibody.

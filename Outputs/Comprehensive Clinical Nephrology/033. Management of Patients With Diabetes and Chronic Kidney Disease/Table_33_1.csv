@@ -1,0 +1,20 @@
+Class,Drug,CKD1 and 2: eGFR >60 mL/min/1.73 m2,CKD3a: eGFR 45–59 mL/min/1.73 m2,CKD3b: eGFR 30–44 mL/min/1.73 m2,CKD4: eGFR 15–29 mL/min/1.73 m2,CKD5: eGFR <15 mL/min/1.73 m2 or Dialysis
+Biguanides,Metformin IR,No adjustment,No adjustment,850 mg or 1000 mg once daily,Avoid,Avoid
+,Metformin ER,No adjustment,No adjustment,1000 mg once daily,Avoid,Avoid
+SGLT-2i,Canagliflozin,No adjustment,100 mg once daily,100 mg once daily,Avoid initiation,Avoid
+,Dapagliflozin,No adjustment,No adjustment,No adjustment,Avoid initiation with eGFR <25 mL/min/1.73 m2a,Avoid
+,Empagliflozin,No adjustment,No adjustment,No adjustment,Avoid initiation with eGFR <20 mL/min/1.73 m2a,Avoid
+Incretin mimetics (GLP-1 receptor agonists),Exenatide IR,No adjustment,No adjustment,No adjustment,Avoid,Avoid
+,Exenatide ER,No adjustment,No adjustment,Avoid,Avoid,Avoid
+,Dulaglutide,No adjustment,No adjustment,No adjustment,No adjustment,Avoid
+,Semaglutide (injection or oral),No adjustment,No adjustment,No adjustment,Limited experience,Limited experience
+,Liraglutide,No adjustment,No adjustment,No adjustment,Limited experience,Limited experience
+Gliptins (DPP-4 inhibitors),Linagliptin,No adjustment,No adjustment,No adjustment,No adjustment,No adjustment
+,Sitagliptin,No adjustment,No adjustment,50 mg once daily,25 mg once daily,25 mg once daily
+,Saxagliptin,No adjustment,No adjustment,2.5 mg once daily,2.5 mg once daily,2.5 mg once daily
+Thiazolidinediones,Pioglitazone,No adjustment,No adjustment,No adjustment,No adjustment,No adjustment
+Sulfonylureas,Gliclazide,40 mg once daily,40 mg once daily,40 mg once daily,40 mg once daily,Avoid
+,Glipizide,No adjustment,20 mg once daily,20 mg once daily,20 mg once daily,Avoid
+,Glimepiride,No adjustment,1 mg once daily,1 mg once daily,1 mg once daily,Avoid
+Meglitinides,Repaglinide,No adjustment,No adjustment,No adjustment,No adjustment,Limited experience
+α-Glucosidase inhibitors,Acarbose,No adjustment,No adjustment,No adjustment,Avoid,Avoid
