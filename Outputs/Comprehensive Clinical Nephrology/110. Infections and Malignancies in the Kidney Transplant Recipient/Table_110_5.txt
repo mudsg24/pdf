@@ -1,0 +1,3 @@
+TABLE 110.5 Meta-Analysis Standardized Incidence Ratios (SIRs) for Cancers Related to Infections in Transplant Recipients
+EBV, Epstein-Barr virus; HBV, hepatitis B virus; HCV, hepatitis C virus; HHV, human herpes virus; HPV, human papilloma virus; SIR, standardized incidence ratio.
+Modified from McCaughan JA, Courtney AE. The clinical course of kidney transplant recipients after 20 years of graft function. Am J Transplant. 2015;15(3):734–740.

@@ -1,0 +1,9 @@
+| Risk Factors | Comments |
+| :--- | :--- |
+| • Pretransplant EBV seronegative and primary EBV infection | • Well-established risk factor |
+| • Young recipient age (children compared with adults) | • Higher incidence of PTLD in children compared with adults has been attributed to pretransplant EBV-naive status in pediatric population |
+| PTLD incidence by type of organ transplant:<br>• Small bowel and multiviscera (up to 33%)<br>• Lung, heart, and heart-lung (2%-10%)<br>• Pancreas or simultaneous kidney-pancreas (2%-3%)<br>• Liver (1%-4%)<br>• Kidney (1%-2%) | • More intensive immunosuppression and the amount of donor-derived lymphoid tissue transferred at organ transplantation may account for a high incidence of PTLD in multiorgan and bowel transplantation |
+| Type of immunosuppression:<br>• Belatacept (increased risk in pretransplant EBV seronegative recipients)<br>• Lymphocyte-depleting agents (antithymocyte globulin > alemtuzumab)<br>• CNIs<br>• mTOR inhibitors (inconclusive or contradictory data)<br>• Antimetabolites (inconsistent data) | • Belatacept use is contraindicated in patients with pretransplant EBV-seronegative or unknown EBV status<br>• Overall intensity of induction and maintenance therapy may play a more important role than any single agent<br>• Duration of immunosuppression |
+| • Others (less well-established or controversial): HLA matching/HLA type, Black ethnicity, male sex, CMV infection/disease, HCV, pretransplant malignancy, HHV-8 and simian virus 40 infections, preexisting chronic immune stimulation, recipient MGUS | • 2 DR mismatches compared with 0-1 DR mismatch |
+
+CMV, Cytomegalovirus; CNI, calcineurin inhibitor; EBV, Epstein-Barr virus; DR, donor-recipient; HCV, hepatitis C virus; HHV, human herpesvirus; HLA, human leukocyte antigen; MGUS, monoclonal gammopathy of undetermined significance; mTOR, mammalian target of rapamycin; PTLD, posttransplantation lymphoproliferative disorder.

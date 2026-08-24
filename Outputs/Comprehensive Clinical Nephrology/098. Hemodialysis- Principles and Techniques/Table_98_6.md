@@ -1,0 +1,6 @@
+| | Conventional | Short Daily | Nocturnal | Low Dialysate Flow Systems |
+| :--- | :--- | :--- | :--- | :--- |
+| Treatments per week | 3 | 6 | 5-6 | 6 |
+| Treatment time (hours) | 4 | 2-3 | 6-8 | 2.5-3.5 |
+| Blood flow rate (mL/min) | 400 | 400 | 200 | 400 |
+| Dialysate flow rate (mL/min) | 500 | 800 | 300 | 130 |

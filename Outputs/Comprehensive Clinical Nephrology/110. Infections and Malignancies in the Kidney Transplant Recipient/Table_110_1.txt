@@ -1,0 +1,6 @@
+TABLE 110.1 Recommended Immunizations Before and After Transplantation
+aLive attenuated nasal influenza vaccine has been removed from the US market.
+bIf possible, patients being treated for or recently treated for allograft rejection should avoid vaccinations until 3 months after treatment to ensure optimal immune response. However, vaccination should not be delayed if such delay represents more of a risk than the risk of impaired response. All transplant recipients over age 65 years should receive the high-dose vaccine where available.
+cVaccines available in the United States: mRNA (Pfizer-BioNTech, Moderna), protein-based (Novavax), replication defective adenovirus vector (Johnson & Johnson’s Janssen).
+dThe US Centers for Disease Control and Prevention recommend that the Janssen vaccine only be considered in certain situations due to safety concerns (last updated August 2022).
+AST, American Society of Transplantation; DPT, diphtheria, pertussis, tetanus; HPV, human papillomavirus; MMR, measles, mumps, rubella; PCV, pneumococcal conjugate vaccine; PPSV, pneumococcal polysaccharide vaccine; SARS-CoV-2, severe acute respiratory syndrome coronavirus 2.

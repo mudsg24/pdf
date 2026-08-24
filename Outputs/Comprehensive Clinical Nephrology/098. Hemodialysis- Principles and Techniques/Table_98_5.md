@@ -1,0 +1,36 @@
+| Free Water-Soluble Low-Molecular-Weight Solutes | MW (Da) | Protein-Bound Solutes | MW (Da) | Middle Molecules | MW (Da) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Guanidines** | | **AGEs** | 162 | **Cytokines** | 32,000 |
+| ADMA | 202 | 3-Deoxyglucosone | | Interleukin-1β | |
+| Argininic acid | 175 | Fructoselysine | 308 | Interleukin-6 | 24,500 |
+| Creatinine | 113 | Glyoxal | 58 | Tumor necrosis factor-α | 26,000 |
+| Guanidine | 59 | Pentosidine | 342 | **Peptides** | |
+| Methylguanidine | 73 | **Hippurate** | | Adrenomedullin | 5,729 |
+| | | Hippuric acid | 179 | ANP | 3,080 |
+| **Peptide** | | **Indoles** | | β2-Microglobulin | 11,818 |
+| β-Lipotropin | 461 | Indoxyl sulfate | 251 | β-Endorphin | 3,465 |
+| **Polyols** | | Melatonin | 126 | Cholecystokinin | 3,866 |
+| Erythritol | 122 | Quinolinic acid | 167 | Cystatin C | 13,300 |
+| Myoinositol | 180 | **Phenols** | | Delta sleep-inducing peptide | 848 |
+| Sorbitol | 182 | Hydroquinone | 110 | Hyaluronic acid | 25,000 |
+| Threitol | 122 | p-Cresol | 108 | Leptin | 16,000 |
+| **Purines** | | Phenol | 94 | Neuropeptide Y | 4,572 |
+| Cytidine | 234 | **Polyamines** | | PTH | 9,225 |
+| Hypoxanthine | 136 | Putrescine | 88 | Retinol-binding protein | 21,200 |
+| Uracil | 112 | Spermidine | 145 | **Other** | 23,750 |
+| Uric acid | 168 | Spermine | 202 | Complement factor D | |
+| Xanthine | 152 | | | | |
+| **Pyrimidines** | | **Other** | | | |
+| Orotic acid | 174 | Homocysteine | 135 | | |
+| Thymine | 126 | | | | |
+| Uridine | 244 | | | | |
+| **Ribonucleosides** | | | | | |
+| 1-Methyladenosine | 281 | | | | |
+| Pseudouridine | 244 | | | | |
+| Xanthosine | 284 | | | | |
+| **Other** | | | | | |
+| Malondialdehyde | 71 | | | | |
+| Oxalate | 90 | | | | |
+| Urea | 60 | | | | |
+*ADMA, Asymmetric dimethylarginine; AGEs, advanced glycation end-products; ANP, atrial natriuretic peptide; MW, molecular weight; PTH, parathyroid hormone.*
+

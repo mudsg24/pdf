@@ -1,0 +1,30 @@
+| Regimen | Induction | CNI Dose or Trough Level Goal (ng/mL) | Antiproliferative Dose or Trough Level Goal | Acute Rejection at 6 Months (%) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Low Immunologic Risk** | | | | |
+| CsA/AZA/Pred | | 4 mg/kg/d | 1.5-2 mg/kg/day | 36 |
+| CsA/AZA/Pred | IL-2ra | Not stated | Not stated | 22 |
+| CsA/MMF/Pred | | 150-300 × 3 mo, 100-200 | 1 g bid | 24 |
+| CsA/MMF/Pred | IL-2ra | 125-400 × 3 mo, 100-300 | 1 g bid | 12 |
+| TAC/AZA/Pred | OKT3 or Atgam | 5-14 | 1.5 mg/kg/day | 32 |
+| TAC/MMF/Pred | OKT3 or Atgam | 5-14 | 1 g bid | 7 |
+| TAC/MMF/Pred | IL-2ra | 7-16 × 3 mo, 5-15 | 1 g bid | 4 |
+| CsA/SRL/Pred | | 200-350 × 1 mo, 200-300 × 1 mo, 150-250 | 2 mg/day | 17 |
+| TAC/SRL/Pred | | 8-16 × 3 mo, 5-15 | 4-12 ng/mL | 13 |
+| **High Immunologic Risk** | | | | |
+| CsA/SRL/Pred | IL-2ra or rATG | 200-300 0-14 days 150-200 | 10-15 ng/mL | 14a |
+| TAC/SRL/Pred | IL-2ra or rATG | 10-15 0-14 days 5-10 | 10-15 ng/mL | 17 |
+| **Drug Minimization or Avoidance** | | | | |
+| CsA (low)/MMF/Pred | IL-2ra | 50-100 | 1 g bid | 23 |
+| **TAC (low)/MMF/Pred** | **IL-2ra** | **3-7** | **1 g bid** | **12** |
+| **TAC/MMF** | **IL-2ra or rATG** | **10-20 × 3 mo, 5-15** | **1.5 g bid × 14 days 1 g bid** | **9** |
+| SRL/MMF/Pred | IL-2ra | N/A | SRL 4-8 ng/mL MMF 1 g bid | 38 |
+| Bela/MMF/Pred | IL-2ra | N/A | 1 g bid | 22 (MI) 17 (LI)a |
+| CNI → SRL/MMF/Pred | IL-2ra or rATG or OKT3 | N/A | SRL 5-10 ng/mL MMF 1-1.5g bid | 7.4a |
+| CSA → EVL/MMF/Pred | IL-2ra | N/A | EVL 6-10ng/mL MMF 1 g bid | 15a |
+| **TAC (low)/EVL/Pred** | **IL-2ra or rATG** | **Month 0-2; 3-6; >6: TAC 4-7; 2-5; 2-4** | **EVL 3-8 ng/mL** | **10a** |
+| Bela/MMF | Anti-CD52 or rATG | N/A | MMF 1 g bid | 16a (anti-CD52); 22a (rATG) |
+
+Bold denotes suggested regimens by the authors based on available data.
+aAcute rejection rate at 12 months.
+AZA, azathioprine; Bela, belatacept; bid, twice daily; CNI, calcineurin inhibitor; CsA, cyclosporine A; EVL, everolimus; IL-2ra, interleukin-2 receptor antibody; LI, less intensive; MI, more intensive; MMF, mycophenolate mofetil; N/A, not applicable; Pred, prednisone; rATG, rabbit antithymocyte globulin; SRL, sirolimus; TAC, tacrolimus.
+

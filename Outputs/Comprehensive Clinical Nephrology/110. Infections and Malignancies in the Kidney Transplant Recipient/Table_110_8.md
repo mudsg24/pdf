@@ -1,0 +1,8 @@
+| PTLD Subtypes | EBV Association | Onset After Transplant |
+| :--- | :--- | :--- |
+| Early lesions | Almost 100% EBV positive | Most early PTLD |
+| Polymorphic PTLD | >90% EBV positive | Variable |
+| Monomorphic PTLD | Both EBV positive and EBV negative | • EBV positive: most occur within the first 3 years after transplant<br>• EBV negative: late occurring PTLD (>5 years after transplant) |
+| Hodgkin lymphoma-like PTLD | >90% | |
+
+EBV, Epstein-Barr virus; PTLD, posttransplantation lymphoproliferative disorder.

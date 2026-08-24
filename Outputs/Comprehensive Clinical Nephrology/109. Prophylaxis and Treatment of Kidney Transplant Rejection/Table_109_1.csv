@@ -1,0 +1,5 @@
+Agent,Target,Dose (Induction),Dose (Rejection)
+Methylprednisolone,"B cells, T-cells, macrophages","250-500 mg IV with induction therapy, followed by taper over 1-5 days",3-5 mg/kg (250-500 mg) IV × 3-5 days
+Basiliximab,IL-2 receptors on cells,20 mg IV × 2 on days 0 and 4,N/A
+rATG,T-cell surface antigens,1-1.5 mg/kg IV × 4-14 days,1-1.5mg/kg IV × 7-14 days
+Alemtuzumab,CD52 on T and B cells,30-60 mg × 1 or 2 on days 0 and 2,Same as induction

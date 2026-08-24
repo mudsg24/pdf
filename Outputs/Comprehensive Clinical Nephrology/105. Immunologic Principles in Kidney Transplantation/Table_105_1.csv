@@ -1,0 +1,12 @@
+Cytokine,Source,Biologic Activity
+IL-1,"Macrophages, DCs, ECs, NK cells","Proinflammatory, adhesion molecule expression on ECs, NK cell function"
+IL-2,Activated T cells,"T-cell proliferation, CTL and NK cell function, Treg maintenance, immunoglobulin production by B cells, AICD of activated T cells"
+IL-4,Activated T cells,"Activated T and B cell proliferation, Th2 differentiation, allergic responses, MHC II upregulation on B cells"
+IL-6,"T cells, macrophages, ECs","Proinflammatory and anti-inflammatory, acute-phase responses"
+IL-10,"T cells, Tregs, Bregs, macrophages, DCs","Anti-inflammatory, suppression of APC function, NK cell inhibition"
+IL-12,"Macrophages, DCs","Proinflammatory, Th1 differentiation, NK cell and CTL activity, IFN-γ and TNF-α production by NK and T cells"
+IL-15,"Epithelial cells, stromal cells, macrophages","NK cell proliferation, T-cell proliferation, memory T-cell survival"
+IL-17,T cells,"Proinflammatory and allergic responses, Th17 function, cytokine production from many cell types"
+IFN-γ,"Activated Th1 cells, CTLs, DCs, NK cells","MHC expression by EC, macrophage function, Th1 differentiation, Th2 suppression, adhesion and binding of T cells to ECs, NK cell activity"
+TGF-β,"T and B cells, Tregs, Bregs, macrophages, platelets","Anti-inflammatory, wound healing, fibrosis"
+TNF-α,"Macrophages, T and B cells, ECs, NK cells","Proinflammatory, acute phase responses, cytotoxicity"

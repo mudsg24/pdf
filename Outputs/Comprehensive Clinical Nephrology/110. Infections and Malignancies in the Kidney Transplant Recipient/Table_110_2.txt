@@ -1,0 +1,4 @@
+TABLE 110.2 Timetable of Infections
+aAll patients should receive antiviral therapy after transplantation. Transplant candidates with active HBV replication (i.e., detectable HBV DNA) should start therapy pretransplant.
+bIn patients with HBV and HCV coinfection, HBV antiviral prophylaxis should be considered prior to DAA therapy because HBV reactivation can occur as a consequence of DAA therapy. Patients with evidence of resolved infection (hepatitis B core antibody positive) should be monitored for HBV reactivation with serial HBV DNA and liver function tests during DAA therapy.
+CMV, Cytomegalovirus; DAA, direct-acting antiviral agent; EBV, Epstein-Barr virus; GI, gastrointestinal; HBeAG, hepatitis B e-antigen; HBsAG, hepatitis B surface antigen; HBV, hepatitis B virus; HCV, hepatitis C virus; HHV, human herpesvirus; HSV, herpes simplex virus; PTLD, posttransplant lymphoproliferative disease; RSV, respiratory syncytial virus; VZV, varicella zoster virus.

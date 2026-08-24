@@ -1,0 +1,13 @@
+Agent,Preferred Modality,"Other, Acceptable Modalities"
+Acetaminophen,IHD,"IHP, CKRT, Ex"
+Long-acting barbiturates,IHD,"HP, CKRT"
+Carbamazepine,IHD,"IHP, CKRT"
+Ethylene glycol,IHD,CKRT
+Lithium,IHD,CKRTa
+Metformin,IHD,CKRTa
+Methanol,IHD,CKRT
+Phenytoin,IHD,IHP
+Salicylates,IHD,"IHP, CKRT, Ex"
+Thallium,IHD,"IHP, CKRT"
+Theophylline,IHD,"HP, CKRT, Ex"
+Valproate,IHD,"IHP, CKRT"

@@ -1,0 +1,15 @@
+| Component | CONCENTRATION | |
+| :--- | :--- | :--- |
+| | **Range** | **Typical** |
+| **Electrolytes (mmol/L)** | | |
+| Sodium | 135-145 | 138 |
+| Potassium | 1.0-4.0 | 2.0 |
+| Calcium | 1.0-1.75 | 1.25 |
+| Magnesium | 0.5-1.0 | 0.75 |
+| Chloride | 87-124 | 105 |
+| **Buffers (mmol/L)** | | |
+| Acetate | 2-4 | 3 |
+| Bicarbonate | 20-40 | 35 |
+| pH | 7.1-7.3 | 7.2 |
+| Pco2 (mm Hg) | 40-100 | |
+| Glucose | 0-11 (0-200 mg/dL) | 5.5 (100 mg/dL) |

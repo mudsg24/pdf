@@ -1,0 +1,14 @@
+Vaccine,Inactivated (I) Virus or Live Attenuated (LA) Virus,Before Transplant,After Transplant (>3-6 Mo Posttransplant),Comments
+MMR,LA,Yes,Contraindicated,Presence of measles antibody can be assessed to determine need for vaccination or revaccination prior to transplantation
+DPT,I,Yes,See comments,Diphtheria and tetanus: booster every 10 yr
+Herpes zoster (Shingrix),I,Yes,Yes,Indicated for age≥ 50 yr
+Poliovirus,I,Yes,Yes,"For travelers to endemic areas (e.g., some parts of Asia, Africa)"
+Haemophilus influenza type b,I,Yes,Yes,"Indicated for patients with sickle cell disease, complement deficiency, or those who had a splenectomy"
+Influenza A and Ba,I,Yes,Yes,Annuallyᵇ. All patients who are >3 mo posttransplant should receive influenza vaccine. May be administered in the immediate posttransplant period during an outbreak
+Hepatitis A,I,Yes,Yes,Recommended posttransplant if not administered pretransplant. For travelers to endemic areas
+"Hepatitis B (Heplisav, Engerix)",I,Yes,Yes,Recommended posttransplant if not administered pretransplant. Monitor titers for response. Repeat series if needed
+PCV20 (Prevnar),I,Yes,Yes,"If possible, PCV13 should be administered before PPSV23For adults who have not previously received PPSV23, administer PCV13, followed by PPSV23 at least 8 wk later"
+PPSV23 (Pneumovax),I,Yes,Yes,"For adults who just received PPSV23 but have not received PCVI3, wait 12 mo before administering PCV13. Adults <65 years who are high risk should receive 2 doses of PPSV23 5 yr apart (but no sooner than 8 wk after PCV13), with a third dose after they turn age 65 yr"
+HPV,I,Yes,Yes,"Nonpregnant female candidates ages 11-26 yr, males ages 11-21 yr"
+Neisseria meningitidis (both quadrivalent and group B vaccines),I,Yes,Yes,"Recommended for patients with properdin terminal component deficiencies or receiving eculizumab therapy, or those with functional or anatomic asplenia. Others: military members travelers to high-risk areas, college freshmen living on campus"
+COVID-19,"Vaccine typeᶜ: mRNA, Replication defective adenovirus vectorᵈ",Yes,Yes,Preexposure prophylaxis with tixagevimab plus cilgavimab is recommended for all immunosuppressed kidney transplant recipients unless contraindicated (must complete primary vaccine series). Monovalent vaccines protect against the original SARS-CoV-2 whereas bivalent vaccines protect against both the original and the Omicron variants BA.4 and BA.5 (should be administered at least 2 months after completion of the primary series)

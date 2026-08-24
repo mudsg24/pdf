@@ -1,0 +1,10 @@
+| Diagnosis | Frequency and Timing | Clinical Features | Laboratory Features | Biopsy Features | Management |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Recurrent glomerulonephritis | Common; variable timing, days to years | Proteinuria, hematuria, kidney impairment, hypertension | Similar to primary glomerulonephritis; serology may be negative | Same as primary glomerulonephritis | Disease specific |
+| De novo glomerulonephritis | Uncommon; variable timing but typically later than recurrence | Proteinuria, hematuria, kidney impairment | Type specific | Type specific | Antiprogression strategies (see Chapter 82) |
+| Chronic rejection | Very common; increasing incidence with time | Hypertension, proteinuria, kidney impairment Calcineurin inhibitor exposure | | Tubulointerstitial fibrosis, arteriolar hyalinosis, transplant glomerulopathy | Minimize calcineurin inhibitor and antiprogression strategies (see Chapter 82) |
+| Graft pyelonephritis | Uncommon; typically early after transplantation | Fever, pyuria, kidney impairment | Positive blood or urine cultures | Neutrophil infiltration | Antibiotics |
+| BK nephropathy | Uncommon; typically 1-5 y after transplantation | Kidney impairment, decoy cells in urine | Serum BK PCR positive | Tubulitis with tubular cell atypia and inclusions, normal glomeruli | Minimize immunosuppression and consider antiviral drugs |
+| Acute rejection | Common; early | Kidney impairment, oliguria | Nonspecific | Tubulitis with or without vasculitis | Increase immunosuppression |
+| Kidney tumor/PTLD | Uncommon, rare; early or late | Kidney impairment, kidney mass | Anemia, EBV positive | Atypical cells, mitoses, monoclonality | Minimize immunosuppression, consider chemotherapy |
+EBV, Epstein-Barr virus; PCR, polymerase chain reaction; PTLD, posttransplantation lymphoproliferative disease.

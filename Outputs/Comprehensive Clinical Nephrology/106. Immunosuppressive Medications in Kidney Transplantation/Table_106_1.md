@@ -1,0 +1,11 @@
+| | Cyclosporine | Tacrolimus | Mycophenolate | Azathioprine | Corticosteroids | mTOR Inhibitors | Leflunomide |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Kidney** | Nephrotoxicity, type 4 RTA, HTN, diuretic resistance, hyperkalemia, hypomagnesemia, hypophosphatemia | Nephrotoxicity, type 4 RTA, HTN, diuretic resistance, hyperkalemia, hypomagnesemia, hypophosphatemia | | | HTN, hypokalemia, diuretic resistance | Synergistic nephrotoxicity with CNIs, delayed recovery from ATN, proteinuria, hypokalemia, HTN | |
+| **Gastrointestinal** | | Diarrhea, abdominal pain | Diarrhea, nausea and vomiting, gastritis, esophagitis, oral and colonic ulcers | Nausea and vomiting, hepatotoxicity, pancreatitis | Peptic ulcers, gastritis, esophagitis, diarrhea, colonic perforation | Diarrhea | Nausea, diarrhea, hepatitis |
+| **Hematologic** | Thrombotic microangiopathy | Thrombotic microangiopathy | Anemia, leukopenia, thrombocytopenia | Anemia, leukopenia, thrombocytopenia | Leukocytosis, polycythemia | Thrombotic microangiopathy, anemia, thrombocytopenia | Anemia, leukopenia |
+| **Metabolic** | Hyperlipidemia, hyperuricemia, gout, glucose intolerance | New-onset diabetes | | | Hyperlipidemia, hyperuricemia, hyperglycemia, osteoporosis, avascular necrosis, increased appetite and weight gain | Hyperlipidemia | |
+| **Dermatologic** | Gingival hyperplasia, coarsened facial features | Alopecia | | | Hirsutism, acne, cushingoid facies, buffalo hump | Impaired wound healing, oral ulcers | Alopecia, rash |
+| **Neurologic** | Encephalopathy, insomnia, myopathy, tremors | Encephalopathy, insomnia, myopathy, tremors | Progressive multifocal leukoencephalopathy | | Psychosis, insomnia, myopathy | Reflex sympathetic dystrophy | |
+| **Other** | Edema | Myocardial hypertrophy | Viral infections, pulmonary edema in elderly | | Cataracts | Lymphocele, interstitial pneumonitis, rash, edema | |
+
+ATN, Acute tubular necrosis; CNIs, calcineurin inhibitors; HTN, hypertension; mTOR, mammalian target of rapamycin; RTA, renal tubular acidosis.

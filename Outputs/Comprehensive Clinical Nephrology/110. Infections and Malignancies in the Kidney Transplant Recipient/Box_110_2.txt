@@ -1,0 +1,7 @@
+BOX 110.2 Suggested CMV Prophylaxis and Preemptive Protocol
+aValganciclovir, ganciclovir, acyclovir, valacyclovir, famciclovir: dose adjustment for renal function necessary.
+bAt the authors’ institution, 6 months of valganciclovir prophylaxis is recommended for high risk (D+/R−) transplant recipients regardless of induction therapy.
+cAt the authors’ institution, because of the increased incidence of delayed CMV DNAemia in high-risk (D+/R−) transplant recipients, preemptive CMV surveillance is routinely performed after completion of prophylaxis therapy as follows: following discontinuation of CMV prophylaxis, CMV DNA is monitored biweekly for 2 months. If after 2 months postmedication discontinuation, the patient is found to be CMV negative, CMV DNA testing is performed monthly until 1 year posttransplant.
+dMay use acyclovir, famciclovir, or valacyclovir (center dependent).
+eIf logistic support is available.
+CMV, Cytomegalovirus; D+, donor CMV seropositive; D−, donor CMV seronegative; IV, intravenous; PO, orally; R+, recipient CMV seropositive; R−, recipient CMV seronegative.

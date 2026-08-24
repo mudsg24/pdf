@@ -1,0 +1,6 @@
+Formula,Result,Comment
+URR = (1 – Ct/C0) × 100%,67%,"Urea rebound, urea generation, and ultrafiltration not taken into account"
+Kt/V = ln(C0/Ct),1.10,"Urea rebound, urea generation, and ultrafiltration not taken into account"
+spKt/V = –ln(R – 0.008 × t) + (4 – 3.5R) × UF/W,1.33,Single-pool model; urea rebound not taken into account
+eKt/V = spKt/V – 0.6 × spKt/V/t + 0.03,1.16,"Double-pool model for arteriovenous access, including urea rebound"
+eKt/V = spKt/V – 0.47 × spKt/V/t + 0.02,1.20,"Double-pool model for central venous access, including urea rebound"

@@ -1,0 +1,1 @@
+Fig. 106.2 Drug Levels During a Dosing Interval Using Either Immediate- or Extended-Release Tacrolimus. The drug concentration is lowest just before the dose is taken (C0), then rises to a peak concentration at a certain time after the dose (Cmax). The area under the concentration-time curve (AUC) describes total drug exposure during the entire administration interval.
